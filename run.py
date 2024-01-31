@@ -6,13 +6,11 @@
 # - COMPLETED - note type 2 templates
 #   - COMPLETED - move templates to seperate file
 # - COMPLETED known words csv and tsv
-# - Combine HSK 1-6 into one dataframe
-# - Create Set of HSK words that have all known removed
-# 
-# 
-# 
-#
-#
+# - COMPLETED Combine HSK 1-6 into one dataframe
+# - COMPLETED Create Set of HSK words that have all known removed
+# - Move the combine hsk to its own files
+# - Get all feilds for each card
+#       - Gen sentences with that py
 #
 #
 #################################################
@@ -25,12 +23,11 @@ import os
 csv_file_path = 'Data\\known.csv'
 
 # Read the CSV file into a Pandas DataFrame
-df = pd.read_csv(csv_file_path)
+known_df = pd.read_csv(csv_file_path)
 
 # Display the DataFrame
-print(df.head())
+print(known_df.head())
 
-"""
 # Specify the path to the folder containing CSV files
 folder_path = 'hsk_csv-master'
 
@@ -38,7 +35,7 @@ folder_path = 'hsk_csv-master'
 csv_files = [file for file in os.listdir(folder_path) if file.endswith('.csv')]
 
 # Initialize an empty DataFrame to store the combined data
-combined_df = pd.DataFrame()
+hsk_df = pd.DataFrame()
 
 # Loop through each CSV file and append its data to the combined DataFrame
 for csv_file in csv_files:
@@ -46,11 +43,13 @@ for csv_file in csv_files:
     csv_file_path = os.path.join(folder_path, csv_file)
 
     # Read the CSV file into a DataFrame
-    current_df = pd.read_csv(csv_file_path)
+    df = pd.read_csv(csv_file_path, header=None)
+    
+    # Concatenate the current DataFrame with the combined DataFrame
+    hsk_df = pd.concat([hsk_df, df], ignore_index=True)
 
-    # Append the current DataFrame to the combined DataFrame
-    combined_df = pd.concat([combined_df, current_df], ignore_index=True)
+print(hsk_df.iloc[:,0])
 
-# Display the combined DataFrame
-print(combined_df)
-"""
+unknown_words = hsk_df[~hsk_df.iloc[:,0].isin(known_df.iloc[:,0])]
+
+print(unknown_words.head())
