@@ -25,9 +25,31 @@ import note_templates
 import get_unknown
 import pandas as pd
 import genanki
+import csv
+import os
+import subprocess
+import sys
+import get_sentence
 
 known_csv_path = 'Data\\known.csv'
 folder_path = 'hsk_csv-master'
+new_cwd = 'chinese-sentence-miner-master'
+mined_sentences_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\chinese-sentence-miner-master\test.txt'
+
+import io
+
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
+
+def convert_csv_to_tsv(csv_file, tsv_file, encoding='utf-8'):
+    with open(csv_file, 'r', encoding=encoding) as csv_in, open(tsv_file, 'w', newline='', encoding=encoding) as tsv_out:
+        csv_reader = csv.reader(csv_in)
+        tsv_writer = csv.writer(tsv_out, delimiter='\t')
+
+        for row in csv_reader:
+            tsv_writer.writerow(row)
+
+convert_csv_to_tsv(known_csv_path, 'Data\\known.tsv')
 
 unknown_words_result = get_unknown.process_data(known_csv_path, folder_path)
   
@@ -77,6 +99,10 @@ model_main_card = genanki.Model(
 )
 
 for index, row in words_to_add.iterrows():
+    sentences = get_sentence.get_sentence(row[0],new_cwd,mined_sentences_path)
+    print(sentences)
+
+    breakpoint()
 
     # Add a note to the deck
     vocab_note = genanki.Note(
