@@ -2,14 +2,7 @@
 # Chinese card gen 2
 #
 # TODO
-# 1/30/24
-# - COMPLETED - note type 2 templates
-#   - COMPLETED - move templates to seperate file
-# - COMPLETED known words csv and tsv
-# - COMPLETED Combine HSK 1-6 into one dataframe
-# - COMPLETED Create Set of HSK words that have all known removed
-# 2/1/24
-# - COMPLETTD Move the combine hsk to its own files
+#
 # - COMPLETED Get all feilds for each card
 #       - Gen sentences with that py
 #       - gen recording of word/sentneces
@@ -18,28 +11,24 @@
 #           - make sentence listening cards in main
 #       - convert to trad char
 #
+# - Determine why get_sentence returning different
+#
 #
 #################################################
 
 import note_templates
 import get_unknown
+import convert_to_trad
 import pandas as pd
 import genanki
 import csv
-import os
-import subprocess
-import sys
 import get_sentence
+import re
 
 known_csv_path = 'Data\\known.csv'
 folder_path = 'hsk_csv-master'
 new_cwd = 'chinese-sentence-miner-master'
 mined_sentences_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\chinese-sentence-miner-master\test.txt'
-
-import io
-
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-
 
 def convert_csv_to_tsv(csv_file, tsv_file, encoding='utf-8'):
     with open(csv_file, 'r', encoding=encoding) as csv_in, open(tsv_file, 'w', newline='', encoding=encoding) as tsv_out:
@@ -48,6 +37,21 @@ def convert_csv_to_tsv(csv_file, tsv_file, encoding='utf-8'):
 
         for row in csv_reader:
             tsv_writer.writerow(row)
+
+from gtts import gTTS
+import os
+
+def text_to_mp3(text, language='zh'):
+    """
+    Convert text to MP3 using gTTS.
+
+    :param text: Text to be converted to speech
+    :param language: Language code (default is 'zh' for Chinese)
+    :param output_file: Output file name (default is 'output.mp3')
+    """
+    tts = gTTS(text=text, lang=language, slow=False)
+    tts.save(f"{text}.mp3")
+
 
 convert_csv_to_tsv(known_csv_path, 'Data\\known.tsv')
 
@@ -99,16 +103,33 @@ model_main_card = genanki.Model(
 )
 
 for index, row in words_to_add.iterrows():
-    sentences = get_sentence.get_sentence(row[0],new_cwd,mined_sentences_path)
-    print(sentences)
+    print(row)
 
-    breakpoint()
+    text_to_mp3(row[0])
+
+    sentences = get_sentence.get_sentence(row[0],new_cwd,mined_sentences_path)
+
+    c1_note = genanki.Note(
+        model=genanki.CLOZE_MODEL,
+        fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[0].split(",")[0]), f'{row[0]}']
+    )
+
+    text_to_mp3(sentences.split("\n")[0].split(",")[0])
+    
+    c2_note = genanki.Note(
+        model=genanki.CLOZE_MODEL,
+        fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[1].split(",")[0]), f'{row[0]}']
+    )
+
+    text_to_mp3(sentences.split("\n")[1].split(",")[0])
 
     # Add a note to the deck
     vocab_note = genanki.Note(
         model=model_main_card,
         fields=[
             row[0],
+            convert_to_trad.convert_to_trad(row[0]),
+            row[1],
             '',
             '',
             '',
@@ -129,9 +150,7 @@ for index, row in words_to_add.iterrows():
             '',
             '',
             '',
-            '',
-            '',
-            '',
+            row[0],
             '',
             '',
             '',
@@ -139,19 +158,11 @@ for index, row in words_to_add.iterrows():
         ],
     )
 
-    c1_note = genanki.Note(
-        model=genanki.CLOZE_MODEL,
-        fields=['{{c1::Rome}} tal of', f'{row[0]}']
-    )
-    
-    c2_note = genanki.Note(
-        model=genanki.CLOZE_MODEL,
-        fields=['{{c1::Rme}} is the capital of', f'{row[0]}']
-    )
-
     my_deck.add_note(vocab_note)
     my_deck.add_note(c1_note)
     my_deck.add_note(c2_note)
+
+    break
 
 # Save the deck to a file
 genanki.Package(my_deck).write_to_file('to_add.apkg')
