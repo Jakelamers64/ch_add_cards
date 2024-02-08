@@ -24,6 +24,8 @@ import genanki
 import csv
 import get_sentence
 import re
+import os
+from gtts import gTTS
 
 known_csv_path = 'Data\\known.csv'
 folder_path = 'hsk_csv-master'
@@ -38,9 +40,6 @@ def convert_csv_to_tsv(csv_file, tsv_file, encoding='utf-8'):
         for row in csv_reader:
             tsv_writer.writerow(row)
 
-from gtts import gTTS
-import os
-
 def text_to_mp3(text, language='zh'):
     """
     Convert text to MP3 using gTTS.
@@ -52,6 +51,7 @@ def text_to_mp3(text, language='zh'):
     tts = gTTS(text=text, lang=language, slow=False)
     tts.save(f"{text}.mp3")
 
+    return f"{text}.mp3"
 
 convert_csv_to_tsv(known_csv_path, 'Data\\known.tsv')
 
@@ -64,6 +64,8 @@ my_deck = genanki.Deck(
     124475623456289475,  # Unique ID for the deck, change this to a different number
     'To Add',
 )
+
+my_deck.media_files = []
 
 # Main vocab card
 model_main_card = genanki.Model(
@@ -102,26 +104,26 @@ model_main_card = genanki.Model(
     templates=note_templates.note_1_templates   
 )
 
+media = list()
+
 for index, row in words_to_add.iterrows():
-    print(row)
-
-    text_to_mp3(row[0])
-
     sentences = get_sentence.get_sentence(row[0],new_cwd,mined_sentences_path)
+
+    media.append(os.path.abspath(text_to_mp3(row[0])))
+
+    media.append(os.path.abspath(text_to_mp3(sentences.split("\n")[0].split(",")[0])))
+
+    media.append(os.path.abspath(text_to_mp3(sentences.split("\n")[1].split(",")[0])))
 
     c1_note = genanki.Note(
         model=genanki.CLOZE_MODEL,
-        fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[0].split(",")[0]), f'{row[0]}']
+        fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[0].split(",")[0]), f"[sound:{media[1]}]"]
     )
 
-    text_to_mp3(sentences.split("\n")[0].split(",")[0])
-    
     c2_note = genanki.Note(
         model=genanki.CLOZE_MODEL,
-        fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[1].split(",")[0]), f'{row[0]}']
+        fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[1].split(",")[0]), f"[sound:{media[2]}]"]
     )
-
-    text_to_mp3(sentences.split("\n")[1].split(",")[0])
 
     # Add a note to the deck
     vocab_note = genanki.Note(
@@ -130,6 +132,18 @@ for index, row in words_to_add.iterrows():
             row[0],
             convert_to_trad.convert_to_trad(row[0]),
             row[1],
+            f'[sound:{media[0]}]',
+            '',
+            '',
+            '',
+            '',
+            '',
+            f"[sound:{media[1]}]",
+            '',
+            '',
+            '',
+            '',
+            f"[sound:{media[2]}]",
             '',
             '',
             '',
@@ -138,19 +152,7 @@ for index, row in words_to_add.iterrows():
             '',
             '',
             '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            row[0],
+            row[2],
             '',
             '',
             '',
@@ -164,5 +166,10 @@ for index, row in words_to_add.iterrows():
 
     break
 
-# Save the deck to a file
-genanki.Package(my_deck).write_to_file('to_add.apkg')
+print(my_deck.media_files)
+
+my_deck.media_files = media
+
+print(my_deck.media_files)
+
+my_deck.write_to_file('to_add.apkg')
