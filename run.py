@@ -25,7 +25,10 @@ import csv
 import get_sentence
 import re
 import os
+import requests
+
 from gtts import gTTS
+from bing_image_downloader import downloader
 
 known_csv_path = 'Data\\known.csv'
 folder_path = 'hsk_csv-master'
@@ -107,9 +110,30 @@ model_main_card = genanki.Model(
 media = list()
 
 for index, row in words_to_add.iterrows():
+    # Set the number of images to download
+    num_images_to_download = 3
+
     sentences = get_sentence.get_sentence(row[0],new_cwd,mined_sentences_path)
 
+    # Media for word
     media.append(os.path.abspath(text_to_mp3(row[0])))
+
+    downloader.download(
+        row[0], 
+        limit=num_images_to_download, 
+        output_dir='Images',
+        adult_filter_off=True, 
+        force_replace=False, 
+        timeout=60
+    )
+
+    word_image_paths = [
+        os.path.abspath(f'Images\\{row[0]}\\Image_1.jpg'),
+        os.path.abspath(f'Images\\{row[0]}\\Image_2.jpg'),
+        os.path.abspath(f'Images\\{row[0]}\\Image_3.jpg'),
+    ]
+
+    [media.append(i) for i in word_image_paths]
 
     media.append(os.path.abspath(text_to_mp3(sentences.split("\n")[0].split(",")[0])))
 
@@ -125,6 +149,8 @@ for index, row in words_to_add.iterrows():
         fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[1].split(",")[0]), f"[sound:{media[2]}]"]
     )
 
+    print(f'<img src="{word_image_paths[0]}"><img src="{word_image_paths[1]}"><img src="{word_image_paths[2]}">')
+
     # Add a note to the deck
     vocab_note = genanki.Note(
         model=model_main_card,
@@ -133,7 +159,7 @@ for index, row in words_to_add.iterrows():
             convert_to_trad.convert_to_trad(row[0]),
             row[1],
             f'[sound:{media[0]}]',
-            '',
+            f'<img src="Image_1.jpg"><img src="Image_2.jpg"><img src="Image_3.jpg">',
             '',
             '',
             '',
