@@ -34,6 +34,7 @@ known_csv_path = 'Data\\known.csv'
 folder_path = 'hsk_csv-master'
 new_cwd = 'chinese-sentence-miner-master'
 mined_sentences_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\chinese-sentence-miner-master\test.txt'
+img_output_dir = r'C:\Users\jakel\Desktop\Code\ch_add_cards\Images'
 
 def convert_csv_to_tsv(csv_file, tsv_file, encoding='utf-8'):
     with open(csv_file, 'r', encoding=encoding) as csv_in, open(tsv_file, 'w', newline='', encoding=encoding) as tsv_out:
@@ -115,25 +116,25 @@ for index, row in words_to_add.iterrows():
 
     sentences = get_sentence.get_sentence(row[0],new_cwd,mined_sentences_path)
 
-    # Media for word
+    # sound for word
     media.append(os.path.abspath(text_to_mp3(row[0])))
 
     downloader.download(
         row[0], 
         limit=num_images_to_download, 
-        output_dir='Images',
+        output_dir=img_output_dir,
         adult_filter_off=True, 
         force_replace=False, 
         timeout=60
     )
 
-    word_image_paths = [
-        os.path.abspath(f'Images\\{row[0]}\\Image_1.jpg'),
-        os.path.abspath(f'Images\\{row[0]}\\Image_2.jpg'),
-        os.path.abspath(f'Images\\{row[0]}\\Image_3.jpg'),
-    ]
-
-    [media.append(i) for i in word_image_paths]
+    for root, dirs, files in os.walk(img_output_dir):
+        for filename in files:
+            original_path = os.path.join(root, filename)
+            new_filename = f"{os.path.basename(root)}_{filename}"
+            new_path = os.path.join(root, new_filename)
+            os.rename(original_path, new_path)
+            media.append(rf"{new_path}")
 
     media.append(os.path.abspath(text_to_mp3(sentences.split("\n")[0].split(",")[0])))
 
@@ -141,15 +142,13 @@ for index, row in words_to_add.iterrows():
 
     c1_note = genanki.Note(
         model=genanki.CLOZE_MODEL,
-        fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[0].split(",")[0]), f"[sound:{media[1]}]"]
+        fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[0].split(",")[0]), f"[sound:{media[1]}]<img src='Image_2.jpg'>"]
     )
 
     c2_note = genanki.Note(
         model=genanki.CLOZE_MODEL,
         fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[1].split(",")[0]), f"[sound:{media[2]}]"]
     )
-
-    print(f'<img src="{word_image_paths[0]}"><img src="{word_image_paths[1]}"><img src="{word_image_paths[2]}">')
 
     # Add a note to the deck
     vocab_note = genanki.Note(
@@ -158,8 +157,8 @@ for index, row in words_to_add.iterrows():
             row[0],
             convert_to_trad.convert_to_trad(row[0]),
             row[1],
-            f'[sound:{media[0]}]',
-            f'<img src="Image_1.jpg"><img src="Image_2.jpg"><img src="Image_3.jpg">',
+            f'[sound:{os.path.abspath(f"{row[0]}.mp3")}]',
+            f'<img src="{row[0]}_Image_1.jpg" /> <img src="{row[0]}_Image_2.jpg" /> <img src="{row[0]}_Image_3.jpg" />',
             '',
             '',
             '',
