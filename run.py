@@ -3,16 +3,10 @@
 #
 # TODO
 #
-# - COMPLETED Get all feilds for each card
-#       - Gen sentences with that py
-#       - gen recording of word/sentneces
-#           - fix card so recording plays automatically
-#           - add recording to cloze
-#           - make sentence listening cards in main
-#       - convert to trad char
-#
-# - Determine why get_sentence returning different
-#
+# - Fix format of cloze deletion
+# - Add listening cards to main note
+# - Fix image sizes
+# - move gen note to its own file
 #
 #################################################
 
@@ -25,10 +19,14 @@ import csv
 import get_sentence
 import re
 import os
-import requests
+import csv
+import glob
+import shutil
 
 from gtts import gTTS
 from bing_image_downloader import downloader
+from PIL import Image
+from pathlib import Path
 
 known_csv_path = 'Data\\known.csv'
 folder_path = 'hsk_csv-master'
@@ -57,6 +55,60 @@ def text_to_mp3(text, language='zh'):
 
     return f"{text}.mp3"
 
+def char_to_write(word, 
+               path_to_known = "C:\\Users\\jakel\\Desktop\\Code\\ch_add_cards\\Data\\known.tsv", 
+               min_result_length = 4):
+    known_characters = set()
+
+    with open(path_to_known, 'r', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+            for char in row[0]:
+                known_characters.add(char)
+
+    result = []
+
+    for char in word:
+        if char in known_characters:
+            result.append('')
+        else:
+            result.append(word.replace(char,'__'))
+
+    while len(result) < min_result_length:
+        result.append('')
+
+    return result
+
+def at_least_two_chinese_sentences(input_string):
+    # Split the input string into sentences based on the comma separator
+    split_str = input_string.split(', ')
+
+    # Count the number of Chinese sentences
+    count_chinese_sentences = sum(1 for sentence in split_str if re.search(r'[\u4e00-\u9fff]', sentence))
+
+    # Return true if there are two or more Chinese sentences
+    return count_chinese_sentences >= 2
+
+def convert_and_rename(dir_name):
+    for root, dirs, files in os.walk(os.path.join(img_output_dir, dir_name)):
+        for filename in files:
+            original_path = os.path.join(root, filename)
+            new_filename = f"{os.path.basename(root)}_{filename}"
+            new_path = os.path.join(root, new_filename)
+            new_path = re.sub(r'\..*$', '.jpg', new_path)
+
+            try:
+                # Open the image file
+                with Image.open(original_path) as img:
+                     # Save the image as JPG with the .jpg file extension
+                    img.convert('RGB').save(new_path, 'JPEG')
+                print(f"Conversion successful: {original_path} -> {new_path}")
+            except Exception as e:
+                print(f"Error converting {original_path} to JPG: {e}")
+
+            #os.rename(original_path, new_path)
+            media.append(rf"{new_path}")
+
 convert_csv_to_tsv(known_csv_path, 'Data\\known.tsv')
 
 unknown_words_result = get_unknown.process_data(known_csv_path, folder_path)
@@ -68,8 +120,6 @@ my_deck = genanki.Deck(
     124475623456289475,  # Unique ID for the deck, change this to a different number
     'To Add',
 )
-
-my_deck.media_files = []
 
 # Main vocab card
 model_main_card = genanki.Model(
@@ -116,9 +166,16 @@ for index, row in words_to_add.iterrows():
 
     sentences = get_sentence.get_sentence(row[0],new_cwd,mined_sentences_path)
 
+    if not at_least_two_chinese_sentences(sentences):
+        print(f"You need to add sentences for {row[0]}\nEnd: {row[0]}\n")
+        continue
+
+    print(f"Start: {row[0]}\n{sentences}")
+
     # sound for word
     media.append(os.path.abspath(text_to_mp3(row[0])))
 
+    # Images for word
     downloader.download(
         row[0], 
         limit=num_images_to_download, 
@@ -128,13 +185,29 @@ for index, row in words_to_add.iterrows():
         timeout=60
     )
 
-    for root, dirs, files in os.walk(img_output_dir):
-        for filename in files:
-            original_path = os.path.join(root, filename)
-            new_filename = f"{os.path.basename(root)}_{filename}"
-            new_path = os.path.join(root, new_filename)
-            os.rename(original_path, new_path)
-            media.append(rf"{new_path}")
+    #Images for sentence 1
+    downloader.download(
+        sentences.split("\n")[0].split(",")[0], 
+        limit=num_images_to_download, 
+        output_dir=img_output_dir,
+        adult_filter_off=True, 
+        force_replace=False, 
+        timeout=60
+    )
+
+    #Images for sentence 2
+    downloader.download(
+        sentences.split("\n")[1].split(",")[0], 
+        limit=num_images_to_download, 
+        output_dir=img_output_dir,
+        adult_filter_off=True, 
+        force_replace=False, 
+        timeout=60
+    )
+
+    convert_and_rename(row[0])
+    convert_and_rename(sentences.split("\n")[0].split(",")[0])
+    convert_and_rename(sentences.split("\n")[1].split(",")[0])
 
     media.append(os.path.abspath(text_to_mp3(sentences.split("\n")[0].split(",")[0])))
 
@@ -150,6 +223,9 @@ for index, row in words_to_add.iterrows():
         fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[1].split(",")[0]), f"[sound:{media[2]}]"]
     )
 
+    simp_list = char_to_write(row[0])
+    trad_list = char_to_write(convert_to_trad.convert_to_trad(row[0]))
+
     # Add a note to the deck
     vocab_note = genanki.Note(
         model=model_main_card,
@@ -157,26 +233,26 @@ for index, row in words_to_add.iterrows():
             row[0],
             convert_to_trad.convert_to_trad(row[0]),
             row[1],
-            f'[sound:{os.path.abspath(f"{row[0]}.mp3")}]',
+            f'[sound:{row[0]}.mp3]',
             f'<img src="{row[0]}_Image_1.jpg" /> <img src="{row[0]}_Image_2.jpg" /> <img src="{row[0]}_Image_3.jpg" />',
-            '',
-            '',
-            '',
-            '',
-            f"[sound:{media[1]}]",
-            '',
-            '',
-            '',
-            '',
-            f"[sound:{media[2]}]",
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
+            convert_to_trad.convert_simplified_to_traditional(sentences.split("\n")[0].split(",")[0]),
+            sentences.split("\n")[0].split(",")[1],
+            sentences.split("\n")[0].split(",")[2],
+            f'<img src="{sentences.split("\n")[0].split(",")[0]}_Image_1.jpg" /> <img src="{sentences.split("\n")[0].split(",")[0]}_Image_2.jpg" /> <img src="{sentences.split("\n")[0].split(",")[0]}_Image_3.jpg" />',
+            f'[sound:{sentences.split("\n")[0].split(",")[0]}.mp3]',
+            convert_to_trad.convert_simplified_to_traditional(sentences.split("\n")[1].split(",")[0]),
+            sentences.split("\n")[1].split(",")[1],
+            sentences.split("\n")[1].split(",")[2],
+            f'<img src="{sentences.split("\n")[1].split(",")[0]}_Image_1.jpg" /> <img src="{sentences.split("\n")[1].split(",")[0]}_Image_2.jpg" /> <img src="{sentences.split("\n")[1].split(",")[0]}_Image_3.jpg" />',
+            f'[sound:{sentences.split("\n")[1].split(",")[0]}.mp3]',
+            simp_list[0],
+            simp_list[1],
+            simp_list[2],
+            simp_list[3],
+            trad_list[0],
+            trad_list[1],
+            trad_list[2],
+            trad_list[3],
             row[2],
             '',
             '',
@@ -189,12 +265,45 @@ for index, row in words_to_add.iterrows():
     my_deck.add_note(c1_note)
     my_deck.add_note(c2_note)
 
-    break
+    print(f"End: {row[0]}\n")
 
-print(my_deck.media_files)
+# create package
+my_package = genanki.Package(my_deck)
+my_package.media_files = media
 
-my_deck.media_files = media
+my_package.write_to_file('to_add.apkg')
 
-print(my_deck.media_files)
+# Get the current working directory
+cwd = os.getcwd()
 
-my_deck.write_to_file('to_add.apkg')
+# Use glob to find all files with the .mp3 extension in the current directory
+mp3_files = glob.glob(os.path.join(cwd, '*.mp3'))
+
+# Delete each .mp3 file
+for mp3_file in mp3_files:
+    try:
+        os.remove(mp3_file)
+        print(f"Deleted: {mp3_file}")
+    except Exception as e:
+        print(f"Error deleting {mp3_file}: {e}")
+
+def delete_all_folders(directory):
+    # Get a list of all directories in the specified directory
+    folders = [f for f in os.listdir(directory) if os.path.isdir(os.path.join(directory, f))]
+
+    # Delete each folder
+    for folder in folders:
+        dir_path = Path(directory) / folder
+
+        try:
+            shutil.rmtree(dir_path)
+            print(f"Directory '{dir_path}' deleted successfully.")
+        except OSError as e:
+            print(f"Error deleting directory '{dir_path}': {e}")
+
+# Specify the directory path (replace 'Images' with your actual directory)
+directory_path = 'Images'
+
+# Delete all folders in the specified directory
+delete_all_folders(directory_path)
+
