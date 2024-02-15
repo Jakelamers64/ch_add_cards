@@ -1,10 +1,11 @@
 #################################################
 # Chinese card gen 2
+# - Fix format of cloze deletion
 #
+# - Add listening cards to main note
 # TODO
 #
-# - Fix format of cloze deletion
-# - Add listening cards to main note
+# - check if new words added based on known.tsv
 # - Fix image sizes
 # - move gen note to its own file
 #
@@ -33,6 +34,24 @@ folder_path = 'hsk_csv-master'
 new_cwd = 'chinese-sentence-miner-master'
 mined_sentences_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\chinese-sentence-miner-master\test.txt'
 img_output_dir = r'C:\Users\jakel\Desktop\Code\ch_add_cards\Images'
+
+# File paths
+csv_file_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\Data\known.csv'
+tsv_file_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\Data\known.tsv'
+
+# Function to add row[0] as a newline
+def add_row_zero_as_newline(file_path, delimiter=','):
+    with open(file_path, 'r', newline='', encoding='utf-8') as file:
+        reader = csv.reader(file, delimiter=delimiter)
+        data = list(reader)
+
+    # Add row[0] as a newline
+    data.append([data[0][0]])
+
+    with open(file_path, 'w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file, delimiter=delimiter)
+        writer.writerows(data)
+
 
 def convert_csv_to_tsv(csv_file, tsv_file, encoding='utf-8'):
     with open(csv_file, 'r', encoding=encoding) as csv_in, open(tsv_file, 'w', newline='', encoding=encoding) as tsv_out:
@@ -213,18 +232,25 @@ for index, row in words_to_add.iterrows():
 
     media.append(os.path.abspath(text_to_mp3(sentences.split("\n")[1].split(",")[0])))
 
+    simp_list = char_to_write(row[0])
+    trad_list = char_to_write(convert_to_trad.convert_to_trad(row[0]))
+
     c1_note = genanki.Note(
         model=genanki.CLOZE_MODEL,
-        fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[0].split(",")[0]), f"[sound:{media[1]}]<img src='Image_2.jpg'>"]
+        fields=[
+            convert_to_trad.convert_simplified_to_traditional(re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[0].split(",")[0])), 
+            f"{row[0]}/{convert_to_trad.convert_to_trad(row[0])}<br>{convert_to_trad.convert_simplified_to_traditional(sentences.split('\n')[0].split(',')[0])}<br>{sentences.split('\n')[0].split(',')[1]}<br>{sentences.split('\n')[0].split(',')[2]}<br>[sound:{sentences.split('\n')[0].split(',')[0]}.mp3]<br><img src='{sentences.split('\n')[0].split(',')[0]}_Image_1.jpg' /> <img src='{sentences.split('\n')[0].split(',')[0]}_Image_2.jpg' /> <img src='{sentences.split('\n')[0].split(',')[0]}_Image_3.jpg' />"
+            ]
     )
 
     c2_note = genanki.Note(
         model=genanki.CLOZE_MODEL,
-        fields=[re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[1].split(",")[0]), f"[sound:{media[2]}]"]
+        fields=[
+            convert_to_trad.convert_simplified_to_traditional(re.sub(row[0],f"{{{{c1::{row[0]}}}}}",sentences.split("\n")[1].split(",")[0])), 
+            f"{row[0]}/{convert_to_trad.convert_to_trad(row[0])}<br>{convert_to_trad.convert_simplified_to_traditional(sentences.split('\n')[1].split(',')[0])}<br>{sentences.split('\n')[1].split(',')[1]}<br>{sentences.split('\n')[1].split(',')[2]}<br>[sound:{sentences.split('\n')[1].split(',')[0]}.mp3]<br><img src='{sentences.split('\n')[1].split(',')[0]}_Image_1.jpg' /> <img src='{sentences.split('\n')[1].split(',')[0]}_Image_2.jpg' /> <img src='{sentences.split('\n')[1].split(',')[0]}_Image_3.jpg' />"
+            ]
     )
 
-    simp_list = char_to_write(row[0])
-    trad_list = char_to_write(convert_to_trad.convert_to_trad(row[0]))
 
     # Add a note to the deck
     vocab_note = genanki.Note(
@@ -264,6 +290,12 @@ for index, row in words_to_add.iterrows():
     my_deck.add_note(vocab_note)
     my_deck.add_note(c1_note)
     my_deck.add_note(c2_note)
+
+    # Add row[0] as a newline to CSV file
+    add_row_zero_as_newline(csv_file_path)
+
+    # Add row[0] as a newline to TSV file
+    add_row_zero_as_newline(tsv_file_path, delimiter='\t')
 
     print(f"End: {row[0]}\n")
 

@@ -54,6 +54,16 @@ note_1_templates = [
       'qfmt': '{{#Mnemonic_Classifier}}What is this words classifier?<br><br>{{Picture}}<br>{{Simplified_Word}}/{{Traditional_Word}}{{/Mnemonic_Classifier}}',
       'afmt': '{{FrontSide}}<hr id=answer>{{Mnemonic_Classifier}}',
     },
+    {
+      'name': 'Listening 1',
+      'qfmt': '{{#Recording_of_sentence_1}}What is a scene where someone would say?<br>{{Recording_of_sentence_1}}{{/Recording_of_sentence_1}}',
+      'afmt': '{{FrontSide}}<hr id=answer>{{Sentence_1}}<br>{{Sentence_1_Pinyin}}<br>{{Sentence_1_translation}}<br>{{Picture_1}}',
+    },
+    {
+      'name': 'Listening 2',
+      'qfmt': '{{#Recording_of_sentence_2}}What is a scene where someone would say?<br>{{Recording_of_sentence_2}}{{/Recording_of_sentence_2}}',
+      'afmt': '{{FrontSide}}<hr id=answer>{{Sentence_2}}<br>{{Sentence_2_Pinyin}}<br>{{Sentence_2_translation}}<br>{{Picture_2}}',
+    },
 ]
 
 note_2_templates = [
