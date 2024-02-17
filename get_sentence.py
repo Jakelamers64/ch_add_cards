@@ -17,7 +17,8 @@ def get_sentence(word, new_cwd, mined_sentences_path):
         '-l', 'C:\\Users\\jakel\\Desktop\\Code\\ch_add_cards\\Data\\known.tsv',
         '--limit', '2',
         '-s', 'custom',
-        '-o', 'custom'
+        '-o', 'custom',
+        '--easy'
     ]
 
     try:

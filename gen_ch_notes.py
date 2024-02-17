@@ -86,7 +86,8 @@ def convert_and_rename(dir_name, media, img_output_dir = r'C:\Users\jakel\Deskto
                 # Open the image file
                 with Image.open(original_path) as img:
                     # Convert and save the image as JPG with the .jpg file extension
-                    img.convert('RGB').save(new_path, 'JPEG')
+                    rgb_im = img.convert('RGB')
+                    rgb_im.save(new_path, 'JPEG')
                     
                     # Resize the image to medium size and save with the same path
                     resized_img = img.resize(size)
@@ -123,17 +124,13 @@ def text_to_mp3(text, language='zh'):
     return f"{text}.mp3"
 
 # Function to add row[0] as a newline
-def add_row_zero_as_newline(file_path, delimiter=','):
-    with open(file_path, 'r', newline='', encoding='utf-8') as file:
-        reader = csv.reader(file, delimiter=delimiter)
-        data = list(reader)
-
-    # Add row[0] as a newline
-    data.append([data[0][0]])
-
-    with open(file_path, 'w', newline='', encoding='utf-8') as file:
+def add_row_zero_as_newline(word, file_path, delimiter=','):
+    with open(file_path, 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file, delimiter=delimiter)
-        writer.writerows(data)
+        if isinstance(word, str):
+            writer.writerow([word])
+        else:
+            print("Error: The provided word is not a string.")
 
 def gen_ch_notes(word,
                  word_pinyin,
@@ -144,7 +141,7 @@ def gen_ch_notes(word,
                  img_output_dir = r'C:\Users\jakel\Desktop\Code\ch_add_cards\Images',
                  csv_file_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\Data\known.csv',
                  tsv_file_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\Data\known.tsv',
-                 mined_sentences_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\chinese-sentence-miner-master\test.txt'):
+                 mined_sentences_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\chinese-sentence-miner-master\output.txt'):
     # Set the number of images to download
     num_images_to_download = 3
 
@@ -256,9 +253,15 @@ def gen_ch_notes(word,
     my_deck.add_note(c2_note)
 
     # Add word as a newline to CSV file
-    add_row_zero_as_newline(csv_file_path)
+    add_row_zero_as_newline(word, csv_file_path)
 
     # Add word as a newline to TSV file
-    add_row_zero_as_newline(tsv_file_path, delimiter='\t')
+    add_row_zero_as_newline(word, tsv_file_path, delimiter='\t')
+
+    # Add word as a newline to CSV file
+    add_row_zero_as_newline(convert_to_trad.convert_simplified_to_traditional(word), csv_file_path)
+
+    # Add word as a newline to TSV file
+    add_row_zero_as_newline(convert_to_trad.convert_simplified_to_traditional(word), tsv_file_path, delimiter='\t')
 
     print(f"End: {word}\n")

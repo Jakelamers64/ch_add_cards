@@ -238,7 +238,7 @@ def main():
             tuple_str = ', '.join(map(str, sentence))
 
             # Open the file in append mode and write the tuple as a row
-            with open('test.txt', 'a', encoding='utf-8') as file:
+            with open('output.txt', 'a', encoding='utf-8') as file:
                 file.write(tuple_str + '\n')
 
 def mine_sentences(args):

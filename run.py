@@ -5,11 +5,14 @@
 # - Add listening cards to main note
 # - Fix image sizes
 # - move gen note to its own file
+# - fix easiest sentence is not the first
+# - check if new words added based on known.tsv
 #
 # TODO
 #
-# - check if new words added based on known.tsv
+# - fix issue with , in translation
 # - cannot write mode RGBA as JPEG https://stackoverflow.com/questions/48248405/cannot-write-mode-rgba-as-jpeg
+#   - just add the png instead of converting them
 #
 #################################################
 
@@ -18,7 +21,6 @@ import get_unknown
 import pandas as pd
 import genanki
 import csv
-import re
 import os
 import csv
 import glob
