@@ -11,8 +11,6 @@
 # TODO
 #
 # - fix issue with , in translation
-# - cannot write mode RGBA as JPEG https://stackoverflow.com/questions/48248405/cannot-write-mode-rgba-as-jpeg
-#   - just add the png instead of converting them
 #
 #################################################
 
