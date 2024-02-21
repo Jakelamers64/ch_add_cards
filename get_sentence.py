@@ -9,6 +9,7 @@ def get_sentence(word, new_cwd, mined_sentences_path):
     os.chdir(new_cwd)
 
     # Command to run
+    # python assigner.py -m --string f'{word}' -l C:\\Users\\jakel\\Desktop\\Code\\ch_add_cards\\Data\\known.tsv --limit 2 -s custom -o custom --easy
     command = [
         'python', 
         'assigner.py',
@@ -48,3 +49,9 @@ def get_sentence(word, new_cwd, mined_sentences_path):
         print(f'The file for {word} does not exist.')
 
     return file_content
+
+# test
+#if __name__ == '__main__':
+#    get_sentence('水果',
+#                 'chinese-sentence-miner-master',
+#                 r'C:\Users\jakel\Desktop\Code\ch_add_cards\chinese-sentence-miner-master\output.txt')

@@ -7,10 +7,11 @@
 # - move gen note to its own file
 # - fix easiest sentence is not the first
 # - check if new words added based on known.tsv
+# - fixed issue with meiguanxi
 #
 # TODO
 #
-# - fix issue with , in translation
+# - fix issue with 水果 not outputing a file
 #
 #################################################
 
