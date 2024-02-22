@@ -19,7 +19,8 @@ def get_sentence(word, new_cwd, mined_sentences_path):
         '--limit', '2',
         '-s', 'custom',
         '-o', 'custom',
-        '--easy'
+        '--easy',
+        '--smallest', '0.0'
     ]
 
     try:
