@@ -57,6 +57,10 @@ my_deck = genanki.Deck(
 media = list()
 
 for index, row in words_to_add.iterrows():
+    #problem = "中午", "小姐"
+    # 哲琪太太：嗯，坦白说，我不很好，小姐。今天早上我的狗被一辆车撞了。_Image_1.jpg'
+    #row[0] = "小姐"
+
     try:
         gen_ch_notes.gen_ch_notes(row[0], row[1], row[2], my_deck, media)
     except Exception as e:

@@ -167,7 +167,7 @@ def gen_ch_notes(word,
 
     #Images for sentence 1
     downloader.download(
-        sentences.split("\n")[0].split(",")[0], 
+        sentences.split("\n")[0].split(",")[0].replace(",","").replace("?",""), 
         limit=num_images_to_download, 
         output_dir=img_output_dir,
         adult_filter_off=True, 
@@ -177,7 +177,7 @@ def gen_ch_notes(word,
 
     #Images for sentence 2
     downloader.download(
-        sentences.split("\n")[1].split(",")[0], 
+        sentences.split("\n")[1].split(",")[0].replace(",","").replace("?",""), 
         limit=num_images_to_download, 
         output_dir=img_output_dir,
         adult_filter_off=True, 
@@ -186,8 +186,12 @@ def gen_ch_notes(word,
     )
 
     convert_and_rename(word, media)
-    convert_and_rename(sentences.split("\n")[0].split(",")[0], media)
-    convert_and_rename(sentences.split("\n")[1].split(",")[0], media)
+    convert_and_rename(
+        sentences.split("\n")[0].split(",")[0].replace(",","").replace("?",""), 
+        media)
+    convert_and_rename(
+        sentences.split("\n")[1].split(",")[0].replace(",","").replace("?",""), 
+        media)
 
     media.append(os.path.abspath(text_to_mp3(sentences.split("\n")[0].split(",")[0])))
 

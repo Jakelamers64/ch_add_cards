@@ -106,6 +106,8 @@
 这是我给你开的药方。	zhè shì wǒ gěi nǐ kāi de yàofāng	Here's my prescription.	1.875	0.875
 我们对我们的新老师很失望。	wǒmen duì wǒmen de xīn lǎoshī hěn shīwàng	We are disappointed in our new teacher.	1.875	0.875
 把你们的名字写在名单上。	bǎ nǐmen de míngzi xiě zài míngdān shàng	Stick down your names on the list.	2.75	0.875
+他在食槽里放了些草。	tā zài shícáo lǐ fàng le xiē cǎo	He put some grass in the manger.	2.25	0.875
+她往餐具柜里放了些盘子。	tā wǎng cānjù guì lǐ fàng le xiē pánzi	She put some plates in the sideboard.	2.625	0.875
 我上星期天打电话到你办公室去 但他们说你不值班。	wǒ shàng Xīngqītiān dǎdiànhuà dào nǐ bàngōngshì qù dàn tāmen shuō nǐ bù zhíbān	I called your office last Sunday but they said you were off duty.	3.533	0.867
 他是个有个性的人。	tā shì gè yǒu gèxìng de rén	He is a man of individuality.	1.571	0.857
 他住在学校的宿舍里。	tā zhù zài xuéxiào de sùshè lǐ	He hangs out in the school dormitory.	1.571	0.857
@@ -167,6 +169,7 @@
 九月的天气确实像秋天了。	Jiǔyuè de tiānqì quèshí xiàng qiūtiān le	The weather in September was positively autumnal.	3.429	0.857
 我希望星期五之前天气会好转。	wǒ xīwàng Xīngqīwǔ zhīqián tiānqì huì hǎozhuǎn	I hope the weather will improve before Friday.	3.714	0.857
 万一下雨，他们就不能去了。	wànyī xiàyǔ tāmen jiù bùnéng qù le	In case of rain they can't go.	3.429	0.857
+看看你都做了些什么！	kànkan nǐ dōu zuò le xiē shénme	Just look at what you've done!	1.857	0.857
 我想我们今天的讨论大家都谈得差不多了。让我的秘书来送诸位出去吧。	wǒ xiǎng wǒmen jīntiān de tǎolùn dàjiā dōu tán dé chàbuduō le ràng wǒ de mìshū lái sòng zhūwèi chūqù ba	I think that just about concludes our discussion. Let my secretary show you out.	2.55	0.85
 我已经足够大了，有权去做我喜欢做的事。	wǒ yǐjīng zúgòu dà le yǒuquán qù zuò wǒ xǐhuan zuò de shì	I'm old enough to have the freedom to do as I like.	2.462	0.846
 我想北极地区的人要比这里的少得多。	wǒ xiǎng běijí dìqū de rén yào bǐ zhèlǐ de shǎo dé duō	I guess there are much less people in the Arctic regions than here.	2.385	0.846
@@ -397,6 +400,8 @@
 你喜不喜欢我都没关系。	nǐ xǐ bù xǐhuan wǒ dōu méiguānxi	It doesn't matter whether you like me or not.	2.2	0.8
 因为天气热，她穿了一件凉快的衣服。	yīnwèi tiānqì rè tā chuān le yī jiàn liángkuai de yīfu	As it was a hot day she wore a cool dress.	2.1	0.8
 如果天气好，当然可以。	rúguǒ tiānqì hǎo dāngrán kěyǐ	Certainly if the weather is fine.	2.0	0.8
+我们给她些压力她就会讲出来。	wǒmen gěi tā xiē yālì tā jiù huì jiǎng chūlái	She'll sing if we put the pressure on.	2.3	0.8
+园艺需要些什么工具？	yuányì xūyào xiē shénme gōngjù	What implements are needed for gardening?	3.2	0.8
 他走了，把所有没做完的工作都留给了我。	tā zǒu le bǎ suǒyǒu méi zuòwán de gōngzuò dōu liúgěi le wǒ	He was gone and left all the work undone to me.	1.929	0.786
 你只要一看见她的脸就会明白，她是无辜的。	nǐ zhǐyào yī kànjiàn tā de liǎn jiù huì míngbai tā shì wúgū de	A glimpse of her face will tell you that she is innocent.	2.0	0.786
 我认为你说美国是世界和平的障碍是不对的。	wǒ rènwéi nǐ shuō Měiguó shì shìjièhépíng de zhàng'ài shì bùduì de	I don't think it is correct of you to say that America is a balk to world peace.	3.0	0.786
@@ -466,6 +471,7 @@
 在我苦恼的时候，她来安慰我。	zài wǒ kǔnǎo de shíhou tā lái ānwèi wǒ	She comforted me in my distress.	2.111	0.778
 你说话太不礼貌了，我已受够了。	nǐ shuōhuà tài bù lǐmào le wǒ yǐ shòugòu le	I've had enough of your impertinent words.	2.667	0.778
 天气很暖和，我就把大衣脱了。	tiānqì hěn nuǎnhuo wǒ jiù bǎ dàyī tuō le	I took off my overcoat since it was warm.	2.667	0.778
+我们得给我们的新房子买些家具。	wǒmen dé gěi wǒmen de xīn fángzi mǎi xiē jiājù	We will buy some furniture for our new house.	2.222	0.778
 我可以向你保证，你儿子在这里会很快乐的。	wǒ kěyǐ xiàng nǐ bǎozhèng nǐ érzi zài zhèlǐ huì hěn kuàilè de	I can assure you that your son will be happy here.	1.923	0.769
 他长大了，穿剩下的衣服就给了他的弟弟。	tā zhǎngdà le chuān shèngxià de yīfu jiù gěi le tā de dìdi	As he grew up he passed on his clothes to his younger brother.	2.231	0.769
 我不喜欢吃菠菜，虽然我知道它对我有好处。	wǒ bù xǐhuan chī bōcài suīrán wǒ zhīdào tā duì wǒ yǒuhǎochù	I don't like spinach even though I know it's good for me.	2.231	0.769
@@ -485,8 +491,10 @@
 一个厨房里的小火炉就会把整个房子都熏黑。	yī gè chúfáng lǐ de xiǎo huǒlú jiù huì bǎ zhěnggè fángzi dōu xūn hēi	One small fire in the kitchen will cover the whole house in soot.	3.538	0.769
 把你受伤的手指浸在消毒剂里，把毒浸泡出来。	bǎ nǐ shòushāng de shǒuzhǐ jìn zài xiāodújì lǐ bǎ dú jìnpào chūlái	Dip your injured finger in the disinfectant to soak out the poison.	4.154	0.769
 我拿起了那把刀，把它扔到了窗外。	wǒ náqǐ le nà bǎ dāo bǎ tā rēng dàoliǎo chuāng wài	I picked up the knife and threw it out of the window.	3.0	0.769
+你要是到商店去，可以给我捎些香烟来吗？	nǐ yàoshi dào shāngdiàn qù kěyǐ gěi wǒ shāo xiē xiāngyān lái ma	If you're going to the shops could you bring me back some cigarettes?	2.385	0.769
 没有比时间更贵重的东西，但也没有比它更受轻视的东西。	méiyǒu bǐ shíjiān gèng guìzhòng de dōngxi dàn yě méiyǒu bǐ tā gèng shòu qīngshì de dōngxi	Nothing is more valuable than time but nothing is less valued.	3.529	0.765
 他的样子和他在电话中说话的声音反映的病情是一样的。	tā de yàngzi hé tā zài diànhuà zhōng shuōhuà de shēngyīn fǎnyìng de bìngqíng shì yīyàng de	He looks as ill as he sounded on the phone.	2.647	0.765
+他没怎么听讲。	tā méi zěnme tīngjiǎng	He paid scant attention to what was said.	2.5	0.75
 他也学习汉语。	tā yě xuéxí Hànyǔ	He studies Chinese as well.	1.25	0.75
 妈妈准备了好吃的东西给我。	māma zhǔnbèi le hǎochī de dōngxi gěi wǒ	Mother has something delicious in store for me.	1.375	0.75
 你明白了吗？	nǐ míngbai le ma	Do you understand?	1.5	0.75
@@ -519,7 +527,6 @@
 我和她商量过我的报告。	wǒ hé tā shāngliang guò wǒ de bàogào	I consulted with her about my report.	2.25	0.75
 真让我失望。	zhēn ràng wǒ shīwàng	I'm very disappointed.	2.25	0.75
 我还认识到了集体的力量。	wǒ hái rènshi dàoliǎo jítǐ de lìliang	I also learned the strength of the collective.	2.25	0.75
-他在食槽里放了些草。	tā zài shícáo lǐ fàng le xiē cǎo	He put some grass in the manger.	2.25	0.75
 我们的经理对我们要求很严格。	wǒmen de jīnglǐ duì wǒmen yāoqiú hěn yángé	Our manager is very strict with us.	2.25	0.75
 我没有注意到他已经走了。	wǒ méiyǒu zhùyì dào tā yǐjīng zǒu le	I failed to note that he had left.	2.375	0.75
 他的作文比我的好多了。	tā de zuòwén bǐ wǒ de hǎoduō le	His composition is far superior to mine.	2.375	0.75
@@ -534,7 +541,6 @@
 他的书在柜子里找到了。	tā de shū zài guìzi lǐ zhǎo dàoliǎo	His book turned up in the cupboard.	2.5	0.75
 你疯了吗？	nǐ fēng le ma	Are you insane?	2.5	0.75
 我很想吃饺子。	wǒ hěn xiǎng chī jiǎozi	I feel like having some dumplings.	2.5	0.75
-他没怎么听讲。	tā méi zěnme tīngjiǎng	He paid scant attention to what was said.	2.5	0.75
 她很有头脑。	tā hěn yǒu tóunǎo	She has a good brain.	2.5	0.75
 杏仁能吃吗？	xìngrén néng chī ma	Are kernels of apricots edible?	2.5	0.75
 不怎么想去，我并不大喜欢看电影。	bùzěnme xiǎng qù wǒ bìng bùdà xǐhuan kàn diànyǐng	Not really. I am not very fond of the cinema.	2.5	0.75
@@ -576,7 +582,6 @@
 她干的工作比别人要好些。	tā gàn de gōngzuò bǐ biéren yàohǎo xiē	Her work is a cut above that of the others.	2.625	0.75
 她知道金属为什么是好的导体。	tā zhīdào jīnshǔ wèishénme shì hǎo de dǎotǐ	She knows why the metal is the good conductor.	2.625	0.75
 她把她的意思解释得清清楚楚。	tā bǎ tā de yìsi jiěshì dé qīng qīngchu chǔ	She made her meaning crystal clear.	2.625	0.75
-她往餐具柜里放了些盘子。	tā wǎng cānjù guì lǐ fàng le xiē pánzi	She put some plates in the sideboard.	2.625	0.75
 我们大家比以往更需要努力工作。	wǒmen dàjiā bǐ yǐwǎng gèng xūyào nǔlì gōngzuò	It is more necessary than ever for all of us to work hard.	2.625	0.75
 护士，我的脚非常冷，可以给我一只热水瓶吗？	hùshi wǒ de jiǎo fēicháng lěng kěyǐ gěi wǒ yī zhǐ rèshuǐpíng ma	My feet are as cold as ice nurse. Can I have a hot water bottle?	2.667	0.75
 我不能肯定已经领会您的意思。是不是您不满意您现在的工作。	wǒ bùnéng kěndìng yǐjīng lǐnghuì nín de yìsi shìbùshì nín bùmǎnyì nín xiànzài de gōngzuò	I am not certain I have grasped what you meant. Is it(that) you are not satisfy with your present job?	2.688	0.75
@@ -766,15 +771,19 @@
 我们这里的天气多半是暖和的。	wǒmen zhèlǐ de tiānqì duōbàn shì nuǎnhuo de	Our weather has been mostly warm.	2.875	0.75
 干燥的天气之后，人人都希望下雨。	gānzào de tiānqì zhīhòu rénrén dōu xīwàng xiàyǔ	After these dry days everyone hopes for rain.	3.0	0.75
 好像要下雨了。	hǎoxiàng yào xiàyǔ le	It looks as if it is going to rain.	2.0	0.75
+他在面条里放了些醋。	tā zài miàntiáo lǐ fàng le xiē cù	He put some vinegar in the noodles.	2.0	0.75
+她在铝锅里下了些面条。	tā zài lǚ guō lǐ xià le xiē miàntiáo	She put some noodles in the aluminum saucepan.	2.0	0.75
+她往瓶子里插了些小花。	tā wǎng píngzi lǐ chā le xiē xiǎo huā	She arranged some flowerets in the vase.	3.0	0.75
+我想驾驶滑翔机一定需要些技术。	wǒ xiǎng jiàshǐ huáxiángjī yīdìng xūyào xiē jìshù	I guess it must require some skills to fly a glider.	3.125	0.75
 如果你到今晚把手头上的工作做完，你明天就可以休息。	rúguǒ nǐ dào jīnwǎn bǎshǒu tóushàng de gōngzuò zuòwán nǐ míngtiān jiù kěyǐ xiūxi	Provided/Providing (that) you clear your desk by this evening you can have tomorrow off.	2.6	0.733
 我上来取我的手提袋，我把它忘在我的办公室了。	wǒ shànglái qǔ wǒ de shǒutí dài wǒ bǎ tā wàng zài wǒ de bàngōngshì le	I've come up for my bag I left it in my office.	2.733	0.733
 我可不知道在这地球上有什么东西比七厘利息更无情的。	wǒ kě bù zhīdào zài zhè dìqiú shàng yǒu shénme dōngxi bǐ qī lí lìxī gèng wúqíng de	I do not know of anything more remorseless on the face of the earth than seven per cent interest.	2.867	0.733
 我的项链有一个心形的垂饰，但我并非每天都戴他。	wǒ de xiàngliàn yǒu yī gè xīn xíng de chuí shì dàn wǒ bìngfēi měitiān dōu dài tā	My necklace has a heart pendant but I don't wear it everyday.	3.8	0.733
 让死者有那不朽的名，但让生者有那不朽的爱。	ràng sǐzhě yǒu nà bùxiǔ de míng dàn ràng shēng zhě yǒu nà bùxiǔ de ài	Let the dead have the immortality of fame but the living the immortality of love.	3.533	0.733
+他的妻子知道在他生气时怎么对付他。	tā de qīzi zhīdào zài tā shēngqì shí zěnme duìfu tā	His wife knows how to manage him when he is angry.	2.364	0.727
 我清楚地告诉他，我拒绝了他的建议。	wǒ qīngchu dì gàosu tā wǒ jùjué le tā de jiànyì	I made it clear to him that I rejected his proposal.	2.091	0.727
 我不会把我的钱投资到他的公司。	wǒ bùhuì bǎ wǒ de qián tóuzī dào tā de gōngsī	I won't invest my money in his company.	2.273	0.727
 她所有的钱都投放到股票里去了。	tā suǒyǒu de qián dōu tóufàng dào gǔpiào lǐ qù le	She's got all her money in stocks and shares.	2.273	0.727
-他的妻子知道在他生气时怎么对付他。	tā de qīzi zhīdào zài tā shēngqì shí zěnme duìfu tā	His wife knows how to manage him when he is angry.	2.364	0.727
 她要他清理好他弄得乱七八糟的东西。	tā yào tā qīnglǐ hǎo tā nòng dé luànqībāzāo de dōngxi	She tell him to clear up the mess he have make.	2.455	0.727
 我正在用我新买的煎锅做苹果馅饼。	wǒ zhèngzài yòng wǒ xīn mǎi de jiānguō zuò píngguǒxiànbǐng	I am cooking apple pies with my newly bought frying pan.	2.455	0.727
 我叔叔给了我一些钱让我开始经商。	wǒ shūshu gěi le wǒ yīxiē qián ràng wǒ kāishǐ jīngshāng	My uncle gave me some money to start me out in trade.	2.455	0.727
@@ -823,7 +832,7 @@
 几年来 几百个留学生在那所大学学习过。	jǐniánlái jǐbǎi gè liúxuéshēng zài nà suǒ dàxué xuéxí guò	Over the years hundreds of overseas students have studied at that university.	4.364	0.727
 他说话说快了就爱喷唾沫星.	tā shuōhuà shuō kuài le jiù ài pēn tuòmo xīng	He's inclined to spit when he talks quickly.	3.818	0.727
 他在他们的眼光里是坍台了；他在贫民前面丢了体面和地位。	tā zài tāmen de yǎnguāng lǐ shì tān tái le tā zài pínmín qiánmiàn diū le tǐmiàn hé dìwèi	He was degraded in their eyes; he had lost caste and station before the very paupers.	2.944	0.722
-看看你都做了些什么！	kànkan nǐ dōu zuò le xiē shénme	Just look at what you've done!	1.857	0.714
+我毫不在乎他们对我怎么说。	wǒ háo bùzàihu tāmen duì wǒ zěnme shuō	I cared nothing about what they said of me.	4.0	0.714
 谁都不喜欢被人怠慢。	shéi dōu bù xǐhuan bèi rén dàimàn	No one like to be treated with neglect.	2.0	0.714
 她单独去是很危险的。	tā dāndú qù shì hěn wēixiǎn de	It's unsafe for her to go alone.	2.0	0.714
 他姐姐过去一直指导他，给他出主意，是他的朋友。	tā jiějie guòqu yīzhí zhǐdǎo tā gěi tā chū zhǔyi shì tā de péngyou	His elder sister had been his guide counsellor and friend.	2.0	0.714
@@ -1022,7 +1031,6 @@
 我们摸索着走过黑暗的街道。	wǒmen mōsuo zhe zǒuguò hēi'àn de jiēdào	We groped our way through the dark streets.	3.857	0.714
 晚饭前，他吃了一些饼干。	wǎnfàn qián tā chī le yīxiē bǐnggān	He had some biscuits before the dinner.	4.0	0.714
 我这里一切都好，不用挂念。	wǒ zhèlǐ yīqiè dōu hǎo bùyòng guàniàn	Everything is fine with me; there is no need for you to be concerned.	4.0	0.714
-我毫不在乎他们对我怎么说。	wǒ háo bùzàihu tāmen duì wǒ zěnme shuō	I cared nothing about what they said of me.	4.0	0.714
 我步行一个来回用一小时。	wǒ bùxíng yī gè láihuí yòng yī xiǎoshí	It takes me an hour to walk there and back.	4.0	0.714
 美丽的美丽的，尤指对视觉	měilì de měilì de yóuzhǐ duì shìjué	Beautiful especially to the sight.	4.0	0.714
 打开窗户，让新鲜的空气进来。	dǎkāi chuānghu ràng xīnxiān de kōngqì jìnlái	Open the window and let in some fresh air.	4.0	0.714
@@ -1062,6 +1070,7 @@
 他喜欢在说话中用比喻。	tā xǐhuan zài shuōhuà zhōng yòng bǐyù	He likes to talk in similitude.	2.857	0.714
 猪已喂过了吗?	zhū yǐ wèi guò le ma	Have the pigs been fed yet?	3.571	0.714
 那儿有很多喂牛的饲料。	nàr yǒu hěn duō wèi niú de sìliào	There is much forage for the cattle.	4.429	0.714
+他往石灰里加了些水。	tā wǎng shíhuī Lǐjiā le xiē shuǐ	He added some water into the lime.	3.143	0.714
 我今天提早工作都做完了，但是别人都还在工作，我不好意思回家。	wǒ jīntiān tízǎo gōngzuò dōu zuòwán le dànshì biéren dōu hái zài gōngzuò wǒ bùhǎoyìsi huíjiā	I have gotten my work all done ahead of time today but I'd feel guilty going home while everybody else is still work.	2.235	0.706
 多亏许多科学的工作，我们能预先知道要发生地震的时间和地点了。	duōkuī xǔduō kēxué de gōngzuò wǒmen néng yùxiān zhīdào yào fāshēng dìzhèn de shíjiān hé dìdiǎn le	Thanks to the work of many scientists we are able to learn in advance when and where an earthquake will happen.	2.824	0.706
 只因为我的新书包和他的一模一样，他就说我学他的样。	zhǐ yīnwèi wǒ de xīn shūbāo hé tā de yīmúyīyàng tā jiù shuō wǒ xué tā de yàng	He called me a copycat just because my schoolbag looks like his.	3.059	0.706
@@ -1069,9 +1078,9 @@
 那个聪明的男孩把他老师所能教他的所有的知识都吸收了。	nàge cōngming de nánhái bǎ tā lǎoshī suǒnéng jiāo tā de suǒyǒu de zhīshi dōu xīshōu le	The clever boy absorbed all the knowledge his teacher could give him.	3.0	0.706
 因你一直工作到如此晚的时间，今天不计较那迟到的五分钟了。	yīn nǐ yīzhí gōngzuò dào rúcǐ wǎn de shíjiān jīntiān bùjì jiào nà chídào de wǔ fēnzhōng le	As you were kept working so late you will be excused from being late for five minutes today.	3.059	0.706
 您能不能给我们建议一个好办法，让我们请大家送钱给我们，然后让我们在回到大陆时再购买礼物？	nín néng bùnéng gěi wǒmen jiànyì yī gè hǎo bànfǎ ràng wǒmen qǐng dàjiā sòng qián gěi wǒmen ránhòu ràng wǒmen zài huídào dàlù shí zài gòumǎi lǐwù	Can you suggest a good way for us to ask people to send us the money and let us buy the gift when we get to the mainland?	3.0	0.704
+我不敢去想她知道真相后会怎么样。	wǒ bù gǎn qù xiǎng tā zhīdào zhēnxiàng hòu huì zěnmeyàng	I dread to think what will happen if she finds out the truth.	2.8	0.7
 难怪她病了，她几乎什么都没吃。	nánguài tā bìng le tā jīhū shénme dōu méi chī	No wonder she's ill. She eats next to nothing.	2.2	0.7
 你妈妈是个乐呵呵的容易相处的人。	nǐ māma shì gè lèhēhē de róngyì xiāngchǔ de rén	Your mother is a jolly easy-going woman.	2.2	0.7
-我们给她些压力她就会讲出来。	wǒmen gěi tā xiē yālì tā jiù huì jiǎng chūlái	She'll sing if we put the pressure on.	2.3	0.7
 他每次度假都会带他的狗去。	tā měicì dùjià dūhuì dài tā de gǒu qù	He never goes on a vacation but he takes his pet dog.	2.4	0.7
 我认为她是个很能干的经理.	wǒ rènwéi tā shì gè hěn nénggàn de jīnglǐ	I summed her up as a competent manager.	2.4	0.7
 他想扩充自己在这一行业的知识。	tā xiǎng kuòchōng zìjǐ zài zhè yī hángyè de zhīshi	He wants to widen his knowledge of the industry.	2.4	0.7
@@ -1089,7 +1098,6 @@
 你注意到了这一点是够机灵的。	nǐ zhùyì dàoliǎo zhè yīdiǎn shì gòu jīling de	It was very sharp of you to have noticed that.	2.7	0.7
 物理和数学都是我喜欢的科目.	wùlǐ hé shùxué dōu shì wǒ xǐhuan de kēmù	Physics and maths are my favourite subjects.	2.7	0.7
 如果你再迟到，老板就会把你解雇。	rúguǒ nǐ zài chídào lǎobǎn jiù huì bǎ nǐ jiěgù	If you are late again the boss will give you the sack.	2.7	0.7
-我不敢去想她知道真相后会怎么样。	wǒ bù gǎn qù xiǎng tā zhīdào zhēnxiàng hòu huì zěnmeyàng	I dread to think what will happen if she finds out the truth.	2.8	0.7
 你的这一班机是英国航空公司的飞机.	nǐ de zhè yī bānjī shì Yīngguó hángkōnggōngsī de fēijī	Your carrier for this flight is British Airways.	2.8	0.7
 我一走近她的办公桌，她就瞪我。	wǒ yī zǒu jìn tā de bàngōng zhuō tā jiù dèng wǒ	She glares at me if I go near her desk.	2.8	0.7
 请把我的信件转到我的新地址。	qǐng bǎ wǒ de xìnjiàn zhuàn dào wǒ de xīn dìzhǐ	Please forward my mail to my new address.	2.8	0.7
@@ -1200,7 +1208,6 @@
 在困难的时候，她祈祷神谕来指引她。	zài kùnnan de shíhou tā qídǎo shényù lái zhǐyǐn tā	In times of difficulty she pray for an oracle to guide her	3.1	0.7
 老是有各种各样的天气，不论我们喜欢不喜欢。	lǎoshi yǒu gèzhǒnggèyàng de tiānqì bùlùn wǒmen xǐhuan bù xǐhuan	There's always weather weather whether we like it or not.	2.8	0.7
 陪我的是一位高先生，他是医院院长。	péi wǒ de shì yī wèi gāo xiānsheng tā shì yīyuàn yuànzhǎng	Accompanying me was a Mr.Kao director of the hospital.	2.6	0.7
-你要是到商店去，可以给我捎些香烟来吗？	nǐ yàoshi dào shāngdiàn qù kěyǐ gěi wǒ shāo xiē xiāngyān lái ma	If you're going to the shops could you bring me back some cigarettes?	2.385	0.692
 他对他的母亲的敬爱给了我深刻的印象。	tā duì tā de mǔqīn de jìng'ài gěi le wǒ shēnkè de yìnxiàng	He pressed me profound in his respecting and loving to his mother.	2.385	0.692
 我要是你就不参加了，他的计划似乎不妥当。	wǒ yàoshi nǐ jiù bù cānjiā le tā de jìhuà sìhū bù tuǒdang	I should lie off if I were you his scheme doesn't seem sound.	2.462	0.692
 我还没来得及给他盖好被子，他就睡着了。	wǒ hái méi láidejí gěi tā gài hǎo bèizi tā jiù shuìzháo le	He was asleep before I tucked him in.	2.538	0.692
@@ -1253,10 +1260,12 @@
 我还没有告诉我的太太她买衣服花钱太多，她先下手为强反问我为什么花那么多钱去买新钓鱼竿。	wǒ hái méiyǒu gàosu wǒ de tàitai tā mǎi yīfu huāqián tài duō tā xiānxiàshǒuwéiqiáng fǎnwèn wǒ wèishénme huā nàme duō qián qù mǎi xīn diàoyú gān	Before I could tell my wife she had spent too much for the dress she stole my thunder by asking why I spent so much for the new fishing rod.	3.08	0.68
 在我还未结婚之前，我有过六项养育孩子的理论；现在我有六个孩子了，再没有什么理论啦。	zài wǒ hái wèi jiéhūn zhīqián wǒ yǒu guò liù xiàng yǎngyù háizi de lǐlùn xiànzài wǒ yǒu liù gè háizi le zài méiyǒushénme lǐlùn la	Before I get married I have six theories about bringing up children; now I have six children and no theories.	3.32	0.68
 很好，谢谢。	hěn hǎo xièxie	Fine thanks.	1.0	0.667
-你觉得怎么样？	nǐ juéde zěnmeyàng	What do you think of it?	1.333	0.667
 我怎么知道。	wǒ zěnme zhīdào	How should I know.	1.333	0.667
-他感冒了。	tā gǎnmào le	He caught a cold.	1.667	0.667
+你觉得怎么样？	nǐ juéde zěnmeyàng	What do you think of it?	1.333	0.667
+是的，这事我知道，谢谢。	shìde zhè shì wǒ zhīdào xièxie	Yes I know that thanks.	2.167	0.667
 你到底是怎么知道的？	nǐ dàodǐ shì zěnme zhīdào de	How on earth did you know it?	1.667	0.667
+你知道怎么挤牛奶吗？	nǐ zhīdào zěnme jǐ niúnǎi ma	Do you know how to milk a cow?	2.333	0.667
+他感冒了。	tā gǎnmào le	He caught a cold.	1.667	0.667
 你刚才指的是什么？	nǐ gāngcái zhǐ de shì shénme	What were you alluding to just now?	1.833	0.667
 他向他的朋友打招呼。	tā xiàng tā de péngyou dǎzhāohu	He saluted his friend.	1.833	0.667
 我没心情和你聊天。	wǒ méi xīnqíng hé nǐ liáotiān	I am in no mood for chatting with you.	2.0	0.667
@@ -1273,18 +1282,15 @@
 这是个神奇的故事。	zhè shì gè shénqí de gùshi	It's a magical story.	2.167	0.667
 我不理解她的逻辑。	wǒ bù lǐjiě tā de luóji	I didn't follow her logic.	2.167	0.667
 他写的论文很优秀。	tā xiě de lùnwén hěn yōuxiù	The treatise he wrote is excellent.	2.167	0.667
-是的，这事我知道，谢谢。	shìde zhè shì wǒ zhīdào xièxie	Yes I know that thanks.	2.167	0.667
 你的生活目标是什么？	nǐ de shēnghuó mùbiāo shì shénme	What is your aim in life?	2.167	0.667
 别慌忙，时间多的是。	bié huāngmáng shíjiān duō de shì	Don't rush; there is plenty of time.	2.167	0.667
 我们都相信她的预言。	wǒmen dōu xiāngxìn tā de yùyán	We all believed in her prediction.	2.167	0.667
 这本书是我特意为你买的。	zhè běn shū shì wǒ tèyì wéi nǐ mǎi de	I bought the book especially for you.	2.222	0.667
-我们得给我们的新房子买些家具。	wǒmen dé gěi wǒmen de xīn fángzi mǎi xiē jiājù	We will buy some furniture for our new house.	2.222	0.667
 再给你倒杯茶好吗？	zài gěi nǐ dǎo bēi chá hǎo ma	Can I pour you another cup of tea?	2.333	0.667
 要我承认错了，是很费力的。	yào wǒ chéngrèn cuò le shì hěn fèilì de	It was painful to admit that I was wrong.	2.333	0.667
 我想帮忙你捆扎东西。	wǒ xiǎng bāngmáng nǐ kǔn zhā dōngxi	I would like to help you pack.	2.333	0.667
 我原谅了他的过失。	wǒ yuánliàng le tā de guòshī	I looked over his faults.	2.333	0.667
 太糟糕了。	tài zāogāo le	That's too bad.	2.333	0.667
-你知道怎么挤牛奶吗？	nǐ zhīdào zěnme jǐ niúnǎi ma	Do you know how to milk a cow?	2.333	0.667
 我喜欢滑冰。	wǒ xǐhuan huábīng	I like skating.	2.333	0.667
 我希望他别再招待他的朋友了。	wǒ xīwàng tā bié zài zhāodài tā de péngyou le	I wish he would desist from entertaining his friends.	2.333	0.667
 不休息我们就走不动了。	bù xiūxi wǒmen jiù zǒu bùdòng le	We can't go any farther without a rest.	2.333	0.667
@@ -1918,6 +1924,8 @@
 即使下雨我们也要去。	jíshǐ xiàyǔ wǒmen yě yào qù	We'll go even if it rains.	1.833	0.667
 乌云是下雨的明显前兆。	wūyún shì xiàyǔ de míngxiǎn qiánzhào	Black clouds are an unmistakable sign of coming rain.	3.667	0.667
 文德先生从来没有埋怨过。	wén dé xiānsheng cóngláiméiyǒu mányuàn guò	Mr de Winter has never complained.	4.833	0.667
+我累得做不了饭了--咱们从中国外卖餐馆买些东西来吃吧.	wǒ lèi dé zuò bùliǎo fàn le zánmen cóngzhōng guówài mài cānguǎn mǎi xiē dōngxi lái chī ba	I'm too tired to cook let's get something from the Chinese take-away.	3.667	0.667
+他去邮局买些邮票。	tā qù yóujú mǎi xiē yóupiào	He went to the post-office to buy some stamps.	2.667	0.667
 我已决心应该让我的孩子们在他们的父亲的宗教里抚养成人，倘使他们能够了解何谓“宗教”的话。	wǒ yǐ juéxīn yīnggāi ràng wǒ de háizimen zài tāmen de fùqīn de zōngjiào lǐ fǔyǎngchéngrén tǎng shǐ tāmen nénggòu liǎojiě héwèi zōngjiào dehuà	I am determined my children shall be brought up in their father's religion if they can find out what it be.	4.308	0.654
 全部艰苦的工作都是我做的，但是我的老板却宣布那是他自己的发现，窃取了我的发明创造。	quánbù jiānkǔ de gōngzuò dōu shì wǒ zuò de dànshì wǒ de lǎobǎn què xuānbù nàshi tā zìjǐ de fāxiàn qièqǔ le wǒ de fāmíngchuàngzào	I did all the hard work but my boss stole my thunder by announcing the discovery as his own	2.346	0.654
 她再与也不会干涉你了，你有了独立自主权，你已经有了你自己出入大门的钥匙。	tā zài yǔ yě bùhuì gānshè nǐ le nǐ yǒule dúlìzìzhǔ quán nǐ yǐjīng yǒule nǐ zìjǐ chūrù dàmén de yàoshi	She won't interfere with you any more; your independence is achieved and you have won your latchkey.	3.0	0.652
@@ -1936,6 +1944,7 @@
 他们利用他怕失掉工作的心理 让他做他们想做的事.	tāmen lìyòng tā pà shīdiào gōngzuò de xīnlǐ ràng tā zuò tāmen xiǎng zuò de shì	They played on his fears of losing his job to get him to do what they wanted.	4.0	0.647
 那家商店里没什么可买的。那里没有衬衫，没有背心，没有牛仔裤，也没有睡衣。	nà jiā shāngdiàn lǐ méishénme kě mǎi de nàli méiyǒu chènshān méiyǒu bèixīn méiyǒu niúzǎikù yě méiyǒu shuìyī	There was nothing to buy in the store. There were no shirts no vests no jeans and no pajamas.	4.588	0.647
 当父母们在田里劳动的时候，孩子们在托儿所里受到良好的照顾。	dāng fùmǔ men zài tián lǐ láodòng de shíhou háizimen zài tuō'érsuǒ lǐ shòudào liánghǎo de zhàogu	Small children are well cared for in nurseries while their parents work in the fields.	3.765	0.647
+现在我们已打开门路，我们希望在中国开辟一个广阔的市场。	xiànzài wǒmen yǐ dǎkāi ménlù wǒmen xīwàng zài Zhōngguó kāipì yī gè guǎngkuò de shìchǎng	Now we've got a foot in the door we are hoping to open up a big market in China.	3.714	0.643
 照我的和大多数人的看法，这是很可靠的投资。	zhào wǒ de hé dàduōshù rén de kànfǎ zhè shì hěn kěkào de tóuzī	In my opinion and in the opinion of most people it is a very sound investment.	2.643	0.643
 他不断要求我们帮助他，过分利用了我们对他的好意。	tā bùduàn yāoqiú wǒmen bāngzhù tā guòfèn lìyòng le wǒmen duì tā de hǎoyì	His constant requests for help taxed our goodwill.	2.714	0.643
 想到我们把所有的钱都花在儿子的教育上，而他却所想去一家沉闷的工厂工作，我感到很伤心。	xiǎngdào wǒmen bǎ suǒyǒu de qián dōu huā zài érzi de jiàoyù shàng ér tā què suǒxiǎng qù yījiā chénmèn de gōngchǎng gōngzuò wǒ gǎndào hěn shāngxīn	It breads my heart to think of all the money we spent on our son's education and all he wants to do is work in a dreary factory.	2.786	0.643
@@ -1954,7 +1963,6 @@
 你从图书馆借的书上的戳记表明，这本书必须明天归还。	nǐ cóng túshūguǎn jiè de shū shàng de chuōjì biǎomíng zhè běn shū bìxū míngtiān guīhuán	The stamp in your library book shows it must be returned tomorrow.	3.429	0.643
 我可以用用你们的厕所吗--我实在憋不住了.	wǒ kěyǐ yòng yòng nǐmen de cèsuǒ ma wǒ shízài biē bùzhù le	May I use your lavatory I'm bursting! ie I need to urinate urgently.	3.571	0.643
 与其说给人面包很有帮助，倒不如说教导他如何谋生才重要。	yǔqí shuō gěi rén miànbāo hěn yǒubāngzhù dǎo bùrú shuō jiàodǎo tā rúhé móushēng cái zhòngyào	It is not so helpful to give someone some bread as to teach him how to make a living.	3.571	0.643
-现在我们已打开门路，我们希望在中国开辟一个广阔的市场。	xiànzài wǒmen yǐ dǎkāi ménlù wǒmen xīwàng zài Zhōngguó kāipì yī gè guǎngkuò de shìchǎng	Now we've got a foot in the door we are hoping to open up a big market in China.	3.714	0.643
 我觉得你的咳嗽声有问题--是不是该找医生看看?	wǒ juéde nǐ de késou shēng yǒu wèntí shìbùshì gāi zhǎo yīshēng kànkan	I don't like the sound of that cough oughtn't you to see a doctor?	3.786	0.643
 你只要拉这个拉出器，就可以很容易地把罐头打开。	nǐ zhǐyào lā zhège lā chū qì jiù kěyǐ hěn róngyì dì bǎ guàntou dǎkāi	You may open the tin simply by pulling the puller.	3.786	0.643
 他不敢把令人不快的真情告诉他们。他是条哑吧狗。	tā bù gǎn bǎ lìngrénbùkuài de zhēnqíng gàosu tāmen tā shì tiáo yǎ ba gǒu	He is afraid to tell them the unpalatable truths. He is a dumb dog.	3.929	0.643
@@ -2103,6 +2111,8 @@
 她说话滔滔不绝 我们都插不上嘴.	tā shuōhuà tāotāobùjué wǒmen dōu chā bù shàng zuǐ	She talks so much that the rest of us never get a look-in.	3.182	0.636
 他很快使自己适应了这个国家炎热的天气。	tā hěn kuài shǐ zìjǐ shìyìng le zhège guójiā yánrè de tiānqì	He adjusted himself very quickly to the heat of the country.	3.364	0.636
 “这是您的车吗，先生？” 警察问道。	zhè shì nín de chē ma xiānsheng jǐngchá wèndào	Is this your vehicle sir?"" asked the policeman.	3.545	0.636
+果断些，确切地告诉他们你认为应该怎么做。	guǒduàn xiē quèqiè dì gàosu tāmen nǐ rènwéi yīnggāi zěnme zuò	Be decisive tell them exactly what you think should be done.	3.091	0.636
+这家饭馆的价钱对我来说贵了些.	zhè jiā fànguǎn de jiàqian duìwǒláishuō guì le xiē	This restaurant is a bit pricey for me.	3.545	0.636
 老师们纷纷表示，非常珍惜这次宝贵的学习机会，将会把学到的知识教给自己的同事和学生，使更多的人掌握电脑的基本知识。	lǎoshī men fēnfēn biǎoshì fēicháng zhēnxī zhè cì bǎoguì de xuéxí jīhuì jiānghuì bǎ xué dào de zhīshi jiāo gěi zìjǐ de tóngshì hé xuésheng shǐ gèng duō de rén zhǎngwòdiànnǎo de jīběn zhīshi	The participants said they valued this special opportunity very much and would teach what they had learned to their colleagues and students to help more people master basic computer skills.	3.333	0.633
 踢进了那个球着实让他高兴，你看他的教练伸头大拇指在鼓励他呢！	tī jìn le nàge qiú zhuóshí ràng tā gāoxìng nǐ kàn tā de jiàoliàn shēn tóu dàmuzhǐ zài gǔlì tā ne	He's absolutely delighted to have scored that goal! See his coach give him the thumbs up!	3.316	0.632
 科学和技术已经开始渗透了我们生活的各个领域；结果，社会正以空前的速度改变着。	kēxué hé jìshù yǐjīng kāishǐ shèntòu le wǒmen shēnghuó de gègè lǐngyù jiéguǒ shèhuì zhèng yǐ kōngqián de sùdù gǎibiàn zhe	Science and technology have come to pervade every aspect of our lives and as a result society is changing at a speed which is quite unprecedented.	3.474	0.632
@@ -2110,8 +2120,6 @@
 她说她很难过 但从她的眼神里却流露出她内心的喜悦.	tā shuō tā hěn nánguò dàn cóng tā de yǎnshén lǐ què liúlùchū tā nèixīn de xǐyuè	She said she was sorry but her eyes betrayed her secret delight.	3.737	0.632
 就用手指头指着名单往下看，看是不是所有的人的名字都在上面，好吗？	jiù yòng shǒuzhǐtou zhǐ zhe míngdān wǎng xià kàn kàn shìbùshì suǒyǒu de rén de míngzi dōu zài shàngmian hǎo ma	Just run your finger down the list and see if all the names are there will you?	3.211	0.632
 我怀疑，不，我肯定他错了。	wǒ huáiyí bù wǒ kěndìng tā cuò le	I suspect nay I am certain that he is wrong.	1.875	0.625
-他在面条里放了些醋。	tā zài miàntiáo lǐ fàng le xiē cù	He put some vinegar in the noodles.	2.0	0.625
-她在铝锅里下了些面条。	tā zài lǚ guō lǐ xià le xiē miàntiáo	She put some noodles in the aluminum saucepan.	2.0	0.625
 我就他的小说向他提问。	wǒ jiù tā de xiǎoshuō xiàng tā tíwèn	I plied him with questions about his novel.	2.125	0.625
 他是个和蔼而快乐的人。	tā shì gè hé'ǎi ér kuàilè de rén	He is a friendly jovial fellow.	2.125	0.625
 他的失败是再明白不过了。	tā de shībài shì zài míngbai bùguò le	His failure is as plain as plain can be.	2.125	0.625
@@ -2184,7 +2192,6 @@
 他点燃了生日蛋糕上的小蜡烛。	tā diǎnrán le shēngrìdàngāo shàng de xiǎo làzhú	He lit the candles on the birthday cake.	3.0	0.625
 我在这座陌生的城市迷路了。	wǒ zài zhè zuò mòshēng de chéngshì mílù le	I got lost in the strange city.	3.0	0.625
 他的行为玷污了国家的荣誉。	tā de xíngwéi diànwū le guójiā de róngyù	His action profaned the honour of his country.	3.0	0.625
-她往瓶子里插了些小花。	tā wǎng píngzi lǐ chā le xiē xiǎo huā	She arranged some flowerets in the vase.	3.0	0.625
 他揍了你我毫不同情——是你先打他的，你挨打活该。	tā zòu le nǐwǒ háobù tóngqíng shì nǐ xiān dǎ tā de nǐ áidǎ huógāi	I'm not sorry he hit you- it serves you fight for starting the fight!	3.062	0.625
 他肯定是喝多了，当他要站起来时，却摔倒在地上。	tā kěndìng shì hē duō le dāng tā yào zhànqǐlai shí què shuāidǎo zài dìshang	He must have drunk too much; when he tried to stand up he keeled over.	3.062	0.625
 我的一个同事喜欢吃姜汁饼干。	wǒ de yī gè tóngshì xǐhuan chī jiāngzhī bǐnggān	One of my colleagues likes to eat gingerbread nut.	3.125	0.625
@@ -2210,7 +2217,6 @@
 他带这个人走过街道到火车站。	tā dài zhège rén zǒuguò jiēdào dào huǒchēzhàn	He guided the man through the streets to the railway station.	3.125	0.625
 我们住在很富裕的住宅区.	wǒmen zhù zài hěn fùyù de zhùzháiqū	We live in a rather rich neighbourhood.	3.125	0.625
 奥运会上，他创造了新的世界纪录。	Àoyùnhuì shàng tā chuàngzào le xīn de shìjièjìlù	At the Olympic Games he created a new world record.	3.125	0.625
-我想驾驶滑翔机一定需要些技术。	wǒ xiǎng jiàshǐ huáxiángjī yīdìng xūyào xiē jìshù	I guess it must require some skills to fly a glider.	3.125	0.625
 我们的钱省著花要是能富余出来，我倒是很想去度假。	wǒmen de qián shěng zháohuā yàoshi néng fùyu chūlái wǒ dàoshi hěn xiǎng qù dùjià	I'd love a holiday if our money will stretch that far.	3.188	0.625
 你有空儿去吃午饭吗?	nǐ yǒukòng r qù chī wǔfàn ma	Are you free for lunch?	3.25	0.625
 你能抽出五分钟和我谈谈吗？	nǐ néng chōuchū wǔ fēnzhōng hé wǒ tántán ma	Can you spare me five minutes?	3.25	0.625
@@ -2576,6 +2582,7 @@
 他总是用这样得方式说话，所以每个人都讨厌他。	tā zǒngshì yòng zhèyàng dé fāngshì shuōhuà suǒyǐ měigerén dōu tǎoyàn tā	He always talks in such a way that everyone dislikes him.	2.923	0.615
 我一看到她的反应就意识到我说话不当.	wǒ yī kàn dào tā de fǎnyìng jiù yìshí dào wǒ shuōhuà bùdàng	I realized that I had said the wrong thing when I saw her reaction.	3.231	0.615
 那天天气很好，我原本不必带伞的（但却带了）。	nàtiān tiānqì hěn hǎo wǒ yuánběn bùbì dài sǎn de dàn què dài le	It was fine that day so I need not have brought an umbrella with me.	3.538	0.615
+他要想当选就得把观点改得缓和些.	tā yào xiǎng dāngxuǎn jiù dé bǎ guāndiǎn gǎi dé huǎnhé xiē	He'll have to modify his views if he wants to be elected.	3.462	0.615
 他把所有的时间都用在做纵横填字游戏和其他无聊的活动上.	tā bǎ suǒyǒu de shíjiān dōu yòng zài zuò zònghéng tián zì yóuxì hé qítā wúliáo de huódòng shàng	He spends all his time on crosswords and other trifles.	2.833	0.611
 他说他如何如何赚钱，我就不太相信，我们认识以来他总是喜欢吹牛。	tā shuō tā rúhé rúhé zhuànqián wǒ jiù bù tài xiāngxìn wǒmen rènshi yǐlái tā zǒngshì xǐhuan chuīniú	I don't believe all he says about the profits he is making; ever since I have known him he has liked to talk big.	2.889	0.611
 他与顾客的关系是事务性的，理所当然不可能跟他们之间有多少个人感情。	tā yǔ gùkè de guānxi shì shìwù xìng de lǐsuǒdāngrán bùkěnéng gēn tāmen zhījiān yǒu duōshao gèrén gǎnqíng	His relations with his clients were also cut and dried very little personal feeling could in the nature of things come into them.	3.278	0.611
@@ -2583,7 +2590,6 @@
 我并不自诩对这一问题内行[是这一问题的专家].	wǒ bìngbù zìxǔ duì zhè yī wèntí nèiháng shì zhè yī wèntí de zhuānjiā	I don't profess expert knowledge of/to be an expert in this subject.	3.5	0.611
 为了能与这庄严的气氛相一致，如果你能熄灭香烟的话，我将很高兴。	wèile néng yǔ zhè zhuāngyán de qìfēn xiāng yīzhì rúguǒ nǐ néng xīmiè xiāngyān dehuà wǒ jiāng hěn gāoxìng	I would appreciate it if you would extinguish your cigarettes in keeping with the solemnity of the occasion.	3.5	0.611
 我不管目前化妆品的价格如何，这不重要，但你仍旧得不到更多的零用钱。	wǒ bùguǎn mùqián huàzhuāngpǐn de jiàgé rúhé zhè bù zhòngyào dàn nǐ réngjiù débùdào gèng duō de língyòngqián	I don't care how much make-up costs these days. That's not the point; you're still not getting any more pocket money.	3.611	0.611
-我累得做不了饭了--咱们从中国外卖餐馆买些东西来吃吧.	wǒ lèi dé zuò bùliǎo fàn le zánmen cóngzhōng guówài mài cānguǎn mǎi xiē dōngxi lái chī ba	I'm too tired to cook let's get something from the Chinese take-away.	3.667	0.611
 这位乡下姑娘似乎觉得自己从来就没能很好地应酬她所交往的人。	zhèwèi xiāngxia gūniang sìhū juéde zìjǐ cónglái jiù méi néng hěn hǎo dì yìngchou tā suǒ jiāowǎng de rén	It was as though the girl from the countryside never quite felt up to the company she kept.	3.722	0.611
 我告诉孩子们必须遵守家规，要不他们就会失去目前享有的某些自由。	wǒ gàosu háizimen bìxū zūnshǒu jiā guī yàobù tāmen jiù huì shīqù mùqián xiǎngyǒu de mǒuxiē zìyóu	I've told my children they must toe the line with regard to house rules or lose some of the freedom they presently enjoy.	3.889	0.611
 ＂房间里只布置了最简单的必需品，一张床、一把椅子和一张桌子。＂	fángjiān lǐ zhǐ bùzhì le zuì jiǎndān de bìxūpǐn yī zhāng chuáng yī bǎ yǐzi hé yī zhāng zhuōzi	The room was furnished with the simplest essentials a bed a chair and a table.""	3.944	0.611
@@ -2592,6 +2598,11 @@
 我不打算放弃我的假日来迁就你 你不听也得听!	wǒ bù dǎsuàn fàngqì wǒ de jiàrì lái qiānjiù nǐ nǐ bù tīng yě dé tīng	I'm not giving up my holiday to suit you so you can put that in your pipe and smoke it!	2.667	0.611
 常给我们看病的那个医生 我们都非常喜欢他 他要走了.	cháng gěi wǒmen kànbìng de nàge yīshēng wǒmen dōu fēicháng xǐhuan tā tā yào zǒu le	Our doctor whom/who we all like very much is leaving.	3.167	0.611
 我很愿意。谢谢你。	wǒ hěn yuànyì xièxie nǐ	I do very much. Thank you.	1.4	0.6
+谢谢你给我们送礼物。	xièxie nǐ gěi wǒmen sòng lǐwù	Thank you for the present.	2.4	0.6
+你对气功怎么看？	nǐ duì qìgōng zěnme kàn	How do you feel about Qigong?	2.6	0.6
+你怎么可以这样说？	nǐ zěnme kěyǐ zhèyàng shuō	How can you say that?	3.6	0.6
+日本在中国的东面。	Rìběn zài Zhōngguó de dōngmiàn	Japan lies to the east of China.	3.4	0.6
+瞧，我这是怎么搞的！它本是辆新车。我怎么办好呢？	qiáo wǒ zhè shì zěnmegǎode tā běn shì liàng xīn chē wǒ zěnmebàn hǎo ne	Just look what I have done! It was a new car. Whatever am I going to do?	2.867	0.6
 这是我特意为你生日而做的。	zhè shì wǒ tèyì wéi nǐ shēngrì ér zuò de	I made this specially for your birthday.	1.9	0.6
 我确实得走了。	wǒ quèshí dé zǒu le	I really have to be going.	2.0	0.6
 我虽然很喜欢她，却不打算娶她。	wǒ suīrán hěn xǐhuan tā què bù dǎsuàn qǔ tā	Much as I like her I won't marry her.	2.1	0.6
@@ -2602,7 +2613,6 @@
 他的热情给公司注入了新的生命。	tā de rèqíng gěi gōngsī zhùrù le xīn de shēngmìng	His enthusiasm breathed new life into the company.	2.4	0.6
 我非常为你惋惜。	wǒ fēicháng wéi nǐ wǎnxī	I'm dreadfully sorry for you.	2.4	0.6
 我珍惜你的友谊。	wǒ zhēnxī nǐ de yǒuyì	I treasure your friendship.	2.4	0.6
-谢谢你给我们送礼物。	xièxie nǐ gěi wǒmen sòng lǐwù	Thank you for the present.	2.4	0.6
 我正在找兼职工作。	wǒ zhèngzài zhǎo jiānzhí gōngzuò	I'm looking for a part-time job.	2.4	0.6
 让我猜一猜。	tài zāogāo le	Let me guess.	2.4	0.6
 这星期他会很忙。	zhè xīngqī tā huì hěn máng	He is very busy this week.	2.4	0.6
@@ -2620,7 +2630,6 @@
 他有早起的习惯。	tā yǒu zǎoqǐ de xíguàn	He is in the habit of rising early.	2.6	0.6
 他的职业是经商。	tā de zhíyè shì jīngshāng	He is a merchant in occupation.	2.6	0.6
 我通常大概7点起床。	wǒ tōngcháng dàgài diǎn qǐchuáng	I used to get up at about seven.	2.6	0.6
-你对气功怎么看？	nǐ duì qìgōng zěnme kàn	How do you feel about Qigong?	2.6	0.6
 我不太满意他对这个句子的翻译。	wǒ bù tài mǎnyì tā duì zhège jùzi de fānyì	I'm not satisfied with his interpretation of this sentence.	2.6	0.6
 六十分等于一小时。	liùshí fēn děngyú yī xiǎoshí	Sixty minutes is equal to an hour.	2.6	0.6
 他发誓永远爱她。	tā fāshì yǒngyuǎn ài tā	He swore to love her for evermore.	2.6	0.6
@@ -2665,7 +2674,6 @@
 他害怕得声音发抖。	tā hàipà dé shēngyīn fādǒu	His voice shook with fear.	2.8	0.6
 我的计划逐渐成熟。	wǒ de jìhuà zhújiàn chéngshú	My plan has gradually come to maturity.	2.8	0.6
 后面那辆车想超过我们。	hòumian nà liàng chē xiǎng chāoguò wǒmen	The car behind wants to get ahead of us.	2.8	0.6
-瞧，我这是怎么搞的！它本是辆新车。我怎么办好呢？	qiáo wǒ zhè shì zěnmegǎode tā běn shì liàng xīn chē wǒ zěnmebàn hǎo ne	Just look what I have done! It was a new car. Whatever am I going to do?	2.867	0.6
 她终于嫁给了最执着追求她的人。	tā zhōngyú jià gěi le zuì zhízhuó zhuīqiú tā de rén	She eventually married the most persistent one of her admirers.	2.9	0.6
 这两间大教室已经分配给我们了.	zhè liǎng jiān dà jiàoshì yǐjīng fēnpèi gěi wǒmen le	The two large classrooms have been assigned to us.	2.9	0.6
 我的护照再过两个月就到期了。	wǒ de hùzhào zài guò liǎng gè yuè jiù dàoqī le	My passport is due to expire in two months.	2.9	0.6
@@ -2769,7 +2777,6 @@
 我们全都是为了他才放弃这个计划的。	wǒmen quándōu shì wèile tā cái fàngqì zhège jìhuà de	It was all because of him that we gave up the plan.	3.2	0.6
 可能别处还需要它。	kěnéng biéchù hái xūyào tā	It may be wanted elsewhere.	3.2	0.6
 我们要做陆地旅行。	wǒmen yào zuò lùdì lǚxíng	We will have an overland journey.	3.2	0.6
-园艺需要些什么工具？	yuányì xūyào xiē shénme gōngjù	What implements are needed for gardening?	3.2	0.6
 我要是找到了那小子，我饶不了他，你看他做的这事。	wǒ yàoshi zhǎo dàoliǎo nà xiǎozi wǒ ráo bùliǎo tā nǐ kàn tā zuò de zhè shì	I'll take that boy apart when I find him: look what he's done now.	3.267	0.6
 他坐在史密斯太太的旁边，他的视线落在她女儿的身上。	tā zuò zài Shǐmìsī tàitai de pángbiān tā de shìxiàn luò zài tā nǚ'ér de shēnshang	He was sitting next to Mrs. Smith his eyes resting on her daughter.	3.267	0.6
 最严重的最严峻的或最不利的	zuì yánzhòng de zuì yánjùn de huò zuì bùlì de	Most severe or unfavorable.	3.3	0.6
@@ -2800,7 +2807,6 @@
 忙中有错是很常见的。	mángzhōngyǒucuò shì hěn chángjiàn de	Haste makes waste as is often the case.	3.4	0.6
 你疯了吗?	nǐ fēng le ma	Are you mad?	3.4	0.6
 我的日语相当差。	wǒ de Rìyǔ xiāngdāng chà	My knowledge of Japanese is rather poor.	3.4	0.6
-日本在中国的东面。	Rìběn zài Zhōngguó de dōngmiàn	Japan lies to the east of China.	3.4	0.6
 他的伤口在溃烂。	tā de shāngkǒu zài kuìlàn	His wound became festering.	3.4	0.6
 她是个好伴侣.	tā shì gè hǎo bànlǚ	She's an excellent companion.	3.4	0.6
 他在群众中威信很高。	tā zài qúnzhòng zhōng wēixìn hěn gāo	He has high prestige among the masses.	3.4	0.6
@@ -2880,7 +2886,6 @@
 新规章对我们大家都会大有好处.	xīn guīzhāng duì wǒmen dàjiā dūhuì dàyǒu hǎochu	The new regulations will be of great benefit to us all.	3.5	0.6
 我已将情况告诉你，所以你必须酌情处理。	wǒ yǐ jiāng qíngkuàng gàosu nǐ suǒyǐ nǐ bìxū zhuóqíngchǔlǐ	I have told you the circumstances so you must act accordingly.	3.5	0.6
 如果孩子上了私立学校，他的父母就要为孩子的教育付学费。	rúguǒ háizi shàng le sīlìxuéxiào tā de fùmǔ jiùyào wéi háizi de jiàoyù fù xuéfèi	If a child attends a private school his parents pay the school for the child's education.	3.533	0.6
-你怎么可以这样说？	nǐ zěnme kěyǐ zhèyàng shuō	How can you say that?	3.6	0.6
 我送她一束丁香花。	wǒ sòng tā yī shù dīng xiānghuā	I gave her a bunch of lilac.	3.6	0.6
 要洗的餐具都在洗涤糟里呢.	yào xǐ de cānjù dōu zài xǐdí zāo lǐ ne	The washing-up had been left in the sink.	3.6	0.6
 桃花都已经开过了。	táo Huādū yǐjīng kāi guò le	The peach blossoms are over.	3.6	0.6
@@ -3222,6 +3227,8 @@
 种子，籽如苹果或桔子水果的小种子	zhǒngzi zǐ rú píngguǒ huò júzi shuǐguǒ de xiǎo zhǒngzi	The small seed of a fruit as that of an apple or orange.	4.2	0.6
 下雨了，他们不得不在旅馆里待了一整天。	xiàyǔ le tāmen bùdébù zài lǚguǎn lǐ dài le yī zhěngtiān	It was raining; they had to stay in the inn the whole day.	3.7	0.6
 旅行社的那位小姐告诉我下午一点开门.	lǚxíngshè de nà wèi xiǎojie gàosu wǒ xiàwǔ yīdiǎn kāimén	The lady at the tourist office told me it opened at 1 pm.	4.1	0.6
+种树前，我们先用铁锹挖了些坑。	zhòngshù qián wǒmen xiān yòng tiěqiāo wā le xiē kēng	We dig some pits with a spade before planting the trees.	4.3	0.6
+你想要些番茄汁吗？	nǐ xiǎngyào xiē fānqiézhī ma	Would you like some tomato juice?	3.4	0.6
 世界性的饥饿问题是个极其难以解决的问题，我恐怕人们在我这一辈子都找不出解决的办法。	shìjiè xìng de jī'è wèntí shì gè jíqí nányǐ jiějué de wèntí wǒ kǒngpà rénmen zài wǒ zhè yībèizi dōu zhǎo bù chū jiějué de bànfǎ	The question of world hunger is a very hard nut to crack. I doubt if we'll find the answer to it in my lifetime.	3.045	0.591
 明信片上只写了“祝你过得很愉快”，“真希望你在也这儿”或诸如此类的话。	míngxìnpiàn shàng zhǐ xiě le zhù nǐ guò dehěn yúkuài zhēn xīwàng nǐ zài yě zhèr huò zhūrúcǐlèi dehuà	The card just said""Having wonderful time.""""Wish you were here"" or some such things.	3.455	0.591
 我在街上遇到她，可是当我向她微笑时，她却连招呼都没有向我打一个。	wǒ zài jiēshang yùdào tā kěshì dāng wǒ xiàng tā wēixiào shí tā què lián zhāohu dōu méiyǒu xiàng wǒ dǎ yī gè	I passed her in the street but she didn't even acknowledge me when I smiled.	3.545	0.591
@@ -3252,10 +3259,10 @@
 我看见他把钥匙插进锁孔、 转动钥匙 然後打开了门.	wǒ kànjiàn tā bǎ yàoshi chājìn suǒkǒng zhuàndòng yàoshi ránhòu dǎkāi le mén	I saw him put the key in the lock turn it and open the door.	4.706	0.588
 以下是他在华府所发表的那篇著名的演讲中的一些摘录。	yǐxià shì tā zài Huáfǔ suǒ fābiǎo de nà piān zhùmíng de yǎnjiǎng zhòngdì yīxiē zhāilù	What follows is some excerpts of the famous speech he delivered in Washington D.C.	3.882	0.588
 如果老师连如此简单的问题都不能回答 他会在学生面前丢脸的。	rúguǒ lǎoshī lián rúcǐ jiǎndān de wèntí dōu bùnéng huídá tā huì zài xuésheng miànqián diūliǎn de	If a teacher can't answer this simple question he'll lose face with his class.	3.647	0.588
+只要把它完成了，你怎么做我并不计较。	zhǐyào bǎ tā wánchéng le nǐ zěnme zuò wǒ bìngbù jìjiào	I'm not particular how you do it as long as it gets done.	2.583	0.583
 我妈妈鼓励我，而且坚持我应该继续我的教育。	wǒ māma gǔlì wǒ érqiě jiānchí wǒ yīnggāi jìxù wǒ de jiàoyù	My mother encouraged me and insisted that I continue my education.	2.333	0.583
 因为我的愚蠢，我不得不站起来听他的批评。	yīnwèi wǒ de yúchǔn wǒ bùdébù zhànqǐlai tīng tā de pīpíng	I have to stand up listening to his criticism of my foolishness.	2.417	0.583
 你的鼓励使我对我的未来更加有信心。	nǐ de gǔlì shǐ wǒ duì wǒ de wèilái gèngjiā yǒu xìnxīn	Your encouragement made me more confident of my future.	2.583	0.583
-只要把它完成了，你怎么做我并不计较。	zhǐyào bǎ tā wánchéng le nǐ zěnme zuò wǒ bìngbù jìjiào	I'm not particular how you do it as long as it gets done.	2.583	0.583
 如果你同意我的意见，就明白地回答“是”。	rúguǒ nǐ tóngyì wǒ de yìjiàn jiù míngbai dì huídá shì	Answer with a plain ""yes"" if you agree with me.	2.583	0.583
 上次考试他给我指点错了，所以我没及格。	shàngcì kǎoshì tā gěi wǒ zhǐdiǎn cuò le suǒyǐ wǒ méi jígé	He gave me a bum steer on the last exam that I failed.	2.667	0.583
 报纸上的这篇文章为他的演讲提供了启发。	bàozhǐ shàng de zhè piān wénzhāng wéi tā de yǎnjiǎng tígōng le qǐfā	The newspaper article provided him with fuel for his speech.	2.667	0.583
@@ -3383,6 +3390,7 @@
 那两个女孩经常一起在那棵大山楂树下玩耍。	nà liǎng gè nǚhái jīngcháng yīqǐ zài nà kē dà shānzhā shù xià wánshuǎ	The two girls always play together under the large hawthorn.	3.5	0.583
 恰恰就在我登上公共汽车踏板的时候，车子开动了。	qiàqià jiù zài wǒ dēngshàng gōnggòngqìchē tàbǎn de shíhou chēzi kāidòng le	At the precise moment that I put my foot on the step the bus started.	3.667	0.583
 我庆幸自己不必在天气这样恶劣的夜晚外出.	wǒ qìngxìng zìjǐ bùbì zài tiānqì zhèyàng èliè de yèwǎn wàichū	I'm glad I don't have to go out on such a dirty night.	4.333	0.583
+他在那个伸出到街上的阳台上种了些花。	tā zài nàge shēnchū dào jiēshang de yángtái shàng zhǒng le xiē huā	He planted some flowers on the balcony that projects over the street.	3.583	0.583
 工作完成了--好倒是好--但是答应给我们的奖金给不给?	gōngzuò wánchéng le hǎo dàoshi hǎo dànshì dāying gěi wǒmen de jiǎngjīn gěi bù gěi	The job's done that's all well and good but what about the bonus we were promised?	2.842	0.579
 她雇佣我为她的私人助理，但我似乎要做的一切是替她打杂。	tā gùyōng wǒ wéi tā de sīrén zhùlǐ dàn wǒ sìhū yào zuò de yīqiè shì tì tā dǎzá	She took me on as her personal assistant but all I seem to do is fetch and carry for her.	3.105	0.579
 据说谁要摸了这棵树，谁就要倒霉；如果他摘了一片叶子，他就会死。	jùshuō shéi yào mō le zhè kē shù shéi jiùyào dǎoméi rúguǒ tā zhāi le yīpiàn yèzi tā jiù huìsǐ	It is said that if anyone touches the tree he will have bad luck; if he picks a leaf he will die.	3.316	0.579
@@ -3396,10 +3404,13 @@
 那个新来的学生粗鲁地跟老师顶嘴 一开始就把关系搞僵了.	nàge xīn lái de xuésheng cūlǔ dì gēn lǎoshī dǐngzuǐ yī kāishǐ jiù bǎ guānxi gǎo jiāng le	The new student started off on the wrong foot with the teacher by answering back rudely.	3.895	0.579
 贴花转印法把印在（尤指）准备好的纸张上的图画或图案转印到玻璃或金属等材料上的程序	tiē huā zhuàn yìn fǎ bǎ yìn zài yóuzhǐ zhǔnbèi hǎo de zhǐzhāng shàng de túhuà huò tú'àn zhuàn yìn dào bōli huò jīnshǔ děng cáiliào shàng de chéngxù	The process of transferring pictures or designs printed on specially prepared paper to materials such as glass or metal.	4.346	0.577
 中国历史上有多少个朝代？	Zhōngguó lìshǐshàng yǒu duōshao gè cháodài	How many dynasties are there in China's history?	1.857	0.571
-她的故事使我很感动。	tā de gùshi shǐ wǒ hěn gǎndòng	I was very moved by her story.	2.0	0.571
-她讲了她的冒险经历。	tā jiǎng le tā de màoxiǎn jīnglì	She recounted her adventures.	2.286	0.571
 他的中国功夫是无敌的。	tā de Zhōngguó gōngfu shì wúdí de	His Chinese kung fu is peerless.	2.429	0.571
 北京是中国的政治和金融中心。	Běijīng shì Zhōngguó de zhèngzhì hé jīnróng zhōngxīn	Beijing is the political and financial center of China.	2.429	0.571
+他是一个杰出的中国公民。	tā shì yī gè jiéchū de Zhōngguó gōngmín	He is an eminent citizen of China.	3.286	0.571
+中国是一个原油丰富的国家。	Zhōngguó shì yī gè yuányóu fēngfù de guójiā	China is a country rich in crude oil.	3.429	0.571
+中国人民是一个勤劳的民族。	Zhōngguó rénmín shì yī gè qínláo de mínzú	The Chinese are industrious people.	3.714	0.571
+她的故事使我很感动。	tā de gùshi shǐ wǒ hěn gǎndòng	I was very moved by her story.	2.0	0.571
+她讲了她的冒险经历。	tā jiǎng le tā de màoxiǎn jīnglì	She recounted her adventures.	2.286	0.571
 她努力要实现她的理想。	tā nǔlì yào shíxiàn tā de lǐxiǎng	She tries up to live up to her ideals.	2.429	0.571
 他被他的老板解雇了。	tā bèi tā de lǎobǎn jiěgù le	He was fired by his boss.	2.571	0.571
 他和我力气一样大.	tā hé wǒ lìqi yīyàng dà	He's my equal in strength.	2.571	0.571
@@ -3452,7 +3463,6 @@
 他已经习惯在外面吃饭了。	tā yǐjīng xíguàn zài wàimiàn chīfàn le	He is used to eating out all the time.	3.143	0.571
 你弟弟今天上午在公园玩耍吗？	nǐ dìdi jīntiān shàngwǔ zài gōngyuán wánshuǎ ma	Did your brother play in the park this morning?	3.143	0.571
 他在我腹部撞了一下。	tā zài wǒ fùbù zhuàng le yīxià	He gave me a butt on the stomach.	3.143	0.571
-他往石灰里加了些水。	tā wǎng shíhuī Lǐjiā le xiē shuǐ	He added some water into the lime.	3.143	0.571
 宽大是他最主要的特质。	kuāndà shì tā zuì zhǔyào de tèzhì	Generosity is his first attribute.	3.143	0.571
 那时他没暴露他的身份。	nàshí tā méi bàolù tā de shēnfèn	He didn't reveal his identity at that time.	3.143	0.571
 给我再来一壶咖啡.	gěi wǒ zài lái yī hú kāfēi	Bring me another pot of coffee.	3.143	0.571
@@ -3492,7 +3502,6 @@
 他是个卑鄙的家伙.	tā shì gè bēibǐ de jiāhuo	He's a scurvy wretch.	3.286	0.571
 来年我不会去英格兰游览。	láinián wǒ bùhuì qù Yīnggélán yóulǎn	I won't be visiting England next year.	3.286	0.571
 我查验了他的证件.	wǒ cháyàn le tā de zhèngjiàn	I examined his credentials.	3.286	0.571
-他是一个杰出的中国公民。	tā shì yī gè jiéchū de Zhōngguó gōngmín	He is an eminent citizen of China.	3.286	0.571
 我们现在究竟到哪里了?	wǒmen xiànzài jiūjìng dào nǎlǐ le	Where on earth have we fetched up now?	3.286	0.571
 来访者在中午前一会儿离开了。	láifǎng zhě zài zhōngwǔ qián yīhuìr líkāi le	The visitor left a little before noon.	3.286	0.571
 他的家乡在北回归线的北面。	tā de jiāxiāng zài Běihuíguīxiàn de běimiàn	His hometown is located in the north to the tropic of cancer.	3.286	0.571
@@ -3558,7 +3567,6 @@
 既然死人占多数，我们在死人之中比在生人之中有更多的朋友，就是理所当然的事情。	jìrán sǐrén zhàn duōshù wǒmen zài sǐrén zhīzhōng bǐ zài shēngrén zhīzhōng yǒu gèng duō de péngyou jiùshì lǐsuǒdāngrán de shìqing	The dead being the majority it is natural that we should have more friends among them than among the living.	3.429	0.571
 他对敌人有强烈的仇恨。	tā duì dírén yǒu qiángliè de chóuhèn	He has a strong animosity against his enemy.	3.429	0.571
 使害羞的人加入了交谈	shǐ hàixiū de rén jiārù le jiāotán	Engage a shy person in conversation.	3.429	0.571
-中国是一个原油丰富的国家。	Zhōngguó shì yī gè yuányóu fēngfù de guójiā	China is a country rich in crude oil.	3.429	0.571
 你知道不列颠群岛的位置吗？	nǐ zhīdào Bùlièdiān qúndǎo de wèizhi ma	Do you know the locations of the British Isles?	3.429	0.571
 她在衣著上很保守.	tā zài yīzhuó shàng hěn bǎoshǒu	She is conservative in the way she dresses.	3.429	0.571
 她的清秀美丽使他倾倒。	tā de qīngxiù měilì shǐ tā qīngdào	Her comeliness overwhelmed him.	3.429	0.571
@@ -3685,7 +3693,6 @@
 面包主要是由面粉做成的。	miànbāo zhǔyào shì yóu miànfěn zuò chéng de	Bread is chiefly made of flour.	3.714	0.571
 黄金和白银的起伏不定的价格	huángjīn hé báiyín de qǐfú bùdìng de jiàgé	The fluctuating value of gold and silver.	3.714	0.571
 他7岁时就会钢琴作曲。	tā suìshí jiù huì gāngqín zuòqǔ	He was composing at the piano at the age of seven.	3.714	0.571
-中国人民是一个勤劳的民族。	Zhōngguó rénmín shì yī gè qínláo de mínzú	The Chinese are industrious people.	3.714	0.571
 这只猫急速摇动着尾巴。	zhè zhǐ māo jísù yáodòng zhe wěiba	The cat lashed her tail.	3.714	0.571
 她把窗台漆上鲜艳的颜色。	tā bǎ chuāngtái qī shàng xiānyàn de yánsè	She painted the window sills a bright colour.	3.714	0.571
 他对此事有相似的说法。	tā duì cǐ shì yǒu xiāngsì de shuōfa	He talked about it in a similar way.	3.714	0.571
@@ -4033,6 +4040,7 @@
 家禽已经喂过饲料了.	jiāqín yǐjīng wèi guò sìliào le	The poultry have been fed.	4.143	0.571
 他们奖给优胜者一些水果和鲜花。	tāmen jiǎng gěi yōushèng zhě yīxiē shuǐguǒ hé xiānhuā	They rewarded the winners with gifts of fruits and flowers.	5.286	0.571
 史密斯先生在政府的行政部门工作。	Shǐmìsī xiānsheng zài zhèngfǔ de xíngzhèngbùmén gōngzuò	Mr. Smith works in an executive branch of the government.	3.286	0.571
+你最好听听我要说些什么。	nǐ zuìhǎo tīng tīng wǒ yàoshuō xiē shénme	You had better hear what I'll say.	3.143	0.571
 你们在外面享福，我却一直在这里辛辛苦苦守着火热的炉灶。可我又得到了什么报答呢？	nǐmen zài wàimiàn xiǎngfú wǒ què yīzhí zài zhèlǐ xīnxīnkǔkǔ shǒu zhe huǒrè de lúzào kě wǒ yòu dé dàoliǎo shénme bàodá ne	Here I've been slaving over a hot cooker while you have been out enjoying yourselves and what rewards do I get?	4.13	0.565
 他先给我们讲了一个亲身经历的故事，这样大家就谈了起来。	tā xiān gěi wǒmen jiǎng le yī gè qīnshēn jīnglì de gùshi zhèyàng dàjiā jiù tán le qilai	He led off the conversation by telling us a story of his personal experience.	3.062	0.562
 不管你的食物是蔬菜还是肉，在咽下以前咀嚼，是最重要的。	bùguǎn nǐ de shíwù shì shūcài háishi ròu zài yànxià yǐqián jǔjué shì zuì zhòngyào de	It is most important to chew your food whether vegetable or meat before you swallow it down.	3.188	0.562
@@ -4069,10 +4077,10 @@
 自从她在学校里获奖以来，她就一直目中无人，不愿与别的女孩子说话。	zìcóng tā zài xuéxiào lǐ huòjiǎng yǐlái tā jiù yīzhí mùzhōngwúrén bùyuàn yǔ biéde nǚháizi shuōhuà	Since she won a prize at school she's been going about with her nose in the air and refusing to talk to the other girls.	3.75	0.562
 向导们把我气死了，所以嘛，我今天杀掉了其中一个，还叫人给做成标本摆在我们的纪念品室。	xiàngdǎo men bǎ wǒ qìsǐ le suǒyǐ ma wǒ jīntiān shādiào le qízhōng yī gè hái jiào rén gěi zuò chéng biāoběn bǎi zài wǒmen de jìniànpǐn shì	Guides have annoyed me so that today I kill one and am had him stuffed for our trophy rooms.	3.84	0.56
 第二天早上我与妻子离别之时，我已经走出门外几步，她叫我回来，小声地对我说要多加小心。	dì'èrtiān zǎoshang wǒ yǔ qīzi líbié zhī shí wǒ yǐjīng zǒuchū ménwài jǐ bù tā jiào wǒ huílai xiǎoshēng dì duì wǒ shuō yào duō jiā xiǎoxīn	My wife however next morning at parting after I had gone some paces from the door called me back to advise me in a whisper to have all my eyes about me.	4.08	0.56
-你愿意当你弟弟的保证人吗？	nǐ yuànyì dāng nǐ dìdi de bǎozhèngrén ma	Are you willing to stand surety for your brother?	2.0	0.556
-因为现在是收获期，所以我们都非常忙。	yīnwèi xiànzài shì shōuhuò qī suǒyǐ wǒmen dōu fēicháng máng	We are all very busy because it's the harvest time.	2.111	0.556
 玛丽所有的钱是怎么赚到的？	Mǎlì suǒyǒu de qián shì zěnme zhuàn dào de	How did Mary make all of her money?	2.444	0.556
 中国菜在每一方面都是精美的。	Zhōngguócài zài měi yīfāngmiàn dōu shì jīng Měidí	Everything about Chinese food is refined.	2.444	0.556
+你愿意当你弟弟的保证人吗？	nǐ yuànyì dāng nǐ dìdi de bǎozhèngrén ma	Are you willing to stand surety for your brother?	2.0	0.556
+因为现在是收获期，所以我们都非常忙。	yīnwèi xiànzài shì shōuhuò qī suǒyǐ wǒmen dōu fēicháng máng	We are all very busy because it's the harvest time.	2.111	0.556
 咱们一起复习你的英语练习好吗？	zánmen yīqǐ fùxí nǐ de Yīngyǔ liànxí hǎo ma	Shall we go over your English exercises together?	2.556	0.556
 我希望这本书的字再大一点儿。	wǒ xīwàng zhè běn shū de zì zài dà yīdiǎnr	I wish this book was written in bigger character.	2.556	0.556
 他为我演奏了他的许多乐曲。	tā wéi wǒ yǎnzòu	He played many of his compositions for me.	2.667	0.556
@@ -4507,6 +4515,9 @@
 天气的变化打乱了我们体育比赛的时间表。	tiānqì de biànhuà dǎ luàn le wǒmen tǐyùbǐsài de shíjiānbiǎo	The change of the weather has mucked up our sports timetable.	3.222	0.556
 天气多好哇，咱们何不开车到海边玩玩？	tiānqì duō hǎowā zánmen hébù kāichē dào hǎibiān wán wán	It's a lovely sunny day; why don't we run down to the coast?	4.778	0.556
 哲琪太太：嗯，坦白说，我不很好，小姐。今天早上我的狗被一辆车撞了。	zhé qí tàitai èn tǎnbái shuō wǒ bùhěn hǎo xiǎojie jīntiān zǎoshang wǒ de gǒu bèi yī liàng chē zhuàng le	Mrs. Jerky: Well to be quite frank I'm not so hot young lady. This morning my dog got hit by a car.	2.833	0.556
+我要去购物，因为我需要买些日用品。	wǒ yào qù gòuwù yīnwèi wǒ xūyào mǎi xiē rìyòngpǐn	I'm going shopping because I need to buy some daily necessities.	2.778	0.556
+他在手上涂了些药膏来止痛。	tā zài shǒu shàng tú le xiē yàogāo lái zhǐtòng	He smeared some balm on his hand to soothe the pain.	3.667	0.556
+你应该对长辈和上级尊重些.	nǐ yīnggāi duì zhǎngbèi hé shàngjí zūnzhòng xiē	You should show greater respect for your elders and betters.	3.667	0.556
 就像那个说他除了昆虫和民间舞蹈啥都想试试的人一样，我们大多数人心里都有个人界线，知道该在哪儿收手。	jiù xiàng nàge shuō tā chúle kūnchóng hé mínjiānwǔdǎo shá dōu xiǎng shì shì de rén yīyàng wǒmen dàduōshù rén xīnli dōu yǒu gèrén jièxiàn zhīdào gāi zàinǎr shōu shǒu	Most of us would draw the line somewhere like the man who said he'd try anything once except insect and folk dancing.	3.828	0.552
 向你表达良好的祝愿。他让我一定转告你，他得知你的病情；好转后十分高兴。	xiàng nǐ biǎodá liánghǎo de zhùyuàn tā ràng wǒ yīdìng zhuǎngào nǐ tā dézhī nǐ de bìngqíng hǎozhuǎn hòu shífēn gāoxìng	Frank sends his best wishes and he says to be sure and tell you how delighted he is to hear about your fine progress.	3.55	0.55
 即使要求很高的市场对不同种类的商品，也需要有各种档次的货色和价格。	jíshǐ yāoqiú hěn gāo de shìchǎng duì bùtóng zhǒnglèi de shāngpǐn yě xūyào yǒu gèzhǒng dàngcì de huòsè hé jiàgé	Even highly demanding markets require a wide range of quality and price levels for any group of products.	3.55	0.55
@@ -4516,6 +4527,7 @@
 要不是办像酿酒厂或保险公司这样的副业，他们没有多少人只靠艺术就能过的舒舒服服。	yàobushì bàn xiàng niàng jiǔchǎng huò bǎoxiǎn gōngsī zhèyàng de fùyè tāmen méiyǒu duōshao rén zhǐ kào yìshù jiù néng guò de shūshufufu	Few of them managed to make a good living out of their art alone without running a sideline such as a brewery or an insurance office.	4.75	0.55
 但是你曾经有过用你的视觉去看透一个朋友或相识的内在本质的时候吗？	dànshì nǐ céngjīng yǒu guò yòng nǐ de shìjué qù kàntòu yī gè péngyou huò xiāngshí de nèizài běnzhì de shíhou ma	But does it ever occur to you to use your sight to see into the inner nature of a friends or acquaintance?	3.6	0.55
 银行经理说，为了使我从幻想中清醒过来并控制我的开支，将不给我有透支的便利，并还将收回我的支票卡。	yínháng jīnglǐ shuō wèile shǐ wǒ cóng huànxiǎng zhōng qīngxǐng guòlái bìng kòngzhì wǒ de kāizhī jiāng bù gěi wǒ yǒu tòuzhī de biànlì bìng hái jiāng shōuhuí wǒ de zhīpiào kǎ	The bank manager said that in order to bring me down to earth and control my spending I would have no overdraft facility and my cheque card would be withdrawn.	4.0	0.548
+如果这里这么没有条理，我怎么晓得该做些什么？	rúguǒ zhèlǐ zhème méiyǒu tiáolǐ wǒ zěnme xiǎode gāi zuò xiē shénme	How am I to know what I am supposed to do if there's no organization around here?	4.909	0.545
 我代表我的同事和我本人向你表示感谢。	wǒ dàibiǎo wǒ de tóngshì hé wǒ běnrén xiàng nǐ biǎoshì gǎnxiè	On behalf of my colleagues and myself I thank you.	2.545	0.545
 仍有许多人的生活条件是很艰苦的。	réng yǒu xǔduō rén de shēnghuó tiáojiàn shì hěn jiānkǔ de	There are still many people whose living conditions are miserable.	2.727	0.545
 这家公司的主要问题是缺少有技术的人员。	zhè jiā gōngsī de zhǔyào wèntí shì quē shǎoyǒu jìshù de rényuán	The company's main problem is the shortage of skilled personnel.	2.818	0.545
@@ -4529,7 +4541,6 @@
 终于在一六八七年他发表了他的新理论。	zhōngyú zài yī liù bā qī nián tā fābiǎo le tā de xīn lǐlùn	Only in 1687 did he at last publish his new theory.	3.091	0.545
 自从我们看望你母亲以来到现在有多长时间了？	zìcóng wǒmen kànwàng nǐ mǔqīn yǐlái dàoxiànzài yǒu duō cháng shíjiān le	How long is it since we visited your mother?	3.091	0.545
 他经过了几天的思想斗争，决定接受我的建议。	tā jīngguò le jǐtiān de sīxiǎng dòuzhēng juédìng jiēshòu wǒ de jiànyì	After tussling with himself for some days he decided to accept my offer.	3.091	0.545
-果断些，确切地告诉他们你认为应该怎么做。	guǒduàn xiē quèqiè dì gàosu tāmen nǐ rènwéi yīnggāi zěnme zuò	Be decisive tell them exactly what you think should be done.	3.091	0.545
 不好客的没有表现出好客的；不友好的	bùhǎo kè de méiyǒu biǎoxiàn chū hàokè de bù yǒuhǎo de	Displaying no hospitality; unfriendly.	3.182	0.545
 我在街上遇到她时，她假装不认得我。	wǒ zài jiēshang yùdào tā shí tā jiǎzhuāng bù rènde wǒ	She pretended she didn't know me when I passed her in the street.	3.182	0.545
 他非但不接受我的劝告，反而背叛了我。	tā fēidàn bù jiēshòu wǒ de quàngào fǎn'ér bèipàn le wǒ	Far from accepting my advice he went back on me.	3.182	0.545
@@ -4580,7 +4591,6 @@
 我可以用铆钉把这些金属板固定在一起吗？	wǒ kěyǐ yòng mǎodīng bǎ zhèxiē jīnshǔbǎn gùdìng zàiyīqǐ ma	Can I fasten these metal plates with rivets?	3.545	0.545
 他老爱说大话，就仿佛他是一位要人似的。	tā lǎo ài shuō dà huà jiù fǎngfú tā shì yī wèi yàorén shìde	He likes to talk big as though he was an important person.	3.545	0.545
 这条大船的马达坏了，无法再航行了。	zhè tiáo dà chuán de mǎdá huài le wúfǎ zài hángxíng le	With its engine broken this great ship was not navigable.	3.545	0.545
-这家饭馆的价钱对我来说贵了些.	zhè jiā fànguǎn de jiàqian duìwǒláishuō guì le xiē	This restaurant is a bit pricey for me.	3.545	0.545
 你若不希望我们的代理人去造访，请告之。	nǐ ruò bù xīwàng wǒmen de dàilǐrén qù zàofǎng qǐng gàozhī	Should you not wish our agent to call please let us know.	3.545	0.545
 遗传与环境可以决定一个人的性格吗?	yíchuán yǔ huánjìng kěyǐ juédìng yīgèrén de xìnggé ma	Do heredity and environment determine one's character?	3.545	0.545
 对休闲有明显作用的另一产业是娱乐。	duì xiūxián yǒu míngxiǎn zuòyòng de lìngyī chǎnyè shì yúlè	Another industry obviously devoted to leisure is entertainment.	3.545	0.545
@@ -4702,7 +4712,6 @@
 听到收音机里传来的轻快乐曲，这个病人笑了。	tīngdào shōuyīnjī lǐ chuánlái de qīngkuài yuèqǔ zhège bìngrén xiào le	The patient smiled when he heard the sprightly music on the radio.	4.818	0.545
 这次试验的结果与以往试验的结果毫不相干.	zhè cì shìyàn de jiéguǒ yǔ yǐwǎng shìyàn de jiéguǒ háo bùxiānggān	The results of this experiment do not correlate with the results of earlier ones.	4.818	0.545
 郁金香在春天开出颜色鲜亮的杯状的花朵。	yùjīnxiāng zài chūntiān kāi chū yánsè xiānliang de bēi zhuàng de huāduǒ	Tulip grows large brightly-colored cup-shaped flower in spring.	4.909	0.545
-如果这里这么没有条理，我怎么晓得该做些什么？	rúguǒ zhèlǐ zhème méiyǒu tiáolǐ wǒ zěnme xiǎode gāi zuò xiē shénme	How am I to know what I am supposed to do if there's no organization around here?	4.909	0.545
 我被教会三角形两个边的和大于第三个边。	wǒ bèi jiāohuì sānjiǎoxíng liǎng gè biān de hé dàyú dì sān gè biān	I was taught that two sides of a triangle were greater than the third.	5.0	0.545
 这次爆炸把那个旧烟囱给炸倒了.	zhè cì bàozhà bǎ nàge jiù yāncōng gěi zhá dǎo le	The explosion toppled the old chimney.	5.0	0.545
 这一段里面有很多名词，例如男孩、女孩和书本。	zhè yī duàn lǐmiàn yǒu hěn duō míngcí lìrú nánhái nǚhái hé shūběn	In this paragraph there are many nouns such as boy girl and book.	5.091	0.545
@@ -4756,6 +4765,7 @@
 5月27日，我们将工厂完整无损地移交给解放军。	yuè rì wǒmen jiāng gōngchǎng wánzhěng wú sǔn dì yí jiāogěi Jiěfàngjūn	On May27 we handed over the plant to the Liberation Army undamaged.	4.364	0.545
 我们的步兵和装甲兵均比敌军的少.	wǒmen de bùbīng hé zhuāngjiǎ bīng jūn bǐ díjūn de shǎo	We have less infantry and armour than the enemy.	3.818	0.545
 你认为这个病人什么时候可以做肿瘤手术?	nǐ rènwéi zhège bìngrén shénmeshíhou kěyǐ zuò zhǒngliú shǒushù	When do you think the patient can be operated on for the tumor?	3.727	0.545
+教会应当就基本道德问题多做出些榜样.	jiāohuì yīngdāng jiù jīběn dàodé wèntí duō zuòchū xiē bǎngyàng	The Church should give more of a lead on basic moral issues.	4.545	0.545
 新上任的警察局长很快就让人感觉到他不是平庸之辈。他的主张一付诸实施镇里犯罪情况就少多了。	xīn shàngrèn de jǐngchájú cháng hěn kuài jiù ràng rén gǎnjuédào tā bùshì píngyōngzhībèi tā de zhǔzhāng yī fùzhūshíshī zhèn lǐ fànzuì qíngkuàng jiù shǎo duō le	The new chief police officer quickly made his presence felt and there was much less crime in the town after his ideas were put into practice.	3.75	0.542
 你太粗心了，居然连你妈妈的生日也忘了。	nǐ tài cūxīn le jūrán lián nǐ māma de shēngrì yě wàng le	It was thoughtless of you to forget your mother's birthday.	2.385	0.538
 我们一起欢度的那个晚上是我最快乐的事情之一。	wǒmen yīqǐ huāndù de nàge wǎnshang shì wǒ zuì kuàilè de shìqing zhīyī	That evening together is one of my happiest recollections.	2.769	0.538
@@ -4770,7 +4780,6 @@
 我们有了孩子以后不可能再居住在单间套房里了，爹爹帮了我们大忙，把买房的定金借给了我们。	wǒmen yǒule háizi yǐhòu bùkěnéng zài jūzhù zài dān jiān tàofáng lǐ le diē diē bāng le wǒmen dà máng bǎ mǎifáng de dìngjīn jiègěi le wǒmen	It was impossible living in a one-roomed flat after we had the baby but Dad pulled the chestnuts out of the fire by lending us the deposit for a house.	3.308	0.538
 这一情况出现得很突然，把我们的计划全都打乱了。	zhè yī qíngkuàng chūxiàn dehěn tūrán bǎ wǒmen de jìhuà quándōu dǎ luàn le	This sudden development turned all our plans topsy-turvy.	3.385	0.538
 即使是最聪明的人也会陷入琐事与混乱之中。	jíshǐ shì zuì cōngming de rén yě huì xiànrù suǒshì yǔ hùnluàn zhīzhōng	The most brilliant person may be mired in detail and confusion.	3.462	0.538
-他要想当选就得把观点改得缓和些.	tā yào xiǎng dāngxuǎn jiù dé bǎ guāndiǎn gǎi dé huǎnhé xiē	He'll have to modify his views if he wants to be elected.	3.462	0.538
 别惦记我们--我们不久就和你们在一起了.	bié diànjì wǒmen wǒmen bùjiǔ jiù hé nǐmen zàiyīqǐ le	Don't bother about us we'll join you later.	3.462	0.538
 工会运动旨在争取更高的工资和更好的工作条件。	gōnghuì yùndòng zhǐzài zhēngqǔ gèng gāo de gōngzī hé gèng hǎo de gōngzuò tiáojiàn	The Trade Union Movement works to obtain higher wages and better conditions.	3.462	0.538
 她还没做出什麽成绩来。但她确实很努力。	tā hái méi zuòchū shí mó chéngjì lái dàn tā quèshí hěn nǔlì	She hasn't had much success yet. Mark you she does try hard.	3.462	0.538
@@ -4868,6 +4877,7 @@
 一个小男孩在街上拦住了我，问道；“先生，现在几点了？”	yī gè xiǎo nánhái zài jiēshang lánzhù le wǒ wèndào xiānsheng xiànzài jǐdiǎnle	A little boy stopped me in the street and asked me ""What's the time mister?""	4.231	0.538
 我前来看你，是因为安德森先生说你对我们的工程很感兴趣。	wǒ qián láikàn nǐ shì yīnwèi ān dé sēn xiānsheng shuō nǐ duì wǒmen de gōngchéng hěn gǎnxìngqù	I came to see you on the ground that Mr Anderson said that you were interested in our project.	4.462	0.538
 ＂孩子们，大家聚拢点，爱丽丝小姐给你们讲个寓言故事。＂	háizimen dàjiā jùlǒng diǎn Àilìsī xiǎojie gěi nǐmen jiǎng gè yùyán gùshi	Children gather round and Miss Alice will tell you a fable.""	4.923	0.538
+我们的电费已经高得付不起了--得节省些了.	wǒmen de diàn fèi yǐjīng gāo dé fù bù qǐ le dé jiéshěng xiē le	Our electricity bills are higher than we can afford we must start to economize.	3.769	0.538
 这是我所能找到的最令人信服的证据，以证明我的观点。	zhè shì wǒ suǒnéng zhǎodào de zuì lìngrén xìnfú de zhèngjù yǐ zhèngmíng wǒ de guāndiǎn	This is the most convincing evidence that I can find to prove my point.	3.2	0.533
 机器使人们有可能用较小的气力做较多的工作。	jīqì shǐ rénmen yǒukěnéng yòng jiào xiǎode qìlì zuò jiào duō de gōngzuò	Machines make it possible that people do more work with less energy.	3.2	0.533
 我的车发动不起来了，我就向碰巧路过的人求助。	wǒ de chē fādòng bù qilai le wǒ jiù xiàng pèngqiǎo lùguò de rén qiúzhù	My car had stalled and I sought help from casual passer- by.	3.267	0.533
@@ -4947,10 +4957,10 @@
 假使她获得这份工作，那对彼得是当头一棒；他是拼命想得到这份工作的。	jiǎshǐ tā huòdé zhè fèn gōngzuò nà duì Bǐdé shì dāng tóuyī bàng tā shì pīnmìng xiǎng dédào zhè fèn gōngzuò de	If she gets the job that's one in the eye for Peter: he was desperate to get it.	3.706	0.529
 很少有老师能使学生对那些需要刻苦努力才能学好的枯燥学科感兴趣。	hěn shǎoyǒu lǎoshī néng shǐ xuésheng duì nàxiē xūyào kèkǔnǔlì cáinéng xuéhǎo de kūzào xuékē gǎnxìngqù	Few teachers are able to interest their students in dull subjects that mean a lot of hard work.	4.176	0.529
 瞧都什麽时候了! 十分钟前我们就该到戏院了.	qiáo dōu shí mó shíhou le shífēn zhōng qián wǒmen jiù gāi dào xìyuàn le	Look at the time! We should have been at the theatre ten minutes ago.	4.529	0.529
+在树林中走了一个小时而没有见到什么值得注意的东西，这怎么可能呢?	zài shùlín zhōng zǒu le yī gè xiǎoshí ér méiyǒu jiàndào shénme zhídezhùyì de dōngxi zhè zěnme kěnéng ne	How was it possible to walk for an hour through the woods and see nothing worthy of note?	3.526	0.526
 在这个可怕的地方呆了将近4个星期的时间，我完全依靠自己的力量生活。	zài zhège kěpà de dìfang dāi le jiāngjìn gè xīngqī de shíjiān wǒ wánquán yīkào zìjǐ de lìliang shēnghuó	During nearly for weeks in this glorious place I have lived on my own hump.	3.053	0.526
 尽管客栈老板很热情，但我们猜想他的真正目的是为了得到更多的钱。	jǐnguǎn kèzhàn lǎobǎn hěn rèqíng dàn wǒmen cāixiǎng tā de zhēnzhèng mùdì shì wèile dédào gèng duō de qián	Although the innkeeper was warm we guessed that his real goad was to get more money.	3.263	0.526
 一个人的伟大与其说是由他的财富来判断，倒不如说是由他的品德来判断。	yīgèrén de wěidà yǔqí shuō shì yóu tā de cáifù lái pànduàn dǎo bùrú shuō shì yóu tā de pǐndé lái pànduàn	One's greatness lies not so much in his wealth as in his character.	3.316	0.526
-在树林中走了一个小时而没有见到什么值得注意的东西，这怎么可能呢?	zài shùlín zhōng zǒu le yī gè xiǎoshí ér méiyǒu jiàndào shénme zhídezhùyì de dōngxi zhè zěnme kěnéng ne	How was it possible to walk for an hour through the woods and see nothing worthy of note?	3.526	0.526
 你看见语法书在哪儿呢吗? 词典都在正对著的书架上.	nǐ kànjiàn yǔfǎshū zàinǎr ne ma cídiǎn dōu zài zhèngduì zhe de shūjià shàng	Can you see where the grammar books are? The dictionaries are on the shelf directly opposite.	3.579	0.526
 他好像起了疑心--你觉得他看穿我们[我们要干的事]了吗?	tā hǎoxiàng qǐ le yíxīn nǐ juéde tā kànchuān wǒmen wǒmen yào gàn de shì le ma	He looks suspicious do you think he's rumbled us/what we're up to?	3.789	0.526
 前年夏天它就坏了。虽然我早就许诺过我自己修，但是我从未腾出空来。	qiánnián xiàtiān tā jiù huài le suīrán wǒ zǎojiù xǔnuò guò wǒ zìjǐ xiū dànshì wǒ cóngwèi téng chū kōng lái	It had broken down the previous summer and though I promised to repair it I had never got round to it.	4.0	0.526
@@ -4983,7 +4993,12 @@
 接着我就说，我从来就不知道美国三军的力量削弱到如此危险的地步，我这话可引起了轩然大波。	jiēzhe wǒ jiù shuō wǒ cónglái jiù bù zhīdào Měiguó sānjūn de lìliang xuēruò dào rúcǐ wēixiǎn de dìbù wǒ zhè huà kě yǐnqǐ le xuānrándàbō	I then said that I had never known the Services reduced to such a parlous condition. This fairly set the cat among the pigeons.	3.92	0.52
 过去的已经过去，且一去不返，而聪明人总是努力着眼于现在和将来的事情，所以对过去耿耿于怀着无非是在捉弄自己罢了。	guòqu de yǐjīng guòqu qiě yī qù bù fǎn ér cōngming rén zǒngshì nǔlì zhuóyǎn yú xiànzài hé jiānglái de shìqing suǒyǐ duì guòqu gěnggěngyúhuái zhe wúfēi shì zài zhuōnòng zìjǐ bàle	That which is past is gone and irrevocable; and wise men have enough to do with things present and to come; therefore they do but trifle with themselves that labor in past matters.	3.667	0.519
 装备有雷达的飞机，在夜间飞行时飞行员能够在雷达屏幕上看见远处的建筑物、或许还能看见前面几英里远的险峻山峰。	zhuāngbèi yǒu léidá de fēijī zài yèjiān fēixíng shí fēixíngyuán nénggòu zài léidá píngmù shàng kànjiàn yuǎnchù de jiànzhùwù huòxǔ hái néng kànjiàn qiánmiàn jǐ Yīnglǐ yuǎn de xiǎnjùn shānfēng	The pilot in an airplane equipped with radar flying at night can see on the radar viewing screen distant buildings or perhaps a dangerous mountain peak that is miles ahead.	4.034	0.517
+那儿怎么样？	nàr zěnmeyàng	What is it like there?	4.0	0.5
 你的约会怎么样？	nǐ de yuēhuì zěnmeyàng	How was your date?	1.75	0.5
+中国是一个发展中国家。	Zhōngguó shì yī gè fāzhǎnzhōngguójiā	China is a developing country.	4.0	0.5
+从三楼掉下而没有受伤，这怎么可能呢？	cóng sān lóu diàoxià ér méiyǒu shòushāng zhè zěnme kěnéng ne	How was it possible to fall down from the third floor without being hurt?	3.3	0.5
+我们今天晚上节目中最精彩的是中国杂技表演.	wǒmen jīntiān wǎnshang jiémù zhōng zuì jīngcǎi de shì Zhōngguó zájì biǎoyǎn	The star turn in our show tonight will be a group of Chinese acrobats.	3.083	0.5
+中国人民正在努力工作，把国家建设得更加富饶美丽。	Zhōngguó rénmín zhèngzài nǔlì gōngzuò bǎ guójiā jiànshè dé gèngjiā fùráo měilì	Chinese people are working hard to make the country richer and more beautiful.	3.583	0.5
 我记得很清楚。	wǒ jìde hěn qīngchu	I remember quite clearly.	2.0	0.5
 你愿意帮忙吗？	nǐ yuànyì bāngmáng ma	Are you willing to help?	2.0	0.5
 一般人都相信努力是值得的。	yībānrén dōu xiāngxìn nǔlì shì zhíde de	It is generally believed that it pays to work hard.	2.125	0.5
@@ -5005,7 +5020,6 @@
 我再一考虑，反倒觉得可能还是她对。	wǒ zài yī kǎolǜ fǎndào juéde kěnéng háishi tā duì	On further reflection I saw that she might be right after all.	2.6	0.5
 我向他表达了诚挚的问候。	wǒ xiàng tā biǎodá le chéngzhì de wènhòu	I send my regards to him with earnestness.	2.625	0.5
 再呆10个星期，一共3个月。	zài dāi gè xīngqī yīgòng gè yuè	Another ten weeks three months altogether.	2.625	0.5
-他去邮局买些邮票。	tā qù yóujú mǎi xiē yóupiào	He went to the post-office to buy some stamps.	2.667	0.5
 他带着姐姐一同去。	tā dài zhe jiějie yītóng qù	He took his sister along with him.	2.667	0.5
 我们说服她参加了宴会。	wǒmen shuōfú tā cānjiā le yànhuì	We argued her into joining us.	2.667	0.5
 那匹马踢了我。	nà pǐ mǎ tī le wǒ	That horse kicked me.	2.75	0.5
@@ -5080,7 +5094,6 @@
 我们准备把多余的苹果全部送人。	wǒmen zhǔnbèi bǎ duōyú de píngguǒ quánbù sòngrén	We are giving away all our surplus apples.	3.0	0.5
 学习代数很容易。	xuéxí dàishù hěn róngyì	It's easy to learn algebra.	3.0	0.5
 我决定当场立即就做。	wǒ juédìng dāngchǎng lìjí jiù zuò	I decided to do it then and there.	3.0	0.5
-我们今天晚上节目中最精彩的是中国杂技表演.	wǒmen jīntiān wǎnshang jiémù zhōng zuì jīngcǎi de shì Zhōngguó zájì biǎoyǎn	The star turn in our show tonight will be a group of Chinese acrobats.	3.083	0.5
 他的发现使我们的科学知识的面貌为之一新。	tā de fāxiàn shǐ wǒmen de kēxuézhīshi de miànmào wéi zhīyī xīn	His discoveries have put a new face on our scientific knowledge.	3.1	0.5
 我仍然弄不清楚你所强调的要点。	wǒ réngrán nòngbuqīng chǔ nǐ suǒ qiángdiào de yàodiǎn	I still don't see the point you emphasized.	3.1	0.5
 所有参加辩论的人都有机会发言.	suǒyǒu cānjiā biànlùn de rén dōu yǒu jīhuì fāyán	All the participants in the debate had an opportunity to speak.	3.1	0.5
@@ -5164,7 +5177,6 @@
 他们突然的攻击使我们更加注意我们周围的危险。	tāmen tūrán de gōngjī shǐ wǒmen gèngjiā zhùyì wǒmen zhōuwéi de wēixiǎn	Their sudden attack made us more aware of the danger around us.	3.25	0.5
 我今天要讲的是我们社会面临的一大危害，就是艾滋病。	wǒ jīntiān yào jiǎng de shì wǒmen shèhuì miànlín de yī dà wēihài jiùshì àizībìng	I want to talk today about a major threat facing our society namely AIDS.	3.286	0.5
 他已走完他的行程而长眠了。	zhǔxí yīzhí yǐ chénmèn de yǔdiào jiǎng le jǐ xiǎoshí	He has run his course and takes his perpetual rest.	3.3	0.5
-从三楼掉下而没有受伤，这怎么可能呢？	cóng sān lóu diàoxià ér méiyǒu shòushāng zhè zěnme kěnéng ne	How was it possible to fall down from the third floor without being hurt?	3.3	0.5
 我头痛得很厉害，而且我的鼻涕很多。	wǒ tóutòng dehěn lìhai érqiě wǒ de bítì hěn duō	I have a bad headache and my nose run a lot.	3.3	0.5
 尽管他的祖父是贵族，他却非常穷困。	jǐnguǎn tā de zǔfù shì guìzú tā què fēicháng qióngkùn	Although his grandfather was a nobleman he was very poor.	3.3	0.5
 你若是规规矩矩的，老板就可能提拔你。	nǐ ruòshì guī guīju jǔ de lǎobǎn jiù kěnéng tíbá nǐ	If you keep your nose clean the boss might promote you.	3.3	0.5
@@ -5376,12 +5388,10 @@
 他在去糖果店的路上，把钱掉到地上了，硬币沿着人行道滚动，掉进阴沟里去了。	tā zài qù tángguǒ diàn de lùshang bǎ qián diào dào dìshang le yìngbì yánzhe rénxíngdào gǔndòng diào jìn yīn gōu lǐ qù le	On him way to the sweet shop he dropped his sixpence and it rolled along the pavement and then disappeared down a drain.	3.545	0.5
 在晚报的一则广告里，他促请大家注意他新进的货物。	zài wǎnbào de yīzé guǎnggào lǐ tā cùqǐng dàjiā zhùyì tā xīn jìn de huòwù	In an advertisement in the evening paper he calls public attention to his new stock of goods.	3.571	0.5
 在她被接受为固定雇员之前经过了三个月的试用期。	zài tā bèi jiēshòu wéi gùdìng gùyuán zhīqián jīngguò le sān gè yuè de shìyòngqī	He was taken on for a three-month trial period before being accepted as a permanent member of staff.	3.571	0.5
-他在那个伸出到街上的阳台上种了些花。	tā zài nàge shēnchū dào jiēshang de yángtái shàng zhǒng le xiē huā	He planted some flowers on the balcony that projects over the street.	3.583	0.5
 最小的响声也会吓着这个胆小的孩子的。	zuì xiǎode xiǎngshēng yě huì xià zhe zhège dǎn xiǎode háizi de	The least noise would startle the timid child.	3.583	0.5
 好看的身材或面貌上让人愉快的，端庄的	hǎokàn de shēncái huò miànmào shàng ràng rén yúkuài de duānzhuāng de	Pleasing and dignified in form or appearance.	3.583	0.5
 现在他们在完成定额方面不再落在别人后面了。	xiànzài tāmen zài wánchéng dìng'é fāngmiàn bùzài luò zài biéren hòumian le	Now they no longer fall behind the others in meeting their quotas.	3.583	0.5
 鉴于你我双方长期的业务关系，我们可以考虑减价。	jiànyú nǐwǒ shuāngfāng chángqī de yèwù guānxi wǒmen kěyǐ kǎolǜ jiǎnjià	In view of our long-standing business relations we can consider a price reduction.	3.583	0.5
-中国人民正在努力工作，把国家建设得更加富饶美丽。	Zhōngguó rénmín zhèngzài nǔlì gōngzuò bǎ guójiā jiànshè dé gèngjiā fùráo měilì	Chinese people are working hard to make the country richer and more beautiful.	3.583	0.5
 她有一条用三角形蓝绸子做的围巾。	tā yǒu yī tiáo yòng sānjiǎoxíng lán chóuzi zuò de wéijīn	She has a scarf made of a triangular piece of blue silk.	3.6	0.5
 她透过雾眯着眼看，想找出正确的路。	tā tòuguò wù mī zhuóyǎn kàn xiǎng zhǎochū zhèngquè de lù	She peers through the mist trying to find the right path.	3.6	0.5
 他作曲家和指挥家的双重身份使他非常繁忙。	tā zuòqǔjiā hé zhǐhuījiā de shuāngchóng shēnfèn shǐ tā fēicháng fánmáng	His dual role as a composer and a conductor made him very busy.	3.6	0.5
@@ -5860,7 +5870,6 @@
 进出口的高关税是国际贸易的障碍。	jìnchūkǒu de gāo guānshuì shì guójìmàoyì de zhàng'ài	Heavy duties on imports and exports are a barrier to international trade.	4.0	0.5
 他加快了步子。	tā jiākuài le bùzi	He quickened up his pace.	4.0	0.5
 我在交通银行存款。	wǒ zài Jiāotōng Yínháng cúnkuǎn	I bank with Bank of Communications.	4.0	0.5
-中国是一个发展中国家。	Zhōngguó shì yī gè fāzhǎnzhōngguójiā	China is a developing country.	4.0	0.5
 我可不愿和他同甘共苦。	wǒ kě bùyuàn hé tā tónggāngòngkǔ	I would not want to share his lot.	4.0	0.5
 你有什麽要申报纳税的吗?	nǐ yǒu shí mó yào shēnbào nàshuì de ma	Have you anything to declare?	4.0	0.5
 有的人看到色情杂志能激发起性欲。	yǒude rén kàn dào sèqíng zázhì néng jīfā qǐ xìngyù	Some people are sexually excited by pornographic magazines.	4.0	0.5
@@ -5903,7 +5912,6 @@
 他已领驾驶执照了。	tā yǐ lǐng jiàshǐzhízhào le	He has taken out a driving license.	4.0	0.5
 她现在隶属于国防部。	tā xiànzài lì shǔyú Guófángbù	She's on attachment to the Ministry of Defense.	4.0	0.5
 眼炎眼睛的发炎	yǎn yán yǎnjing de fāyán	Inflammation of the eye.	4.0	0.5
-那儿怎么样？	nàr zěnmeyàng	What is it like there?	4.0	0.5
 他意志坚强。	tā yìzhì jiānqiáng	He has indomitable will.	4.0	0.5
 他沉默寡言。	tā chénmòguǎyán	He is scanty with words.	4.0	0.5
 今天天气晴朗。	jīntiān tiānqì qínglǎng	It is sunny today.	4.0	0.5
@@ -6288,7 +6296,6 @@
 这艘帆船的甲板是用厚木板制作的。	zhè sōu fānchuán de jiǎbǎn shì yòng hòu mùbǎn zhìzuò de	The deck of the sailing ship was made of thick planks.	4.3	0.5
 手绣的丝制手帕在西方市场销路很好。	shǒu xiù de sī zhì shǒupà zài Xīfāng shìchǎng xiāolù hěn hǎo	Silk handkerchiefs embroidered by hand sell well in the Western market.	4.3	0.5
 ＂在聪明的妹妹相形之下，她变得黯然失色。＂	zài cōngming de mèimei xiāng xíng zhīxià tā biànde ànránshīsè	She is quite eclipsed by her clever younger sister.	4.3	0.5
-种树前，我们先用铁锹挖了些坑。	zhòngshù qián wǒmen xiān yòng tiěqiāo wā le xiē kēng	We dig some pits with a spade before planting the trees.	4.3	0.5
 这种花在温暖的气候中长得茂盛.	zhèzhǒng huā zài wēnnuǎn de qìhòu zhōng zhǎngde màoshèng	This species of flower flourishes in a warm climate.	4.3	0.5
 他在那些大胆而残忍的妇女把所有她们的男子杀死之后，曾经在雷姆诺岛旁边经过。	tā zài nàxiē dàdǎn ér cánrěn de fùnǚ bǎ suǒyǒu tāmen de nánzǐ shāsǐ zhīhòu céngjīng zài léi mǔ nuò dǎo pángbiān jīngguò	He later journeyed through the isle of Lemnos whose bold and heartless females earlier had slaughtered every male upon the island;	4.3	0.5
 由于他是牧师，言行须顾虑到自己的身份。	yóuyú tā shì mùshī yánxíng xū gùlǜ dào zìjǐ de shēnfèn	As he is a parson he has to respect the cloth.	4.3	0.5
@@ -7118,6 +7125,12 @@
 琼斯先生是个巧木匠。	Qióngsī xiānsheng shì gè qiǎo mùjiàng	Mr. Jones is a clever carpenter.	4.0	0.5
 先生的学问博大精深。	xiānsheng de xuéwèn bódàjīngshēn	The teacher had both extensive knowledge and profound scholarship.	3.25	0.5
 谢谢您，先生。	xièxie nín xiānsheng	Thank you sir.	4.0	0.5
+我父亲小酌之後，就变得开朗可亲些，话也说得多了。	wǒ fùqīn xiǎozhuó zhīhòu jiù biànde kāilǎng kěqīn xiē huà yě shuō dé duō le	My father expanded a little when he have have a drink and start to talk more freely.	4.125	0.5
+我真想说一句 叫他们谈话放严肃些....	wǒ zhēn xiǎng shuō yījù jiào tāmen tánhuà fàng yánsù xiē	If I could intrude a note of seriousness into this frivolous conversation...	5.0	0.5
+我不得不买些白色的乳状漆来粉刷墙壁。	wǒ bùdébù mǎi xiē báisè de rǔ zhuàng qī lái fěnshuā qiángbì	I have to buy some white emulsion paint to freshen the walls.	4.3	0.5
+这螺丝钉需要再拧紧些。	zhè luósīdīng xūyào zài nǐng jǐn xiē	This screw needs tightening.	3.333	0.5
+你应该再细心些.	nǐ yīnggāi zài xìxīn xiē	You want to be more careful.	3.5	0.5
+孩子们 规矩些!	háizimen guīju xiē	Children please behave (yourselves)!	4.833	0.5
 父母们所了不解的是，脂肪提供非常宝贵的热量，并且每个细胞都需要脂肪和胆固醇才能生长，""她说。""胆固醇的名声太坏，我们从来看不到它好的一面，但是它对孩童，尤其两岁以下的，极为重要。""	fùmǔ men suǒ le bùjiě de shì zhīfáng tígōng fēicháng bǎoguì de rèliàng bìngqiě měi gè xìbāo dōu xūyào zhīfáng hé dǎngùchún cáinéng shēngzhǎng tā shuō dǎngùchún de míngshēng tài huài wǒmen cóng láikàn bùdào tā hǎo de yīmiàn dànshì tā duì háitóng yóuqí liǎng suì yǐxià de jíwéi zhòngyào	What parents don't understand is that fat provides very valuable calories and that every cell needs fat and cholesterol to grow "" she said. ""Cholesterol has gotten such bad press that we never see it in a good light but it is essential for children especially those under2.""	4.686	0.49
 对任何一件东西都要以正确的名称来称呼的人，几乎不可能走过马路而不被人作为共同的敌人来打倒的吧。	duì rènhé yī jiàn dōngxi dōu yào yǐ zhèngquè de míngchēng lái chēnghu de rén jīhū bùkěnéng zǒu guòmǎlù ér bù bèi rén zuòwéi gòngtóng de dírén lái dǎdǎo de ba	A man that should call everything by its right name would hardly pass the streets without being knocked down as a common enemy.	3.161	0.484
 你对词汇的把握程度反映了你的智力水平，当你通过学习掌握了更多的词汇析时候，偿大脑的思维能力也会啬。	nǐ duì cíhuì de bǎwò chéngdù fǎnyìng le nǐ de zhìlì shuǐpíng dāng nǐ tōngguò xuéxí zhǎngwò le gèng duō de cíhuì xī shíhou cháng dànǎo de sīwéi nénglì yě huì sè	The extent of your vocabulary indicates the degree of your intelligence. Your brain power will increase as you learn to know more words.	3.387	0.484
@@ -7258,7 +7271,6 @@
 我们为你在普拉扎旅馆预订了两夜的房间.	wǒmen wéi nǐ zài Pǔlā zhā lǚguǎn yùdìng le liǎng yè de fángjiān	We've booked you in at the Plaza for two nights.	3.692	0.462
 摩飞回顾他早年的奋斗，使他觉得生命特别充满生气。	mó fēi huígù tā zǎonián de fèndòu shǐ tā juéde shēngmìng tèbié chōngmǎn shēngqì	Murphy looked back on his early struggles as having made him feel especially alive.	3.692	0.462
 那个会计向营业部的职员介绍了自己的工作情况.	nàge kuàijì xiàng yíngyè bù de zhíyuán jièshào le zìjǐ de gōngzuò qíngkuàng	The accountant described his work to the sales staff.	3.692	0.462
-我们的电费已经高得付不起了--得节省些了.	wǒmen de diàn fèi yǐjīng gāo dé fù bù qǐ le dé jiéshěng xiē le	Our electricity bills are higher than we can afford we must start to economize.	3.769	0.462
 在党的培育下，他已成长为一个优秀的战士。	zài dǎng de péiyù xià tā yǐ chéngzhǎng wéi yī gè yōuxiù de zhànshì	Nurtured by the Party he grown into a good fighter.	3.769	0.462
 他的妻子在那个群体中成为颇有地位的女子。	tā de qīzi zài nàge qúntǐ zhōng chéngwéi pō yǒu dìwèi de nǚzǐ	His wife has become a woman of some standing in the community.	3.846	0.462
 暂且不要考虑你从直觉上憎恶他这一因素.	zànqiě bùyào kǎolǜ nǐ cóng zhíjué shàng zēngwù tā zhè yī yīnsù	Set aside for a moment your instinctive dislike of the man.	3.846	0.462
@@ -7372,6 +7384,7 @@
 经过长时间调查后，撤消了对经理失职罪的指控，并免除了他对导致工厂烧毁的失火事故的责任。	jīngguò cháng shíjiān diàochá hòu chè xiāo le duì jīnglǐ shīzhí zuì de zhǐkòng bìng miǎn chúle tā duì dǎozhì gōngchǎng shāohuǐ de shīhuǒ shìgù de zérèn	After a long inquiry the Manager was exonerated from the charge of neglect and from any responsibility for the fire that destroyed the factory.	4.458	0.458
 他在过去的工作岗位上以老看钟盼下班而闻名，如果他在这里还是耍那一套，他会丢掉工作的。	tā zài guòqu de gōngzuò gǎngwèi shàng yǐ lǎo kàn zhōng pàn xiàbān ér wénmíng rúguǒ tā zài zhèlǐ háishi shuǎ nà yītào tā huì diūdiào gōngzuò de	In his last post he was known as a clock watcher. If he comes that game here he'll lose his job.	4.167	0.458
 初始设计开发阶段，首先必须发现可能存在的错误，并作相应的设计修改。正是在这个时期中，设计辅助程序、仿真技术和设计支援技术对于快速设计都是必不可少的。	chūshǐ shèjì kāifā jiēduàn shǒuxiān bìxū fāxiàn kěnéng cúnzài de cuòwù bìng zuò xiāngyìng de shèjì xiūgǎi zhèngshì zài zhège shíqī zhōng shèjì fǔzhù chéngxù fǎngzhēn jìshù hé shèjì zhīyuán jìshù duìyú kuàisù shèjì dōu shì bìbùkěshǎo de	The initial design development stage wherein at first it is certain that errors will be discovered which will require design changes. It is in this period that design aids emulation techniques and supportive design techniques are essential to quick design.	4.543	0.457
+这本书形象地描写了一百年前的中国生活。	zhè běn shū xíngxiàng dì miáoxiě le yī bǎi niánqián de Zhōngguó shēnghuó	This book gives a good picture of life in China 100 hundred years ago.	3.818	0.455
 因为尺子被书盖住了，所以我没找到它。	yīnwèi chǐzi bèi shū gài zhù le suǒyǐ wǒ méi zhǎodào tā	I could not find my ruler because it was covered up by the books.	2.909	0.455
 这三个人根据各自的能力被分配了工作。	zhè sān gèrén gēnjù gèzì de nénglì bèi fēnpèi le gōngzuò	The three men were given work according to their respective abilities.	2.909	0.455
 罢工的失败使公司恢复了正常的公共汽车营业。	bàgōng de shībài shǐ gōngsī huīfù le zhèngcháng de gōnggòngqìchē yíngyè	The collapse of the strike enabled the company to resume normal bus services.	3.091	0.455
@@ -7414,7 +7427,6 @@
 我有两个姐姐. 她们都是医生.	wǒ yǒu liǎng gè jiějie tāmen dōu shì yīshēng	I've got two sisters. They'reboth doctors.	3.818	0.455
 杰克不仅是个好学生，而且还是名篮球队员。	Jiékè bùjǐn shì gè hǎo xuésheng érqiě háishi míng lánqiú duìyuán	Jack is not only a good student but also a basketball player.	3.818	0.455
 我在七点钟的新闻报道中听到了这则消息。	wǒ zài qī diǎnzhōng de xīnwén bàodào zhōngtīng dàoliǎo zhè zé xiāoxi	I heard it on the 7 o'clock news.	3.818	0.455
-这本书形象地描写了一百年前的中国生活。	zhè běn shū xíngxiàng dì miáoxiě le yī bǎi niánqián de Zhōngguó shēnghuó	This book gives a good picture of life in China 100 hundred years ago.	3.818	0.455
 她公开声称她的抱负是要当政治家.	tā gōngkāi shēngchēng tā de bàofù shì yào dāng zhèngzhìjiā	Her declared ambition is to become a politician.	3.818	0.455
 揭发了反总统的阴谋可能救了他一命。	jiēfā le fǎn zǒngtǒng de yīnmóu kěnéng jiù le tā yī mìng	The exposure of the plot against the President probably saved his life.	3.818	0.455
 医生不得不用石膏绷带来固定他断了的胳膊。	yīshēng bùdé bùyòng shígāo bēng dàilái gùdìng tā duàn le de gēbo	The doctor had to hold his broken arm with a plaster cast.	3.818	0.455
@@ -7539,7 +7551,6 @@
 赫德并未讨论限期，可是他告诉英国广播公司说，国际联盟“行将达到的阶段是：大家都对现局加以估计，看我们所建立的以和平方式施压是否有效。”	Hèdé bìng wèi tǎolùn xiànqī kěshì tā gàosu Yīngguó Guǎngbō Gōngsī shuō Guójì Liánméng xíngjiāng dádào de jiēduàn shì dàjiā dōu duì xiàn jú jiāyǐ gūjì kàn wǒmen suǒ jiànlì de yǐ hépíng fāngshì shīyā shìfǒu yǒuxiào	Mr.Hurd did not discuss deadlines but he told the BBC that the international coalition was""approaching the stage when we all take stock and see if the peaceful pressures which we have been constructing are going to be good enough.""	4.545	0.455
 她把全部存款取出後离开了那个国家.	tā bǎ quánbù cúnkuǎn qǔchū hòu líkāi le nàge guójiā	She withdrew all her savings and left the country.	4.545	0.455
 我们应该团结起来为消除贫穷和疾病而斗争.	wǒmen yīnggāi tuánjié qilai wéi xiāochú pínqióng hé jíbìng ér dòuzhēng	We should unite in fighting/unite to fight poverty and disease.	4.545	0.455
-教会应当就基本道德问题多做出些榜样.	jiāohuì yīngdāng jiù jīběn dàodé wèntí duō zuòchū xiē bǎngyàng	The Church should give more of a lead on basic moral issues.	4.545	0.455
 作者从每本卖出的书中可得10%的版税。	zuòzhě cóng měi běn màichū de shū zhōng kě dé de bǎnshuì	The writer gets a 10% royalty on each copy sold of his book.	4.636	0.455
 短期内我们会赔钱，但从长远看，利润将会是丰厚的。	duǎnqī nèi wǒmen huì péiqián dàn cóng chángyuǎn kàn lìrùn jiānghuì shì fēnghòu de	In the short term we will lose money but in the long term the profits will be very large.	4.636	0.455
 他们攀登那座山的一切尝试都失败了.	tāmen pāndēng nà zuò shān de yīqiè chángshì dōu shībài le	They failed in all their attempts to climb the mountain.	4.636	0.455
@@ -7627,6 +7638,7 @@
 他在面对危险的时候表现出非凡的勇气。	tā zài miànduì wēixiǎn de shíhou biǎoxiàn chū fēifán de yǒngqì	He showed remarkable courage when he faced the danger.	3.0	0.455
 当那位英俊的电影明星吻她的时候，她欣喜若狂。	dāng nà wèi yīngjùn de diànyǐng míngxīng wěn tā de shíhou tā xīnxǐruòkuáng	She was thrilled when the handsome filmstar kissed her.	3.636	0.455
 史密斯先生擅长做很多事情，但他从来不表现自己。	Shǐmìsī xiānsheng shàncháng zuò hěn duō shìqing dàn tā cóngláibù biǎoxiànzìjǐ	Mr Smith is expert at a lot of things but he always hides his light under a bushel.	4.273	0.455
+他们体谅她缺乏经验 允许她获得些帮助.	tāmen tǐliàng tā quēfá jīngyàn yǔnxǔ tā huòdé xiē bāngzhù	As a concession to her inexperience they allowed her to have some help.	4.273	0.455
 那位百万富翁是从很少的钱开始的．但是在最充分利用机会方面表现出他的本领。	nà wèi bǎiwànfùwēng shì cóng hěn shǎo de qián kāishǐ de dànshì zài zuì chōngfèn lìyòng jīhuì fāngmiàn biǎoxiàn chū tā de běnlǐng	That millionaire started with very little but showed a skill in playing his cards right.	3.65	0.45
 本体感受由身体本身的内部刺激引起的对于运动和空间定向的不自觉的感受	běntǐ gǎnshòu yóu shēntǐ běnshēn de nèibù cìjī yǐnqǐ de duìyú yùndòng hé kōngjiān dìngxiàng de bùzìjué de gǎnshòu	The unconscious perception of movement and spatial orientation arising from stimuli within the body itself.	3.75	0.45
 当她母亲回家来告诉她，她的狗已被车辗死时，这个可怜的小姑娘痛哭起来。	dāng tā mǔqīn huíjiā lái gàosu tā tā de gǒu yǐ bèi chē zhǎn sǐ shí zhège kělián de xiǎo gūniang tòngkū qilai	The poor little girl cried her heart out when her mother came home and told her that her dog had been run over.	3.85	0.45
@@ -7644,8 +7656,11 @@
 他们在苏格兰有一村舍 在伦敦有一所房子 在巴黎还有一套备用公寓.	tāmen zài Sūgélán yǒu yī cūnshè zài Lúndūn yǒu yī suǒ fángzi zài Bālí háiyǒu yītào bèiyòng gōngyù	They own a cottage in Scotland and a house in London as well as a pied-a-terre in Paris.	5.1	0.45
 那老太太每天去买报纸 不多时便觉乐在其中 因为她主要是想和店主聊天.	nà lǎotàitai měitiān qù mǎi bàozhǐ bù duō shí biàn jué lèzàiqízhōng yīnwèi tā zhǔyào shì xiǎng hé diànzhǔ liáotiān	For the old lady buying the daily newspaper soon became an end in itself since she really just wanted to chat with the shopkeeper.	4.05	0.45
 优秀的学者“主动留心于”新信息，他们对读到的东西进行思索，以挑战的精神对待它，融会贯通，使之成为自己的东西。	yōuxiù de xuézhě zhǔdòng liúxīn yú xīn xìnxī tāmen duì dú dào de dōngxi jìnxíng sīsuǒ yǐ tiǎozhàn de jīngshén duìdài tā rónghuìguàntōng shǐ zhī chéngwéi zìjǐ de dōngxi	Good learners become""actively involved"" with new information.They think about what they read challenge it make it their own.	4.0	0.448
+中国人把莲花看作是纯洁的象征。	Zhōngguórén bǎ liánhuā kànzuò shì chúnjié de xiàngzhēng	Chinese people regard lotus as an emblem of purity.	3.556	0.444
+大多数中国人认为他将从此不受欢迎。	dàduōshù Zhōngguórén rènwéi tā jiāng cóngcǐ bùshòuhuānyíng	Most Chinese think he will be therefrom unwelcome.	3.667	0.444
+中国是一个有着悠久历史的东方国家。	Zhōngguó shì yī gè yǒuzhe yōujiǔ lìshǐ de dōngfāng guójiā	China is an oriental country with a long history.	3.889	0.444
+当我初次离家时，喜鹊在树上唱歌，在中国文化中这是个好预兆。	dāng wǒ chūcì lí jiā shí xǐque zài shù shàng chànggē zài Zhōngguó wénhuà zhōng zhè shì gè hǎo yùzhào	Some magpies was singing in the tree when I left home for the first time a good omen in Chinese culture.	3.611	0.444
 你的意见是否代表其他学生的意见？	nǐ de yìjiàn shìfǒu dàibiǎo qítā xuésheng de yìjiàn	Are your opinions representative of the other students?	2.667	0.444
-我要去购物，因为我需要买些日用品。	wǒ yào qù gòuwù yīnwèi wǒ xūyào mǎi xiē rìyòngpǐn	I'm going shopping because I need to buy some daily necessities.	2.778	0.444
 我们很遗憾无法再考虑你的情况。	wǒmen hěn yíhàn wúfǎ zài kǎolǜ nǐ de qíngkuàng	We regret that we are unable to reconsider your case.	2.889	0.444
 她邀请我吃饭以表示她的感激。	tā yāoqǐng wǒ chīfàn yǐ biǎoshì tā de gǎnjī	She showed me her gratitude by inviting me to dinner.	3.0	0.444
 请给我们公司寄一份详细的简历。	qǐng gěi wǒmen gōngsī jì yī fèn xiángxì de jiǎnlì	Please send a detailed resume to our company.	3.0	0.444
@@ -7683,7 +7698,6 @@
 处理这种困难你有什么具体的想法？	chǔlǐ zhèzhǒng kùnnan nǐ yǒu shénme jùtǐ de xiǎngfǎ	Have you any concrete thoughts on how to deal with this difficulty?	3.556	0.444
 他突然在冰上摔了个屁股蹲儿。	tā tūrán zài bīng shàng shuāi le gè pìgudūnr	Suddenly he sat down on the ice.	3.556	0.444
 这人养成了服用有害麻醉品的习惯。	zhè rén yǎng chéngle fúyòng yǒuhài mázuì pǐn de xíguàn	The man formed a habit of taking harmful drugs.	3.556	0.444
-中国人把莲花看作是纯洁的象征。	Zhōngguórén bǎ liánhuā kànzuò shì chúnjié de xiàngzhēng	Chinese people regard lotus as an emblem of purity.	3.556	0.444
 无论在什么工作岗位，他总是有股子革命干劲。	wúlùn zài shénme gōngzuò gǎngwèi tā zǒngshì yǒu gǔ zǐ gémìng gànjìn	No matter what his post is he always works with a revolutionary drive.	3.556	0.444
 小提琴的弦上得太紧，突然断了。	xiǎotíqín de xián shàng dé tài jǐn tūrán duàn le	The violin string snapped because it was fastened too tight.	3.556	0.444
 这样的经验才是生活的内在本质。	zhèyàng de jīngyàn cái shì shēnghuó de nèizài běnzhì	Such experiences are the very staff of life.	3.556	0.444
@@ -7695,24 +7709,20 @@
 我们全神贯注地倾听她讲的惊人故事。	wǒmen quánshénguànzhù dì qīngtīng tā jiǎng de jīngrén gùshi	We listened to her amazing story with rapt attention.	3.556	0.444
 飞机以每小时900公里的速度飞行。	fēijī yǐ měi xiǎoshí gōnglǐ de sùdù fēixíng	The airplane flies at 900 kilometers an hour.	3.556	0.444
 您一定发现我们产品的包装美观讲究。	nín yīdìng fāxiàn wǒmen chǎnpǐn de bāozhuāng měiguān jiǎngjiu	I think you'll find the packing beautiful and quite well-done.	3.556	0.444
-当我初次离家时，喜鹊在树上唱歌，在中国文化中这是个好预兆。	dāng wǒ chūcì lí jiā shí xǐque zài shù shàng chànggē zài Zhōngguó wénhuà zhōng zhè shì gè hǎo yùzhào	Some magpies was singing in the tree when I left home for the first time a good omen in Chinese culture.	3.611	0.444
 她挨著我坐在我的左边.	tā āizhe wǒ zuò zài wǒ de zuǒbian	She was sitting immediately to my left.	3.667	0.444
 这条路把所有的新城镇都连接起来了。	zhè tiáo lù bǎ suǒ yǒude xīn chéngzhèn dōu liánjiē qilai le	The road links all the new towns.	3.667	0.444
-他在手上涂了些药膏来止痛。	tā zài shǒu shàng tú le xiē yàogāo lái zhǐtòng	He smeared some balm on his hand to soothe the pain.	3.667	0.444
 你愿意人家盯著你看吗?	nǐ yuànyì rénjiā dīng zhe nǐ kàn ma	Do you like being stared at?	3.667	0.444
 他到了渡口，却发现渡船在对岸。	tā dàoliǎo dùkǒu què fāxiàn dùchuán zài duì'àn	He went down to the ferry but found the boat on the other side.	3.667	0.444
 要想召集会议什么的，就要出个通知。	yào xiǎng zhàojí huìyì shénmede jiùyào chū gè tōngzhī	If you want to call a meeting or anything put up a notice.	3.667	0.444
 他唯一的反应是一阵意味深长的沉默	tā wéiyī de fǎnyìng shì yīzhèn yìwèi shēncháng de chénmò	His only reaction was a pregnant silence.	3.667	0.444
 我真羡慕．你多美啊!	wǒ zhēn xiànmù nǐ duō měi ā	I do envy you. You're so beautiful!	3.667	0.444
 移民官员在我的护照上盖了戳。	yímín guānyuán zài wǒ de hùzhào shàng gài le chuō	The immigration officer stamped my passport.	3.667	0.444
-大多数中国人认为他将从此不受欢迎。	dàduōshù Zhōngguórén rènwéi tā jiāng cóngcǐ bùshòuhuānyíng	Most Chinese think he will be therefrom unwelcome.	3.667	0.444
 在神话故事中，魔鬼很残忍而且吃人。	zài shénhuàgùshi zhōng móguǐ hěn cánrěn érqiě chīrén	In fairy stories the ogre is cruel and eats people.	3.667	0.444
 大都市外面的生活步调往往是缓慢得多，这在其他国家也是真的那样。	dàdūshì wàimiàn de shēnghuó bùdiào wǎngwǎng shì huǎnmàn dé duō zhè zài qítā guójiā yě shì zhēn de nàyàng	Often life is much slower outside the big cities as is true in other countries as well.	3.667	0.444
 她以巧妙的手腕处理了这个问题。	tā yǐ qiǎomiào de shǒuwàn chǔlǐ le zhège wèntí	She dealt with the problem with consummate skill.	3.667	0.444
 人类是否会受到完全灭绝的威胁呢？	rénlèi shìfǒu huì shòudào wánquán mièjué de wēixié ne	Is the human race threatened with complete extinction?	3.667	0.444
 你可把我完全弄糊涂了!	nǐ kě bǎ wǒ wánquán nòng hútu le	Now you've mixed me up completely!	3.667	0.444
 她一出生就受到天主教的熏陶.	tā yī chūshēng jiù shòudào Tiānzhǔjiào de xūntáo	She was born and bred a Catholic.	3.667	0.444
-你应该对长辈和上级尊重些.	nǐ yīnggāi duì zhǎngbèi hé shàngjí zūnzhòng xiē	You should show greater respect for your elders and betters.	3.667	0.444
 他认为当教士是自己的使命.	tā rènwéi dāng jiàoshì shì zìjǐ de shǐmìng	He believes it is his calling to become a priest.	3.667	0.444
 文件已经被输入到一台便携式电脑里了。	wénjiàn yǐjīng bèi shūrù dào yī tái biànxiéshì diànnǎo lǐ le	The documents have been typed into a portable computer.	3.667	0.444
 报纸的报道往往不尊重私人权利.	bàozhǐ de bàodào wǎngwǎng bù zūnzhòng sīrén quánlì	Newspapers often don't respect the individual's right to privacy.	3.667	0.444
@@ -7767,7 +7777,6 @@
 这个国家最优秀的人才在不断外流。	zhège guójiā zuì yōuxiù de réncái zài bùduàn wàiliú	This country is being drained of its best talents.	3.889	0.444
 住在大街旁最大的缺点是噪音。	zhù zài dàjiē páng zuì dà de quēdiǎn shì zàoyīn	The great drawback to living near a main road is noise.	3.889	0.444
 这个孩子的教育来自他慈爱的双亲。	zhège háizi de jiàoyù láizì tā cí'ài de shuāngqīn	The child got his nurture from his loving parents.	3.889	0.444
-中国是一个有着悠久历史的东方国家。	Zhōngguó shì yī gè yǒuzhe yōujiǔ lìshǐ de dōngfāng guójiā	China is an oriental country with a long history.	3.889	0.444
 她的声音中能听出有些颤抖.	tā de shēngyīn zhōng néng tīng chū yǒuxiē chàndǒu	You could hear the quaver in her voice.	3.889	0.444
 今晚的菜单上有什麽菜?	jīnwǎn de càidān shàng yǒu shí mó cài	What's on the menu tonight?	3.889	0.444
 他对旅行作了十分生动的叙述。	tā duì lǚxíng zuò le shífēn shēngdòng de xùshù	He told a very descriptive account of his journey.	3.889	0.444
@@ -8190,7 +8199,6 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 和美国家庭的这种爱同时并存的是自强及独立的文化价值观。	héměi guójiā tíng de zhèzhǒng ài tóngshí bìngcún de shì zìqiáng jí dúlì de wénhuà jiàzhíguān	Coexisting with such love in the American family are cultural values of self-reliance and independence.	4.062	0.438
 他一再重申他的立场，认为核子武器不可以用来当作国际谈判的筹码。	tā yīzài chóngshēn tā de lìchǎng rènwéi hézi wǔqì bùkěyǐ yònglái dàngzuò guójì tánpàn de chóumǎ	He reiterated his position that nuclear weapons can not be used as international bargaining chip.	4.125	0.438
 那个可怜的家伙，虽然不是懦夫，但一提到打针，脸都吓白了。	nàge kělián de jiāhuo suīrán bùshì nuòfū dàn yī tídào dǎzhēn liǎn dōu xià bái le	The poor fellow though no coward paled at the mention of the injection.	4.125	0.438
-我父亲小酌之後，就变得开朗可亲些，话也说得多了。	wǒ fùqīn xiǎozhuó zhīhòu jiù biànde kāilǎng kěqīn xiē huà yě shuō dé duō le	My father expanded a little when he have have a drink and start to talk more freely.	4.125	0.438
 文化移入从婴儿起一特定社会的文化就植入一个人大脑的过程	wénhuà yí rù cóng yīng'ér qǐ yī tèdìng shèhuì de wénhuà jiù zhírù yīgèrén dànǎo de guòchéng	The process by which the culture of a particular society is instilled in a human being from infancy onward.	4.25	0.438
 粒面的在明暗区间有显著分界的；不平滑的。用于相片和电影胶片	lì miàndí zài míng àn qūjiān yǒu xiǎnzhù fēn jiè de bù pínghuá de yòngyú xiàngpiàn hé diànyǐng jiāopiàn	Having sharp divisions between light and dark patches; not smooth. Used of photographs and film.	4.312	0.438
 有些年我们获得大丰收，有些年则收成很坏，但好坏你都得接受。	yǒuxiē nián wǒmen huòdé dà fēngshōu yǒuxiē nián zé shōuchéng hěn huài dàn hǎohuài nǐ dōu dé jiēshòu	Some years we have a plentiful harvest others a very poor one but you have to take the good with the bad.	4.312	0.438
@@ -8221,6 +8229,8 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 质量密集月球上的阴暗部，其内部岩石比周围地区的岩石的密度大，因此产生略大些的引力	zhìliàng mìjí yuèqiú shàng de yīn'àn bù qí nèibù yánshí bǐ zhōuwéi dìqū de yánshí de mìdù dà yīncǐ chǎnshēng lüè dà xiē de yǐnlì	A mare on the moon having rock of greater density than that of the surrounding area thus exerting a slightly higher gravitational force.	4.522	0.435
 一雄多雌（配合）在一个交配季节里，一个雄性个体与一个以上的雌性个体进行交配的一种交配方式	yī xióng duō cí pèihé zài yī gè jiāopèi jìjié lǐ yī gè xióngxìng gètǐ yǔ yī gè yǐshàng de cíxìng gètǐ jìnxíng jiāopèi de yīzhǒng jiāopèi fāngshì	A mating pattern in which a male mates with more than one female in a single breeding season.	5.174	0.435
 敌人就在背后，而前面横跨在深谷之上的桥已经腐朽不堪，摇摇晃晃。他处在两难之中，犹豫了起来。	dírén jiù zài bèihòu ér qiánmiàn héngkuà zài shēngǔ zhīshàng de qiáo yǐjīng fǔxiǔ bùkān yáo yáohuàng huàng tā chǔzài liǎngnán zhīzhōng yóuyù le qilai	His enemy was close behind him and the bridge over the ravine was rotten and swaying. Caught between the devil and the deep blue sea he hesitated.	4.348	0.435
+你怎么可以这么粗鲁呢?	nǐ zěnme kěyǐ zhème cūlǔ ne	How could you be so rude?	3.571	0.429
+她向一个中国教员学习英语。	tā xiàng yī gèzhōng guójiào yuán xuéxí Yīngyǔ	She learned English from a Chinese teacher.	3.714	0.429
 他跌倒时头碰到箱子的一角。	tā diēdǎo shí tóu pèngdào xiāngzi de yī jiǎo	He fell and hit his head on the corner of a box.	5.286	0.429
 我弄不明白他为什么缺席。	wǒ nòng bù míngbai tā wèishénme quēxí	I can't figure out why he is absent.	2.714	0.429
 他以他的书法为自豪。	tā yǐ tā de shūfǎ wéi zìháo	He prides himself on his handwriting.	2.857	0.429
@@ -8230,7 +8240,6 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 他被驱逐使我们很震惊。	tā bèi qūzhú shǐ wǒmen hěn zhènjīng	His banishment shocked us all.	3.0	0.429
 我曾认为这可能是真的。	wǒ céng rènwéi zhè kěnéng shì zhēn de	I thought it might be true.	3.143	0.429
 在阴凉处休息会使你凉爽。	zài yīnliángchù xiūxi huì shǐ nǐ liángshuǎng	A rest in the shade will cool you down.	3.143	0.429
-你最好听听我要说些什么。	nǐ zuìhǎo tīng tīng wǒ yàoshuō xiē shénme	You had better hear what I'll say.	3.143	0.429
 为了她的缘故，也为了约翰，我热切地希望她能被找到。	wèile tā de yuángù yě wèile Yuēhàn wǒ rèqiè dì xīwàng tā néng bèi zhǎodào	For her sake as well as for John's I hoped fervently that she might still be found.	3.143	0.429
 我认为大量阅读是必要的。	wǒ rènwéi dàliàng yuèdú shì bìyào de	I think it's necessary for us to read a lot.	3.143	0.429
 他为他的行为感到惭愧。	tā wéi tā de xíngwéi gǎndào cánkuì	He is ashamed of his behavior.	3.143	0.429
@@ -8274,7 +8283,6 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 在训练班上，她接受了有关这个工作各方面的全面训练。	zài xùnliàn bānshàng tā jiēshòu le yǒuguān zhège gōngzuò gèfāng miàndí quánmiàn xùnliàn	On the course she received a thorough training in every aspect of the job.	3.5	0.429
 我不禁也有同样的想法。	wǒ bùjīn yě yǒu tóngyàng de xiǎngfǎ	I can not help think the same.	3.571	0.429
 她有公司的40%股份.	tā yǒu gōngsī de gǔfèn	She has a 40% holding (ie share) in the company.	3.571	0.429
-你怎么可以这么粗鲁呢?	nǐ zěnme kěyǐ zhème cūlǔ ne	How could you be so rude?	3.571	0.429
 所有的计算机都使用二进制吗？	suǒyǒu de jìsuànjī dōu shǐyòng èrjìnzhì ma	Do all computers use binary system?	3.571	0.429
 他的想法获得热烈的响应。	tā de xiǎngfǎ huòdé rèliè de xiǎngyìng	His idea received an enthusiastic response.	3.571	0.429
 请你阐述这一理论，行吗？	qǐng nǐ chǎnshù zhè yī lǐlùn xíng ma	Could you elaborate on this theory?	3.571	0.429
@@ -8303,7 +8311,6 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 他由于无可奉告，拒绝了记者采访。	tā yóuyú wúkěfènggào jùjué le jìzhě cǎifǎng	As he had nothing to tell he refused to give any interviews to the journalists.	3.571	0.429
 我们会把决定及早通知申请者。	wǒmen huì bǎ juédìng jízǎo tōngzhī shēnqǐng zhě	Applicants will be notified of our decision in good season.	3.571	0.429
 德拉就这样做了。你知道，人生是由呜咽，抽泣和徽笑组成的，而其中主要的是抽泣。	dé lā jiù zhèyàng zuò le nǐ zhīdào rénshēng shì yóu wūyè chōuqì hé huī xiào zǔchéng de ér qízhōng zhǔyào de shì chōuqì	So Della did. You see life You see life is made up of sobs sniffles and smiles- but mainly of sniffles.	3.667	0.429
-她向一个中国教员学习英语。	tā xiàng yī gèzhōng guójiào yuán xuéxí Yīngyǔ	She learned English from a Chinese teacher.	3.714	0.429
 他既不会读也不会写。	tā jì bùhuì dú yě bùhuì xiě	He can neither read nor write.	3.714	0.429
 这个人走在我们前头开路。	zhège rén zǒu zài wǒmen qiántou kāilù	The man went ahead of us to clear the course.	3.714	0.429
 很多东西是由竹子做出的。	hěn duō dōngxi shì yóu zhúzi zuòchū de	Many things are made out of bamboo.	3.714	0.429
@@ -9066,6 +9073,8 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 牛心形樱桃培育出来的大而甜的多种樱桃，多汁水果	niúxīn xíng yīngtáo péiyù chūlái de dà ér tián de duōzhǒng yīngtáo duōzhī shuǐguǒ	A variety of cultivated cherry having sweet juicy fruit.	4.714	0.429
 无核的小水果容易压烂.	wúhé de xiǎo shuǐguǒ róngyì yā làn	Soft fruit squashes easily.	3.857	0.429
 马赫先生从抽屉里拿出一条链子，链子一头挂着一串钥匙。	Mǎhè xiānsheng cóng chōuti lǐ náchū yī tiáo liànzi liànzi yītóu guà zhe yīchuàn yàoshi	From the drawer Mr Mach took out a chain with a bunch of keys dangling at its end.	4.857	0.429
+我们需要从消费者那里多得到些反馈信息以提高产品质量.	wǒmen xūyào cóng xiāofèizhě nàli duō dédào xiē fǎnkuì xìnxī yǐ tígāo chǎnpǐn zhìliàng	We need more feedback from the consumer in order to improve our goods.	4.357	0.429
+他倒了些汁液以防烤干。	tā dǎo le xiē zhīyè yǐfáng kǎo gàn	He bastes juices to keep it moist during cooking.	4.143	0.429
 正因如此，今天从事写作的男女青年已经忘记了人类内心的冲突。而这本身就能就好作品。因为这是唯一值得写、值得呕心沥血地去写的题材。	zhèng yīnrúcǐ jīntiān cóngshì xiězuò de nánnǚ qīngnián yǐjīng wàngjì le rénlèi nèixīn de chōngtū ér zhè běnshēn jiù néng jiù hǎo zuòpǐn yīnwèi zhè shì wéiyī zhíde xiě zhíde ǒuxīnlìxuè dì qù xiě de tícái	Because of this the young man or woman writing today has forgotten the problems of the human heart in conflict with itself which alone can make good writing because only that is worth writing about worth the agony and the sweat.	3.818	0.424
 当今用手做东西，在许多国家已经成为很特殊--如此地特殊，以致赠送自制礼物有时被认为是不寻常的。	sī shāng wú zhào yíngyè zhě qīnfàn màoyì lǒngduàn qǐyè de rén lìrú zài yǒu tèxǔ quán gōngsī de jīngyíng fànwéi nèi cóngshì wèijīng xǔkě de màoyì huódòng	Making something by hand has become the exception in many countries today -- so much so that giving a homemade gift is sometimes considered extraordinary.	3.962	0.423
 爸爸主张对我们进行严格的教育。他总是说，“良好的”教育会使我们过于娇嫩，不能与严酷的生活作斗争。	bàba zhǔzhāng duì wǒmen jìnxíng yángé de jiàoyù tā zǒngshì shuō liánghǎo de jiàoyù huì shǐ wǒmen guòyú jiāonen bùnéng yǔ yánkù de shēnghuó zuò dòuzhēng	Father believed in bringing us up the hard way. He always said that a""good"" education would make us too soft for the harsh battles of life.	4.154	0.423
@@ -9269,7 +9278,6 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 他在餐桌上举止粗鲁 在座的人颇为难堪.	tā zài cānzhuō shàng jǔzhǐ cūlǔ zàizuò de rén pōwéi nánkān	His ignorant behaviour at the dinner table caused much embarrassment.	4.833	0.417
 一些年青人喜欢流行音乐 但仍有其它人喜欢古典音乐。	yīxiē niánqīng rén xǐhuan liúxíngyīnyuè dàn réng yǒu qítā rén xǐhuan gǔdiǎnyīnyuè	Some young people like pop music while still others like classical music.	5.0	0.417
 她不用学跑步技巧 她天生就擅跑.	tā bùyòng xué pǎobù jìqiǎo tā tiānshēng jiù shàn pǎo	She didn't have to learn how to run: she's a natural.	5.0	0.417
-我真想说一句 叫他们谈话放严肃些....	wǒ zhēn xiǎng shuō yījù jiào tāmen tánhuà fàng yánsù xiē	If I could intrude a note of seriousness into this frivolous conversation...	5.0	0.417
 我们不能从那里穿过草地 因为河水泛滥了.	wǒmen bùnéng cóng nàli chuānguò cǎodì yīnwèi héshuǐ fànlàn le	We can't cross the meadow there because the river is in flood.	5.083	0.417
 他们闻到做菜的味儿 知道眼看要吃饭了.	tāmen wéndào zuòcài de wèir zhīdào yǎnkàn yào chīfàn le	The smell of cooking told them there was a meal in the offing.	5.167	0.417
 他思忖著要是没有这些孩子 将来又如何.	tā sīcǔn zhe yàoshi méiyǒu zhèxiē háizi jiānglái yòu rúhé	He contemplated what the future would be like without the children.	5.167	0.417
@@ -9347,6 +9355,11 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 比尔的母亲为比尔所属的俱乐部会员们准备热狗当点心，汤姆的母亲因此说她要招待得更好，除了给你们热狗外，另再加冰淇淋。	Bǐ'ěr de mǔqīn wéi Bǐ'ěr suǒshǔ de jùlèbù huìyuán men zhǔnbèi règǒu dāng diǎnxin Tāngmǔ de mǔqīn yīncǐ shuō tā yào zhāodài dé gèng hǎo chúle gěi nǐmen règǒu wài lìng zài jiā bīngqílín	Bill's mother gave the boys in Bill's club hot dogs for refreshments so Tom's mother said that she would go her on better next time by giving them ho dogs and icecream.	4.625	0.406
 生命活的有机物区别于死的有机物和无机物的特性和性质，主要表现在新陈代谢、生长发育、生殖、对刺激的反应、对环境的适应等有机体本身所固有的机能中	shēngmìng huó de yǒujīwù qūbié yú sǐ de yǒujīwù hé wújīwù de tèxìng hé xìngzhì zhǔyào biǎo xiànzài xīnchéndàixiè shēngzhǎng fāyù shēngzhí duì cìjī de fǎnyìng duì huánjìng de shìyìng děng yǒujītǐ běnshēn suǒ gù yǒude jīnéng zhōng	The property or quality that distinguishes living organisms from dead organisms and inanimate matter manifested in functions such as metabolism growth reproduction and response to stimuli or adaptation to the environment originating from within the organism.	4.405	0.405
 最后，如果一个人竟能像《圣经》中的圣保罗那样，肯为了兄弟们的得救甚至甘于忍受神的诅咒；那么他就必定超越了凡人，而且有真正基督徒的品格了。	zuìhòu rúguǒ yīgèrén jìng néng xiàng Shèngjīng zhòngdì Shèngbǎoluó nàyàng kěn wèile xiōngdì men de déjiù shènzhì gānyú rěnshòu shén de zǔzhòu nàme tā jiù bìdìng chāoyuè le fánrén érqiě yǒu zhēnzhèng Jīdūtú de pǐngé le	But above all if he has St. Paul's perfection that he would wish to be anathema from Christ for the salvation of his brethren it shows much of a divine nature and a kind of conformity with Christ himself.	4.595	0.405
+暂时还用不着，谢谢你。	zànshí hái yòngbuzháo xièxie nǐ	Not at the moment thank you.	3.0	0.4
+谢谢你的盛情款待.	xièxie nǐ de shèngqíng kuǎndài	Thank you for your kind hospitality.	3.4	0.4
+印度在中国的南边。	Yìndù zài Zhōngguó de nánbian	India is to the south of China.	3.4	0.4
+还好。顺便问一下，你母亲怎么样？她好吗？	háihǎo shùnbiàn wèn yīxià nǐ mǔqīn zěnmeyàng tā hǎo ma	Not bad. By the way how is your mother? Is she all right?	2.9	0.4
+那个亚洲人拦住我，问我是不是中国人。	nàge Yàzhōu rén lánzhù wǒ wèn wǒ shìbùshì Zhōngguórén	That Asian stopped me and asked if I was Chinese.	3.2	0.4
 我及时参加了会议。	wǒ jíshí cānjiā le huìyì	I went to attend the meeting betimes.	2.4	0.4
 我也不相信我们的相关力量正在增长。	wǒ yě bù xiāngxìn wǒmen de xiāngguān lìliang zhèngzài zēngzhǎng	I don't believe that our relative strength is increasing.	2.5	0.4
 他不愿意受到打扰。	tā bù yuànyì shòudào dǎrǎo	He did not care to be disturbed.	2.6	0.4
@@ -9354,17 +9367,14 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 她讲了一辈子中文。	tā jiǎng le yībèizi Zhōngwén	She has spoken Chinese all her life.	2.8	0.4
 使兴奋的使人精力充沛的；使兴奋的	shǐxīngfèn de shǐ rén jīnglìchōngpèi de shǐxīngfèn de	Serving to invigorate; stimulating.	2.8	0.4
 情况始终都在变化。	qíngkuàng shǐzhōng dōu zài biànhuà	Conditions are changing all the time.	2.8	0.4
-还好。顺便问一下，你母亲怎么样？她好吗？	háihǎo shùnbiàn wèn yīxià nǐ mǔqīn zěnmeyàng tā hǎo ma	Not bad. By the way how is your mother? Is she all right?	2.9	0.4
 我正在逐字的翻译。	wǒ zhèngzài zhú zì de fānyì	I am making a verbal translation.	3.0	0.4
 我的手表走时准确。	wǒ de shǒubiǎo zǒu shí zhǔnquè	My watch keeps good time.	3.0	0.4
-暂时还用不着，谢谢你。	zànshí hái yòngbuzháo xièxie nǐ	Not at the moment thank you.	3.0	0.4
 他是为历史学教授。	tā shì wéi lìshǐxué jiàoshòu	He is a professor of history.	3.0	0.4
 我们必须提高生产水平。	wǒmen bìxū tígāo shēngchǎn shuǐpíng	We must increase production levels.	3.0	0.4
 就像其他老人一样，我祖父也老喜欢讲他当年的故事。	jiù xiàng qítā lǎorén yīyàng wǒ zǔfù yě lǎo xǐhuan jiǎng tā dāngnián de gùshi	As is often the case with old people my grandfather is fond of talking about good old days.	3.067	0.4
 旅游公司的失误使我的假日泡汤了。	lǚyóu gōngsī de shīwù shǐ wǒ de jiàrì pàotāng le	The travel company's failure bust up my holiday.	3.1	0.4
 整个早上都是阴天。	zhěnggè zǎoshang dōu shì yīntiān	It's been cloudy all morning.	3.2	0.4
 我大约6点半来接你。	wǒ dàyuē diǎn bàn lái jiē nǐ	I'll pick you up about 6:30.	3.2	0.4
-那个亚洲人拦住我，问我是不是中国人。	nàge Yàzhōu rén lánzhù wǒ wèn wǒ shìbùshì Zhōngguórén	That Asian stopped me and asked if I was Chinese.	3.2	0.4
 你的说法完全不真实，我要求立即道歉。	nǐ de shuōfa wánquán bù zhēnshí wǒ yāoqiú lìjí dàoqiàn	Your allegations are completely untrue and I demand an immediate apology.	3.2	0.4
 他的解释充满矛盾。	tā de jiěshì chōngmǎn máodùn	His explanation is full of contradictions.	3.2	0.4
 她正在戏剧研讨班学习。	tā zhèngzài xìjù yántǎo bān xuéxí	She is studying in a theatre workshop.	3.2	0.4
@@ -9379,9 +9389,6 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 这家公司现在使用电脑来计算所有的帐目。	zhè jiā gōngsī xiànzài shǐyòng diànnǎo lái jìsuàn suǒ yǒude zhàngmù	The company now uses a computer to do all its account.	3.3	0.4
 她向老板说明了自己那种表现的原因。	tā xiàng lǎobǎn shuōmíng le zìjǐ nàzhǒng biǎoxiàn de yuányīn	She explained her conduct to her boss.	3.3	0.4
 他随即向她求婚。	tā suíjí xiàng tā qiúhūn	He thereupon asked her to marry him.	3.4	0.4
-印度在中国的南边。	Yìndù zài Zhōngguó de nánbian	India is to the south of China.	3.4	0.4
-谢谢你的盛情款待.	xièxie nǐ de shèngqíng kuǎndài	Thank you for your kind hospitality.	3.4	0.4
-你想要些番茄汁吗？	nǐ xiǎngyào xiē fānqiézhī ma	Would you like some tomato juice?	3.4	0.4
 我正打算出去一会儿，可我舅舅来了。	wǒ zhèng dǎsuàn chūqù yīhuìr kě wǒ jiùjiu lái le	I was just going out for a bit when my uncle came.	3.4	0.4
 晚会推迟到8点举行。	wǎnhuì tuī chídào diǎn jǔxíng	The party was postponed until 8 o'clock.	3.4	0.4
 我被耽误了一段时间。	wǒ bèi dānwu le yī duàn shíjiān	I was temporarily delayed.	3.4	0.4
@@ -9656,7 +9663,6 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 他既没打电话又没写信，这使她难以撇开由此而产生的一种隐约的担忧心情。	tā jì méi dǎdiànhuà yòu méi xiěxìn zhè shǐ tā nányǐ piēkāi yóucǐ ér chǎnshēng de yīzhǒng yǐnyuē de dānyōu xīnqíng	She found it difficult to set aside a vague feeling of anxiety caused by his failure to call or write.	4.25	0.4
 这消息非但没有令她不安，反而产生了一种奇怪的镇定效果。	zhè xiāoxi fēidàn méiyǒu lìng tā bù'ān fǎn'ér chǎnshēng le yīzhǒng qíguài de zhèndìng xiàoguǒ	Instead of disturbing her the news have a strangely calm effect.	4.267	0.4
 别胡闹了，快来帮我把这个抬起来。	shēngrì wǎnhuì zhīhòu fángjiān lǐ yīpiàn hùnluàn	Stop playing silly buggers and help me lift this.	4.3	0.4
-我不得不买些白色的乳状漆来粉刷墙壁。	wǒ bùdébù mǎi xiē báisè de rǔ zhuàng qī lái fěnshuā qiángbì	I have to buy some white emulsion paint to freshen the walls.	4.3	0.4
 看到我的生日礼物受到极大的赞赏，我感到高兴。	kàn dào wǒ de shēngrì lǐwù shòudào jídà de zànshǎng wǒ gǎndào gāoxìng	I was gratified to see how much my birthday present was appreciated.	4.3	0.4
 她挣扎著想摆脱那个侵犯她的人.	tā zhēngzhá zhuóxiǎng bǎituō nàge qīnfàn tā de rén	She struggled to get away from her attacker.	4.3	0.4
 我得在黑暗中摸索著找电灯开关.	wǒ dé zài hēi'àn zhōng mōsuo zhe zhǎo diàndēng kāiguān	I had to feel about in the dark for the light switch.	4.3	0.4
@@ -10374,6 +10380,8 @@ Rex很快就成了一个开门能手了。	hěn kuài jiù chéngle yī gè kāi
 乌云密布预示着将要下雨。	wūyún mìbù yùshì zhe jiāngyào xiàyǔ	The black clouds threatened rain.	4.8	0.4
 史密斯先生将出任阿根廷大使的命令已经下达。	Shǐmìsī xiānsheng jiāng chūrèn Āgēntíng dàshǐ de mìnglìng yǐjīng xiàdá	The decree has gone forth that Mr.Smith is to be the new ambassador to Argentina.	5.1	0.4
 威尔逊先生已按期于3月12日抵达北京。	Wēi'ěrxùn xiānsheng yǐ ànqī yú yuè rì dǐdá Běijīng	Mr. Wilson arvada beijing Mar12 on schedule.	4.5	0.4
+这些被警察抓住的犯罪分子只是些小鱼，他们的头子却跑掉了。	zhèxiē bèi jǐngchá zhuāzhù de fànzuì fēnzǐ zhǐshì xiē xiǎo yú tāmen de tóuzi què pǎodiào le	These criminals arrested by the police are only minnows their leader has escaped.	4.733	0.4
+我受过些烹饪训练。	wǒ shòu guò xiē pēngrèn xùnliàn	I've had some training in cooking.	4.0	0.4
 阿布扎比阿拉伯东部波斯湾上的一酋长国和城市。为阿拉伯联合酋长国的首都。因为有大量的石油收入，该酋长国为世界上人均收入最高的国家之一。人口242，975	Ābù Zābǐ Ālābó dōngbù Bōsī Wān shàng de yī qiúzhǎngguó hé chéngshì wéi Ālābó Liánhé Qiúzhǎngguó de shǒudū yīnwèi yǒu dàliàng de shíyóu shōurù gāi qiúzhǎngguó wéi shìjiè shàng rénjūn shōurù zuì gāo de guójiā zhīyī rénkǒu	A sheikdom and city of eastern Arabia on the Persian Gulf. The city is the capital of the federated United Arab Emirates. With enormous oil revenues the sheikdom has one of the highest per capita incomes in the world. Population 242975.	4.273	0.394
 马克思列宁主义马克思主义的延伸，包含了列宁的帝国主义是资本主义的最终表现形式的理论，并指出了斗争中心从发达国家到不发达国家的转移	Mǎkèsī· Lièníngzhǔyì Mǎkèsīzhǔyì de yánshēn bāohán le Lièníng de dìguózhǔyì shì zīběnzhǔyì de zuìzhōng biǎoxiàn xíngshì de lǐlùn bìng zhǐchū le dòuzhēng zhōngxīn cóng fādáguójiā dào bù fādáguójiā de zhuǎnyí	The expansion of Marxism to include both Lenin's concept of imperialism as the final form of capitalism and a shift in the focus of struggle from the developed to the underdeveloped countries.	4.393	0.393
 羞怯的，局促不安的具有害羞的、胆怯的、不安的特征的，表现出此种特性的，由此种特性引起的	xiūqiè de júcùbù'ān de jùyǒu hàixiū de dǎnqiè de bù'ān de tèzhēng de biǎoxiàn chū cǐ zhǒng tèxìng de yóucǐ zhǒng tèxìng yǐnqǐ de	Characterized by showing or resulting from shyness self-consciousness or awkwardness.	3.957	0.391
@@ -10538,6 +10546,9 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 他不像典型的城市商人那样 穿一身深色的套服、 带一把收好的雨伞.	tā bù xiàng diǎnxíng de chéngshì shāngrén nàyàng chuān yīshēn shēnsè de tàofú dài yī bǎ shōu hǎo de yǔsǎn	He doesn't conform to the usual stereotype of the city businessman with a dark suit and rolled umbrella.	4.714	0.381
 ｀感谢你让我们观赏你所收藏的画.＇｀同欢共赏 不胜荣幸.＇	gǎnxiè nǐ ràng wǒmen guānshǎng nǐ suǒ shōucáng de huà tóng huān gòng shǎng bùshèng róngxìng	`Thank you for showing us your collection of paintings.' `It's my privilege (ie I am honoured to do so).'	5.048	0.381
 气流分离移动的流线型的躯体上流体边界层上的分隔物，如飞机的机翼，在平滑的流体流动中会引起故障和湍流	qìliú fēnlí yídòng de liúxiànxíng de qūtǐ shàng liútǐ biānjiècéng shàng de fēngé wù rú fēijī de jīyì zài pínghuá de liútǐ liúdòng zhōng huì yǐnqǐ gùzhàng hé tuānliú	A separation in the boundary layer of fluid about a moving streamlined body such as the wing of an airplane causing a breakdown in the smooth flow of fluid and resulting in turbulence.	4.517	0.379
+中国孩子会在春节前买很多鞭炮。	Zhōngguó háizi huì zài Chūnjié qián mǎi hěn duō biānpào	Chinese children like to buy many firecrackers before the Spring Festival.	3.875	0.375
+我们的地毯是用中国纯羊毛手工织成的。它们富有弹性且做工精细。	wǒmen de dìtǎn shì yòng Zhōngguó chún yángmáo shǒugōng zhī chéng de tāmen fùyǒu tánxìng qiě zuògōng jīngxì	Our carpet is hand- made of pure chinese wool. They are resilient and have fine workmanship.	4.562	0.375
+印度支那半岛东南亚的一个半岛，包括越南、老挝、柬埔寨、泰国、缅甸和马来西亚的大陆部分。历史上这一片地区曾受印度（尤其是印度教文化）和中国的影响	Yìndùzhīnà Bàndǎo Dōngnányà de yī gè bàndǎo bāokuò Yuènán Lǎowō Jiǎnpǔzhài Tàiguó Miǎndiàn hé Mǎláixīyà de dàlù bùfen lìshǐshàng zhè yīpiàn dìqū céng shòu Yìndù yóuqíshì Yìndùjiào wénhuà hé Zhōngguó de yǐngxiǎng	A peninsula of southeast Asia comprising Vietnam Laos Cambodia Thailand Burma and the mainland territory of Malaysia. The area was influenced in early times by India(particularly the Hindu culture) and China.	4.594	0.375
 我十分乐意为你做任何事情。	wǒ shífēn lèyì wéi nǐ zuò rènhé shìqing	I am quite willing to do anything for you.	2.625	0.375
 尽管我努力劝说，他还是不同意。	jǐnguǎn wǒ nǔlì quànshuō tā háishi bùtóng yì	In spite of my efforts at persuasion he wouldn't agree.	2.875	0.375
 别空想了，还是从实际出发吧。	bié kōngxiǎng le háishi cóng shíjì chūfā ba	Stop daydreaming and be realistic.	3.0	0.375
@@ -10610,7 +10621,6 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 必须向人借钱使他感到羞辱。	bìxū xiàng rén jièqián shǐ tā gǎndào xiūrǔ	It galled him to have to ask for a loan.	3.875	0.375
 他住在罗素广场95号.	tā zhù zài Luósù guǎngchǎng hào	He lives at No 95 Russell Square/Sq.	3.875	0.375
 只有少数亲戚参加了他的葬礼。	zhǐyǒu shǎoshù qīnqi cānjiā le tā de zànglǐ	Only a few of his kindred were present at his funeral.	3.875	0.375
-中国孩子会在春节前买很多鞭炮。	Zhōngguó háizi huì zài Chūnjié qián mǎi hěn duō biānpào	Chinese children like to buy many firecrackers before the Spring Festival.	3.875	0.375
 他似乎把正号误作负号了。	tā sìhū bǎ zhènghào wùzuò fùhào le	He seems to have mistaken a plus for a minus.	3.875	0.375
 这个评估很有道理，可能相当正确。	zhège pínggū hěn yǒudàoli kěnéng xiāngdāng zhèngquè	It was a shrewd assessment and probably pretty close to the truth.	3.875	0.375
 给我一份打印出的统计资料.	gěi wǒ yī fèn dǎyìn chū de tǒngjì zīliào	Get me a printout of the statistics.	3.875	0.375
@@ -10870,9 +10880,7 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 他们为促进世界和平而努力.	tāmen wéi cùjìn shìjièhépíng ér nǔlì	They worked for the promotion of world peace.	4.5	0.375
 动脉任何树枝形系统，将血液从心脏输送到身体各细胞、组织和器官的肌肉的，一种有弹性的血管	dòngmài rènhé shùzhī xíng xìtǒng jiāng xuèyè cóng xīnzàng shūsòng dào shēntǐ gè xìbāo zǔzhī hé qìguān de jīròu de yīzhǒng yǒutánxìng de xuèguǎn	Any of a branching system of muscular elastic tubes that carry blood away from the heart to the cells tissues and organs of the body.	4.542	0.375
 共用餐者如在军队集体食堂里经常与某人一起用膳的人	gòngyòng cān zhě rú zài jūnduì jítǐ shítáng lǐ jīngcháng yǔ mǒurén yīqǐ yòngshàn de rén	A person with whom one eats regularly as in a military mess.	4.562	0.375
-我们的地毯是用中国纯羊毛手工织成的。它们富有弹性且做工精细。	wǒmen de dìtǎn shì yòng Zhōngguó chún yángmáo shǒugōng zhī chéng de tāmen fùyǒu tánxìng qiě zuògōng jīngxì	Our carpet is hand- made of pure chinese wool. They are resilient and have fine workmanship.	4.562	0.375
 卡尔整天带着一副愤恨不平的样子，好像大家都有意怠慢或伤害他。	Kǎ'ěr zhěngtiān dài zhe yī fù fènhèn bùpíng de yàngzi hǎoxiàng dàjiā dōu yǒuyì dàimàn huò shānghài tā	Carl was a man with a chip on his shoulder. Everyone seemed in a conspiracy to slight or injure him.	4.562	0.375
-印度支那半岛东南亚的一个半岛，包括越南、老挝、柬埔寨、泰国、缅甸和马来西亚的大陆部分。历史上这一片地区曾受印度（尤其是印度教文化）和中国的影响	Yìndùzhīnà Bàndǎo Dōngnányà de yī gè bàndǎo bāokuò Yuènán Lǎowō Jiǎnpǔzhài Tàiguó Miǎndiàn hé Mǎláixīyà de dàlù bùfen lìshǐshàng zhè yīpiàn dìqū céng shòu Yìndù yóuqíshì Yìndùjiào wénhuà hé Zhōngguó de yǐngxiǎng	A peninsula of southeast Asia comprising Vietnam Laos Cambodia Thailand Burma and the mainland territory of Malaysia. The area was influenced in early times by India(particularly the Hindu culture) and China.	4.594	0.375
 这个政治家在他的同胞中不得人心。	zhège zhèngzhìjiā zài tā de tóngbāo zhōng bùdérénxīn	The politician was unpopular with his countryman.	4.625	0.375
 这种款式的脚踏车是最新式的。	zhèzhǒng kuǎnshì de jiǎotàchē shì zuìxīn shì de	This type of bicycle is up to date.	4.625	0.375
 在春天里听鸟儿歌唱是一种乐趣。	zài chūntiān lǐ tīng niǎor gēchàng shì yīzhǒng lèqù	It's a pleasure to hear birds' warble in spring.	4.625	0.375
@@ -11248,6 +11256,7 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 那影片招致许多人的反感 尤其是工人不满其中对工人生活的描写.	nà yǐngpiàn zhāozhì xǔduō rén de fǎngǎn yóuqíshì gōngrén bùmǎn qízhōng duì gōngrén shēnghuó de miáoxiě	The film caused a lot of bad feeling not least among the workers whose lives it described.	4.263	0.368
 民事的，民法的关于个人隐私权及相关于这些权利的法律诉讼程序的，区别于刑事的、军事的或国际的条例或诉讼程序	mínshì de mínfǎ de guānyú gèrén yǐnsīquán jí xiāng guānyú zhèxiē quánlì de fǎlǜ sùsòng chéngxù de qūbié yú xíngshì de jūnshì de huò guójì de tiáolì huò sùsòng chéngxù	Relating to the rights of private individuals and legal proceedings concerning these rights as distinguished from criminal military or international regulations or proceedings.	4.667	0.367
 聚合物许多天然和人工合成的化合物中的任一种，通常具高分子的重量，包含最多可达上百万个的彼此重复且相连的单位，每一个单位都是一个相对较轻和较简单的分子	jùhéwù xǔduō tiānrán hé réngōng héchéng de huàhéwù zhòngdì rèn yīzhǒng tōngcháng jù gāofēnzǐ de zhòngliàng bāohán zuì duō kě dá shàng bǎiwàn gè de bǐcǐ chóngfù qiě xiānglián de dānwèi měiyī gè dānwèi dōu shì yī gè xiāngduì jiào qīng hé jiào jiǎndān de fēnzǐ	Any of numerous natural and synthetic compounds of usually high molecular weight consisting of up to millions of repeated linked units each a relatively light and simple molecule.	4.707	0.366
+乌龙（茶）一种在干燥前局部发酵的中国红茶	wūlóng chá yīzhǒng zài gānzào qián júbù fājiào de Zhōngguó hóngchá	A dark Chinese tea that has been partially fermented before drying.	4.455	0.364
 我试图使思想集中起来，但是我太激动了。	wǒ shìtú shǐ sīxiǎng jízhōng qilai dànshì wǒ tài jīdòng le	I tried to collect my thoughts but I was too excited.	3.0	0.364
 我认为能被邀请参加晚宴是很大的荣幸。	wǒ rènwéi néng bèi yāoqǐng cānjiā wǎnyàn shì hěn dà de róngxìng	I consider it a great honor to be invited to dinner.	3.273	0.364
 无限的耐心使她成为这个医院最好的护士。	wúxiàn de nàixīn shǐ tā chéngwéi zhège yīyuàn zuìhǎo de hùshi	Her endless patience made her the best nurse in the hospital.	3.364	0.364
@@ -11320,7 +11329,6 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 渐强的在音强、力量或强度上逐渐增强的	jiàn qiáng de zài yīn qiáng lìliang huò qiángdù shàng zhújiàn zēngqiáng de	Gradually increasing in volume force or intensity.	4.364	0.364
 女子在体力上而不是智力上比男子弱。	nǚzǐ zài tǐlì shàng ér bùshì zhìlì shàng bǐ nánzǐ ruò	Woman is physically but not mentally weaker than man.	4.364	0.364
 他的颠覆行为将使整个自由运动丧失信誉。	tā de diānfù xíngwéi jiāng shǐ zhěnggè zìyóu yùndòng sàngshī xìnyù	His subversive action will give a black eye to the whole liberal movement.	4.364	0.364
-乌龙（茶）一种在干燥前局部发酵的中国红茶	wūlóng chá yīzhǒng zài gānzào qián júbù fājiào de Zhōngguó hóngchá	A dark Chinese tea that has been partially fermented before drying.	4.455	0.364
 没想到（老实的）他居然在三天内犯了三次抢劫罪。	méixiǎngdào lǎoshi de tā jūrán zài sān tiān nèi fàn le sāncì qiāngjiézuì	I didn't expect that he should have committed three robberies in as many days.	4.455	0.364
 他用绳子打个圈，套在这头小公牛的角上。	tā yòng shéngzi dǎ gè quān tào zài zhè tóu xiǎo gōngniú de jiǎo shàng	He looped the rope around the steer's horns.	4.455	0.364
 不要相信他的记忆力－－他有点神不守舍的。	bùyào xiāngxìn tā de jìyìlì tā yǒudiǎn shénbùshǒushè de	Don't rely on his memory he's a bit of a dreamer.	4.455	0.364
@@ -11454,7 +11462,6 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 我开始做这项工作时 遇到许多困难.	wǒ kāishǐ zuò zhè xiàng gōngzuò shí yùdào xǔduō kùnnan	I encountered many difficulties when I first started this job.	4.0	0.364
 她听到这一悲惨消息 脸都白了.	tā tīngdào zhè yī bēicǎn xiāoxi liǎn dōu bái le	She listened to the tragic news ashen-faced.	4.182	0.364
 我一点头 就是暗示你把会议中断.	wǒ yīdiǎn tóu jiùshì ànshì nǐ bǎ huìyì zhōngduàn	When I nod my head that's your cue to interrupt the meeting.	4.273	0.364
-他们体谅她缺乏经验 允许她获得些帮助.	tāmen tǐliàng tā quēfá jīngyàn yǔnxǔ tā huòdé xiē bāngzhù	As a concession to her inexperience they allowed her to have some help.	4.273	0.364
 他经常抑郁寡欢 後来精神完全崩溃了.	tā jīngcháng yìyù guǎ huān hòu lái jīngshén wánquán bēngkuì le	His frequent depressions were the prelude to a complete mental breakdown.	4.364	0.364
 我带你出去用餐 花费多少都无所谓.	wǒ dài nǐ chūqù yòngcān huāfèi duōshao dōu wúsuǒwèi	I'm going to take you out to dinner no expense spared.	4.455	0.364
 预计需求会有很大增长 我们应该开足马力生产。	yùjì xūqiú huì yǒu hěn dà zēngzhǎng wǒmen yīnggāi kāizúmǎlì shēngchǎn	In prospect of increase in demand we should operate at full capacity.	4.455	0.364
@@ -11515,7 +11522,6 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 展示贩卖货物的地方零售商店中商品陈列和销售的部分	zhǎnshì fànmài huòwù de dìfang língshòu shāngdiàn zhōng shāngpǐn chénliè hé xiāoshòu de bùfen	The part of a retail store in which merchandise is displayed and sales are made.	4.286	0.357
 我们的旗帜被用一根绳子和两个滑轮升到了竿顶。	wǒmen de qízhì bèi yòng yī gēn shéngzi hé liǎng gè huálún shēng dàoliǎo gān dǐng	Our flag is raised to the top of a pole by a rope and two pulley.	4.357	0.357
 这两个反对党达成了一项关于在选举中进行合作的协议。	zhè liǎng gè fǎnduìdǎng dáchéng le yī xiàng guānyú zài xuǎnjǔ zhōng jìnxíng hézuò de xiéyì	The two opposition parties made an electoral pact.	4.357	0.357
-我们需要从消费者那里多得到些反馈信息以提高产品质量.	wǒmen xūyào cóng xiāofèizhě nàli duō dédào xiē fǎnkuì xìnxī yǐ tígāo chǎnpǐn zhìliàng	We need more feedback from the consumer in order to improve our goods.	4.357	0.357
 这些优异的成绩给我们全体工作人员带来了莫大的光荣.	zhèxiē yōuyì de chéngjì gěi wǒmen quántǐ gōngzuòrényuán dàilái le mòdà de guāngróng	These excellent results reflect great credit on all our staff.	4.429	0.357
 这些建议已向我们作了传达，既简明扼要，又很有说服力。	zhèxiē jiànyì yǐ xiàng wǒmen zuò le chuándá jì jiǎnmíng èyào yòu hěn yǒushuōfúlì	The proposals were put to us very briefly and forcibly.	4.429	0.357
 兹寄上经过修订的商品目录和价目表。有些可能对贵方合适。	zī jì shàng jīngguò xiūdìng de shāngpǐn mùlù hé jiàmù biǎo yǒuxiē kěnéng duì guìfāng héshì	I send you my revised catalog and price- list in the hope that you may find something to suit you.	4.429	0.357
@@ -11599,8 +11605,8 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 正方形是二维的（平面的） 而正六面体则是三维的（立体的）.	zhèngfāngxíng shì èrwéi de píngmiàn de ér zhèng liùmiàntǐ zé shì sānwéi de lìtǐ de	A square is two-dimensional and a cube is three-dimensional.	4.353	0.353
 他说他受过折磨拷打 从他身上的伤疤看来倒也可信.	tā shuō tā shòu guò zhémó kǎodǎ cóng tā shēnshang de shāngbā kànlai dǎo yě kěxìn	The scars on his body lent colour to his claim that he had been tortured.	4.706	0.353
 ｀你没赶上公共汽车吗? 不要紧 五分钟後就来一辆.＇	nǐ méi gǎnshàng gōnggòngqìchē ma bùyàojǐn wǔ fēnzhōng hòu jiù lái yī liàng	Did you miss the bus? Never mind there'll be another one in five minutes.	4.882	0.353
-她断定那笔钱用得不是地方，而我们在经济上遇到的困难却也似乎说明她言之有理。	tā duàndìng nà bǐ qián yòng dé bùshì dìfang ér wǒmen zài jīngjì shàng yùdào de kùnnan què yě sìhū shuōmíng tā yán zhī yǒulǐ	She claimed that money had been wasted and our financial difficulties seemed to prove her point.	3.65	0.35
 有许多中国人住在唐人街，其人数比中国本土之外世界其他任何地方的华人都多。	yǒu xǔduō Zhōngguórén zhù zài Tángrén Jiē qí rénshù bǐ Zhōngguó běntǔ zhīwài shìjiè qítā rènhé dìfang de Huárén dōu duō	More Chinese live in China Town than in any other part of the world outside China.	3.75	0.35
+她断定那笔钱用得不是地方，而我们在经济上遇到的困难却也似乎说明她言之有理。	tā duàndìng nà bǐ qián yòng dé bùshì dìfang ér wǒmen zài jīngjì shàng yùdào de kùnnan què yě sìhū shuōmíng tā yán zhī yǒulǐ	She claimed that money had been wasted and our financial difficulties seemed to prove her point.	3.65	0.35
 假使语言是为了隐藏思想而被发明的，那么报纸就是对这不良发明的一大改进。	jiǎshǐ yǔyán shì wèile yǐncáng sīxiǎng ér bèi fāmíng de nàme bàozhǐ jiùshì duì zhè bùliáng fāmíng de yī dà gǎijìn	If word were invented to conceal think newspaper should be a great improvement on a bad invention.	4.25	0.35
 在结构分析中，研究形状和格式的科学。此处指对模块层次和组织的结构的研究。	zài jiégòu fēnxī zhōng yánjiū xíngzhuàng hé géshì de kēxué cǐchù zhǐ duì mókuài céngcì hé zǔzhī de jiégòu de yánjiū	In structured analysis the study of shapes and forms herein with respect to the structure of modular hierarchies and organizations.	4.4	0.35
 支撑的位置如杠杆上的位置或某人的双脚等用于移动或支撑重量的位置	zhīchēng de wèizhi rú gànggǎn shàng de wèizhi huò mǒurén de shuāngjiǎo děng yòngyú yídòng huò zhīchēng zhòngliàng de wèizhi	A position as of a lever or one's feet affording means to move or secure a weight.	4.7	0.35
@@ -11622,8 +11628,12 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 在计算机程序运行过程中发生的一种不希望有的或意料之外的停机，一般是由于编码失误、硬件故障或操作者的错误而引起的。参阅run。	zài jìsuànjī chéngxù yùnxíng guòchéng zhōng fāshēng de yīzhǒng bù xīwàng yǒude huò yìliàozhīwài de tíngjī yībān shì yóuyú biānmǎ shīwù yìngjiàn gùzhàng huò cāozuòzhě de cuòwù ér yǐnqǐ de cānyuè	In computing an unwanted or unforeseen halt in a program run due to faulty coding hardware errors or operator mistakes.	4.375	0.344
 他说他的工会——运输工会504分会——历年来在合约上做了“极大的让步”以协助泛美［航空公司］纾解财务困难。“结果全然没用，”他哀伤地说。	tā shuō tā de gōnghuì yùnshū gōnghuì fēnhuì lìnián lái zài héyuē shàng zuò le jídà de ràngbù yǐ xiézhù fàn měi hángkōnggōngsī shūjiě cáiwù kùnnan jiéguǒ quánrán méiyòng tā āishāngde shuō	He said his union Local504 of the Transport Workers Union made""massive contract givebacks"" over the years to help Pan Am with its financial troubles.""It was all to no avail "" he lamented.	5.057	0.343
 海涅，亨利希1797－1856德国作家，自1831年之后生活在巴黎。他的浪漫主义诗歌及社会论文充满了他对自己祖国土地和人民的热爱，对众多德国现代研究机构的嘲笑	Hǎiniè Hēnglì xī Déguó zuòjiā zì nián zhīhòu shēnghuó zài Bālí tā de làngmànzhǔyì shīgē jí shèhuì lùnwén chōngmǎn le tā duì zìjǐ zǔguó tǔdì hé rénmín de rè'ài duì zhòngduō Déguó xiàndài yánjiūjīgòu de cháoxiào	German writer who lived in Paris after1831. His romantic poems and social essays are marked by his love for the German land and people and derision for many modern German institutions.	4.927	0.341
-我经常乘地铁去上班。	wǒ jīngcháng chéng dìtiě qù shàngbān	I go to work on the tube.	2.5	0.333
 我看上去怎么样？	wǒ kànshangqu zěnmeyàng	How do I look?	3.0	0.333
+他不远万里来中国度暑假。	tā bù yuǎn wànlǐ lái zhōng guódù shǔjià	He has come over to China for the summer.	4.0	0.333
+约翰甚至于不说一声“谢谢”就离开了。	Yuēhàn shènzhìyú bù shuō yīshēng xièxie jiù líkāi le	John left without so much as saying""Thank you.""	4.667	0.333
+杰克是一位精通中国古代经典著作的学者。	Jiékè shì yī wèi jīngtōng Zhōngguó gǔdài jīngdiǎn zhùzuò de xuézhě	Jack is a scholar steeped in the classics of ancient China.	4.667	0.333
+根据条约 中国将于1997年7月1日收回香港。	gēnjù tiáoyuē Zhōngguó jiāng yú nián yuè rì shōuhuí Xiānggǎng	According to the treaty China is to take back Hong Kong on July 1st 1997.	4.583	0.333
+我经常乘地铁去上班。	wǒ jīngcháng chéng dìtiě qù shàngbān	I go to work on the tube.	2.5	0.333
 西海岸公司是个大型公司。	xī hǎi'àn gōngsī shì gè dàxíng gōngsī	West Coast Corps is a large corporation.	3.0	0.333
 我害怕蛇。	wǒ hàipà shé	I have a fear of snakes.	3.0	0.333
 我很忙，所以不得不中断每周的访问。	wǒ hěn máng suǒyǐ bùdébù zhōngduàn měizhōu de fǎngwèn	I'm so busy that I have to discontinue weekly visits.	3.111	0.333
@@ -11640,7 +11650,6 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 表演很高超。	biǎoyǎn hěn gāochāo	The acting is superb.	3.333	0.333
 公司发给她奖金以酬谢她工作努力。	gōngsī fāgěi tā jiǎngjīn yǐ chóuxiè tā gōngzuò nǔlì	The firm repaid her hard work with a bonus.	3.333	0.333
 他情绪激动。	tā qíngxù jīdòng	He got an inflammation of passion.	3.333	0.333
-这螺丝钉需要再拧紧些。	zhè luósīdīng xūyào zài nǐng jǐn xiē	This screw needs tightening.	3.333	0.333
 我们随着导游参观了城堡。	wǒmen suízhe dǎoyóu cānguān le chéngbǎo	We went on a guided tour round the castle.	3.333	0.333
 我们互相拥抱。	wǒmen hùxiāng yōngbào	We embraced each other.	3.333	0.333
 向悲观的人推销保险很容易.	xiàng bēiguān de rén tuīxiāo bǎoxiǎn hěn róngyì	It's easy to sell insurance to a pessimist.	3.444	0.333
@@ -11652,7 +11661,6 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 请说明姓名、年龄和职业。	qǐng shuōmíng xìngmíng niánlíng hé zhíyè	Please state your name age and occupation.	3.5	0.333
 请示范机器的使用方法。	qǐng shìfàn jīqì de shǐyòng fāngfǎ	Please demonstrate how the machine works.	3.5	0.333
 广泛的阅读使我受益匪浅。	guǎngfàn de yuèdú shǐ wǒ shòuyìfěiqiǎn	I have benefited a lot from extensive reading.	3.5	0.333
-你应该再细心些.	nǐ yīnggāi zài xìxīn xiē	You want to be more careful.	3.5	0.333
 我们十分清楚形势的严峻性。	wǒmen shífēn qīngchu xíngshì de yánjùn xìng	We are fully aware of the gravity of the situation.	3.5	0.333
 别降低身份为这事去跟她争吵。	bié jiàngdī shēnfèn wéi zhè shì qù gēn tā zhēngchǎo	Don't stoop to quarrel with her about it.	3.556	0.333
 伟大的画家总是走在时代的前头。	wěidà de huàjiā zǒngshì zǒu zài shídài de qiántou	A great painter is usually ahead of his time.	3.556	0.333
@@ -11740,7 +11748,6 @@ R级，电影的限制级一种电影分级，允许一定年龄以下（通常�
 别再为我们花的每个小钱费心思了.	bié zài wéi wǒmen huā de měi gè xiǎo qián fèi xīnsi le	Stop niggling about every penny we spend.	3.917	0.333
 那位著名的进步思想家被邀请在会议上发表演讲。	nà wèi zhùmíng de jìnbù sīxiǎngjiā bèi yāoqǐng zài huìyì shàng fābiǎoyǎnjiǎng	That famous progressive thinker was asked to deliver a speech at the meeting.	3.917	0.333
 他尽管有病，还是可以上课。	tā jǐnguǎn yǒu bìng háishi kěyǐ shàngkè	He is not so sick but he can attend a class.	4.0	0.333
-他不远万里来中国度暑假。	tā bù yuǎn wànlǐ lái zhōng guódù shǔjià	He has come over to China for the summer.	4.0	0.333
 你是男子汉还是胆小鬼?	nǐ shì nánzǐhàn háishi dǎnxiǎoguǐ	Are you a man or a mouse (ie brave or cowardly)?	4.0	0.333
 喜悦和惊异交织在一起。	xǐyuè hé jīngyì jiāozhī zàiyīqǐ	Joy mingled with surprises.	4.0	0.333
 胸痛可能是心脏病的症状。	xiōng tòng kěnéng shì xīnzàngbìng de zhèngzhuàng	Chest pains may be symptomatic of heart disease.	4.0	0.333
@@ -12202,7 +12209,6 @@ out？ 你经常锻炼身体吗？	nǐ jīngcháng duànliàn shēntǐ ma	Do you
 职权的弊端	zhíquán de bìduān	Abuse of power.	4.667	0.333
 人们聚集在篝火周围唱歌。	rénmen jùjí zài gōuhuǒ zhōuwéi chànggē	The men clustered together round the fire and sang songs.	4.667	0.333
 这战场的情景触目惊心.	zhè zhànchǎng de qíngjǐng chùmùjīngxīn	The battlefield was a fearsome sight.	4.667	0.333
-杰克是一位精通中国古代经典著作的学者。	Jiékè shì yī wèi jīngtōng Zhōngguó gǔdài jīngdiǎn zhùzuò de xuézhě	Jack is a scholar steeped in the classics of ancient China.	4.667	0.333
 掘墓者挖掘坟墓的人	jué mù zhě wājué fénmù de rén	One that digs graves.	4.667	0.333
 我今早头痛得厉害.	wǒ jīn zǎo tóutòng dé lìhai	I've got a terrible head this morning.	4.667	0.333
 壮丽的山峰	zhuànglì de shānfēng	Proud alpine peaks.	4.667	0.333
@@ -12225,7 +12231,6 @@ out？ 你经常锻炼身体吗？	nǐ jīngcháng duànliàn shēntǐ ma	Do you
 他在布置新房子中表现出富有技巧。	tā zài bùzhì xīn fángzi zhōng biǎoxiàn chū fùyǒu jìqiǎo	He display a great deal of artifice in decorate his new house.	4.667	0.333
 现在大楼已开始动工，要放弃行动为时已晚。	xiànzài dàlóu yǐ kāishǐ dònggōng yào fàngqì xíngdòng wéishíyǐwǎn	Now the building has been started it is too late to back off.	4.667	0.333
 盛有核废料的密封容器被丢在海里。	chéng yǒu hé fèiliào de mìfēng róngqì bèi diū zài hǎilǐ	Sealed containers of nuclear waste have been dumped in the sea.	4.667	0.333
-约翰甚至于不说一声“谢谢”就离开了。	Yuēhàn shènzhìyú bù shuō yīshēng xièxie jiù líkāi le	John left without so much as saying""Thank you.""	4.667	0.333
 他们为赛马设立了2000畿尼的奖金。	tāmen wéi sàimǎ shèlì le jī ní de jiǎngjīn	They had set a prize of 2000 gns for the horserace.	4.667	0.333
 我们的科学家在宇宙探索中处於领先地位。	wǒmen de kēxuéjiā zài yǔzhòu tànsuǒ zhōng chǔ yú lǐngxiāndìwèi	Our scientists are leading the way in space research.	4.667	0.333
 照片放大後细微之处都很清楚.	zhàopiàn fàngdà hòu xìwēi zhī chǔ dōu hěn qīngchu	The enlargement brings out the details in the photograph.	4.667	0.333
@@ -12253,7 +12258,6 @@ out？ 你经常锻炼身体吗？	nǐ jīngcháng duànliàn shēntǐ ma	Do you
 成功来自勤奋。	chénggōng láizì qínfèn	Success comes with industry.	4.667	0.333
 莫斯科电视为撤军做了广泛的报导，一则苏联电视报导说车队曾受攻击，但是并未提供细节。	Mòsīkē diànshì wéi chèjūn zuò le guǎngfàn de bàodǎo yīzé Sūlián diànshì bàodǎo shuō chēduì céng shòu gōngjī dànshì bìng wèi tígōng xìjié	Moscow television carried extensive coverage of the pullout. A Soviet television correspondence said the convoy had come under fire but did not provide details.	4.714	0.333
 这些领导可能会走出来，打出自己的旗号，并向群众大会演说。	zhèxiē lǐngdǎo kěnéng huì zǒu chūlái dǎ chū zìjǐ de qíhào bìng xiàng qúnzhòngdàhuì yǎnshuō	The leaders may go out to show the flag and address mass rallies.	4.733	0.333
-这些被警察抓住的犯罪分子只是些小鱼，他们的头子却跑掉了。	zhèxiē bèi jǐngchá zhuāzhù de fànzuì fēnzǐ zhǐshì xiē xiǎo yú tāmen de tóuzi què pǎodiào le	These criminals arrested by the police are only minnows their leader has escaped.	4.733	0.333
 哼一哼你喜爱的曲子的开头几个小节.	hēng yī hēng nǐ xǐ'ài de qǔzi de kāitóu jǐge xiǎojié	Hum the opening bars of your favourite tune.	4.75	0.333
 天文学家现在能看到的星星的数目，多得简直令人头晕目眩。	tiānwénxuéjiā xiànzài néng kàn dào de xīngxing de shùmù duō dé jiǎnzhí lìngrén tóuyūnmùxuàn	The number of stars now visible to the astronomers makes one's brain reel.	4.75	0.333
 侧面从侧面观看的物体或构造，尤指人的脑袋	cèmiàn cóng cèmiàn guānkàn de wùtǐ huò gòuzào yóuzhǐ rén de nǎodài	A side view of an object or a structure especially of the human head.	4.75	0.333
@@ -13052,7 +13056,6 @@ CPC是中国共产党的英文名称缩写。	shì Zhōngguó Gòngchǎndǎng de
 例如伦敦是英国的首都。	lìrú Lúndūn shì Yīngguó de shǒudū	For example London is the capital of Britain.	4.0	0.333
 首先 我们没得到批准。	shǒuxiān wǒmen méi dédào pīzhǔn	To start with we haven't got the approval.	4.167	0.333
 大宝贝 别哭了!	dà bǎobèi bié kū le	Stop blubbering you big baby!	4.667	0.333
-孩子们 规矩些!	háizimen guīju xiē	Children please behave (yourselves)!	4.833	0.333
 简而言之他没有天赋学历史。	jiǎn'éryánzhī tā méiyǒu tiānfù xué lìshǐ	In a word history is not the subject he is cut out for.	5.333	0.333
 他性情温和 讨厌暴力.	tā xìngqíng wēnhé tǎoyàn bàolì	Violence is abhorrent to his gentle nature.	5.333	0.333
 她会说法语 德语 还会说一点儿俄语.	tā huì shuōfa yǔ Déyǔ hái huì shuō yīdiǎnr Éyǔ	She speaks French and German and also a little Russian.	6.0	0.333
@@ -13081,7 +13084,6 @@ CPC是中国共产党的英文名称缩写。	shì Zhōngguó Gòngchǎndǎng de
 把那刀子放下，以免伤人！	bǎ nà dāozi fàngxia yǐmiǎn shāngrén	Put down that knife before you hurt somebody!	5.167	0.333
 那孩子（怀里）抱著玩具娃娃.	nà háizi huáilǐ bào zhe wánjù wáwa	The child cuddled her doll (to her chest).	5.167	0.333
 那村庄位於山脚下.	nà cūnzhuāng wèiyú shānjiǎo xià	The village nestled at the foot of the hill.	5.333	0.333
-根据条约 中国将于1997年7月1日收回香港。	gēnjù tiáoyuē Zhōngguó jiāng yú nián yuè rì shōuhuí Xiānggǎng	According to the treaty China is to take back Hong Kong on July 1st 1997.	4.583	0.333
 交易会定于5月30日闭幕。	jiāoyìhuì dìngyú yuè rì bìmù	The Fair is scheduled to close on May30.	5.0	0.333
 我们的职员少一些也能发挥同样效率 这是言之成理的.	wǒmen de zhíyuán shǎo yīxiē yě néng fāhuī tóngyàng xiàolǜ zhè shì yán zhī chéng lǐ de	It is arguable that we would be just as efficient with fewer staff.	4.4	0.333
 专心工作 不要说话.	zhuānxīn gōngzuò bùyào shuōhuà	Attend to your work and stop talking.	4.667	0.333
@@ -13091,6 +13093,8 @@ CPC是中国共产党的英文名称缩写。	shì Zhōngguó Gòngchǎndǎng de
 希尔先生和夫人招待客人真周到.	Xī'ěr xiānsheng hé fūren zhāodài kèrén zhēn zhōudào	Mr and Mrs Hill are such good hosts.	4.111	0.333
 希思先生是英国前任首相。	xī sī xiānsheng shì Yīngguó qiánrèn shǒuxiàng	Mr. Heath is the former Prime Minister of Britain.	5.0	0.333
 琼斯先生，一路顺风。	Qióngsī xiānsheng yīlùshùnfēng	Bon voyage Mr.Jones.	5.0	0.333
+可能对外国口味而言过于朴素了些。	kěnéng duì wàiguó kǒuwèi éryán guòyú pǔsù le xiē	May be a little austere for foreign taste.	4.222	0.333
+青年人通常比老年人精力充沛些。	qīngniánrén tōngcháng bǐ lǎoniánrén jīnglìchōngpèi xiē	Young people usually have more energy than the old.	4.833	0.333
 显然，美国运通在罗宾逊离开以后将成为较小的公司。可能出售它的希尔森·里曼兄弟公司，放弃成为“财务超级市场”的梦想。公司的作风也可能改变－从一个贵族和官僚作风的帝国变成一个较为实事求是的公司。	xiǎnrán Měiguó Yùntōng zài Luóbīnxùn líkāi yǐhòu jiāng chéngwéi jiào xiǎode gōngsī kěnéng chūshòu tā de Xī'ěr sēn lǐ màn xiōngdì gōngsī fàngqì chéngwéi cáiwù chāojíshìchǎng de mèngxiǎng gōngsī de zuòfēng yě kěnéng gǎibiàn cóng yī gè guìzú hé guānliáo zuòfēng de dìguó biànchéng yī gè jiàowéi shíshìqiúshì de gōngsī	Clearly AmEx will be a smaller company in the post-Robinson era. It is likely to sell its Shearson Lehman Brothers division giving up dreams of becoming a""financial supermarket."" Company culture too may change from an aristocratic and bureaucratic empire to a company that is more down to earth.	4.388	0.327
 日本公司有能力在发展与生产方面，较美国公司投资为多，是他们在半导体方面占上风的一个主要原因。现在，英泰尔计划在经济不景气时大量投资以压倒弱小竞争者。	Rìběn gōngsī yǒunénglì zài fāzhǎn yǔ shēngchǎn fāngmiàn jiào Měiguó gōngsī tóuzī wéi duō shì tāmen zài bàndǎotǐ fāngmiàn zhànshàngfēng de yī gè zhǔyào yuányīn xiànzài yīng Tài'ěr jìhuà zài jīngjì bùjǐngqì shí dàliàng tóuzī yǐ yādǎo ruòxiǎo jìngzhēngzhě	The ability to outspend American companies on development and production has been a big reason Japanese companies have made gains in the semi-conductor business. Now Intel plans to borrow a page from the Japanese by spending heavily through a recession to gain ground on weaker competitors.	4.568	0.324
 将近一万名西方平民（多半是英国人和美国人）躲藏在被占领的科威特城。如果萨达姆能如愿，使他们落在他手里，他们将被指定为活靶，难逃浩劫。	jiāngjìn yī wànmíng Xīfāng píngmín duōbàn shì Yīngguórén héměi guórén duǒcáng zài bèi zhànlǐng de Kēwēitè chéng rúguǒ Sàdámǔ néng rúyuàn shǐ tāmen luò zài tā shǒulǐ tāmen jiāng bèi zhǐdìng wéi huó bǎ nán táo hàojié	Nearly10 000 Western civilians mostly British and American are holed up in captured Kuwait City. If Saddam gets his hands on them as he intends to they are to be designated human targets and doomed.	5.059	0.324
@@ -13281,8 +13285,10 @@ CPC是中国共产党的英文名称缩写。	shì Zhōngguó Gòngchǎndǎng de
 产生某种指定类型和格式的结果的程序或另一种编码序列（如“宏生成程序”、“微代码生成程序”）。	chǎnshēng mǒuzhǒng zhǐdìng lèixíng hé géshì de jiéguǒ de chéngxù huò lìng yīzhǒng biānmǎ xùliè rú hóng shēngchéng chéngxù wēi dàimǎ shēngchéng chéngxù	A program or other coding sequence that produces a result of specified type and format(""a macro generator"";""a microcode generator"").	5.652	0.304
 传送带连续的带或链，用以把运动，动力或物品从一个轮子或轴传导或传送到另一个	chuánsòngdài liánxù de dài huò liàn yòngyǐ bǎ yùndòng dònglì huò wùpǐn cóng yī gè lúnzi huò zhóu chuándǎo huò chuánsòng dào lìngyī gè	A continuous band or chain for transferring motion or power or conveying materials from one wheel or shaft to another.	5.696	0.304
 据说惊人的大量有毒物质正堆在英国最大的化学物品废品站里……当地政府……对……堆在它门口的垃圾理所当然地感到忧虑。	jùshuō jīngrén de dàliàng yǒudú wùzhì zhèng duī zài Yīngguó zuì dà de huàxué wùpǐn fèipǐn zhàn lǐ dāngdì zhèngfǔ duì duī zài tā ménkǒu de lājī lǐsuǒdāngrán dì gǎndào yōulǜ	A frightening brew of poisonous waste is said to be accumulating in Britain's biggest chemical dump… The local authority… is rightly worried about the… tip on its doorstep.	5.273	0.303
-由于电脑工业的发展，许多新公司纷纷成立。	yóuyú diànnǎo gōngyè de fāzhǎn xǔduō xīn gōngsī fēnfēn chénglì	The computer industry has spawned a lot of new companies.	3.3	0.3
+你怎么能看着孩子惨遭折磨而无动于衰？	nǐ zěnme néng kàn zhe háizi cǎnzāo zhémó ér wú dòng yú shuāi	How can you turn away from a child that is being cruelly treated?	4.3	0.3
+我们双方都作些让步以弥合价格差距怎么样？	wǒmen shuāngfāng dōu zuò xiē ràngbù yǐ míhé jiàgé chājù zěnmeyàng	How about meeting each other halfway to fill the price gap?	4.2	0.3
 孔子被认为是中国古代最伟大的圣贤。	Kǒngzǐ bèi rènwéi shì Zhōngguó gǔdài zuì wěidà de shèngxián	Confucius is considered the greatest of the ancient Chinese sages.	3.5	0.3
+由于电脑工业的发展，许多新公司纷纷成立。	yóuyú diànnǎo gōngyè de fāzhǎn xǔduō xīn gōngsī fēnfēn chénglì	The computer industry has spawned a lot of new companies.	3.3	0.3
 既然你无法回答这个问题，我们最好再问问别人。	jìrán nǐ wúfǎ huídá zhège wèntí wǒmen zuìhǎo zài wèn wèn biéren	Since you can't answer the question perhaps we'd better ask someone else.	3.8	0.3
 她看着窗外，为她失去的青春而惋惜。	tā kàn zhe chuāng wài wéi tā shīqù de qīngchūn ér wǎnxī	She looked out of the window sighing for her lost youth.	3.9	0.3
 他被公认为现代最杰出的作家之一。	tā bèi gōng rènwéi xiàndài zuì jiéchū de zuòjiā zhīyī	He is generally rated as one of the best modern writers.	3.9	0.3
@@ -13310,12 +13316,10 @@ CPC是中国共产党的英文名称缩写。	shì Zhōngguó Gòngchǎndǎng de
 尘土受到损辱，却以她的花朵来报答。	chéntǔ shòudào sǔn rǔ què yǐ tā de huāduǒ lái bàodá	The dust receives insult and in return offers her flowers.	4.2	0.3
 在演讲开始时，他总是先分发一份提纲。	zài yǎnjiǎng kāishǐ shí tā zǒngshì xiān fēnfā yī fèn tígāng	At the beginning he would always hand out an outline of the lecture.	4.2	0.3
 凶恶的女人被认为胆大或凶狠的妇女	xiōng'è de nǚrén bèi rènwéi dǎndà huò xiōnghěn de fùnǚ	A woman regarded as daring or fierce.	4.2	0.3
-我们双方都作些让步以弥合价格差距怎么样？	wǒmen shuāngfāng dōu zuò xiē ràngbù yǐ míhé jiàgé chājù zěnmeyàng	How about meeting each other halfway to fill the price gap?	4.2	0.3
 把发生的事情尽可能仔细地回忆一下.	bǎ fāshēng de shìqing jǐnkěnéng zǐxì dì huíyì yīxià	Try to recall (to mind) exactly what happened.	4.2	0.3
 我体谅你可能事先已另有承诺.	wǒ tǐliàng nǐ kěnéng shìxiān yǐ lìngyǒu chéngnuò	I appreciate that you may have prior commitments.	4.3	0.3
 良好的书藉是使人生变得充实之物。	liánghǎo de shū jiè shì shǐ rénshēng biànde chōngshí zhī wù	Good books are an enrichment of life.	4.3	0.3
 急欲获得的妄想权力或荣誉的；嫉妒的	jí yù huòdé de wàngxiǎng quánlì huò róngyù de jídù de	Covetous of power or honor; envious.	4.3	0.3
-你怎么能看着孩子惨遭折磨而无动于衰？	nǐ zěnme néng kàn zhe háizi cǎnzāo zhémó ér wú dòng yú shuāi	How can you turn away from a child that is being cruelly treated?	4.3	0.3
 一名通讯员被派去给前线士兵送消息。	yī míng tōngxùnyuán bèi pài qù gěi qiánxiàn shìbīng sòng xiāoxi	A messenger was despatched to take the news to the soldiers at the front.	4.3	0.3
 成语的类似成语的或具有成语性质的	chéngyǔ de lèisì chéngyǔ de huò jùyǒu chéngyǔ xìngzhì de	Resembling or having the nature of an idiom.	4.3	0.3
 太阳能电池能把阳光的能量转化为电能。	tàiyángnéngdiànchí néng bǎ yángguāng de néngliàng zhuǎnhuà wéi diànnéng	The solar cell can convert the energy of sunlight into electric energy.	4.3	0.3
@@ -13609,6 +13613,7 @@ AB线和CD线在P点相交.	xiàn hé xiàn zài diǎn xiāngjiāo	AB and CD int
 不管侵略者什麽时候来，都必被消灭。	bùguǎn qīnlüèzhě shí mó shíhou lái dōu bì bèi xiāomiè	No matter when the invader comes they will be wiped out clean.	4.3	0.3
 船遇难後因天气恶劣救援工作十分困难.	chuán yùnàn hòu yīn tiānqì èliè jiùyuán gōngzuò shífēn kùnnan	Salvage of the wreck was made difficult by bad weather.	5.1	0.3
 史密斯小姐（去年访问了中国）打算嫁给爱尔伯特先生。	Shǐmìsī xiǎojie qùnián fǎngwèn le Zhōngguó dǎsuàn jià gěi ài ěr bó tè xiānsheng	Miss Smith( who visited china last year) is going to marry Mr. Abbott.	3.4	0.3
+一位空中小姐走过来，问他是否想要些饮料。	yī wèi kōngzhōngxiǎojiě zǒuguò lái wèn tā shìfǒu xiǎngyào xiē yǐnliào	An air stewardess came and asked him if he would like some drink.	4.3	0.3
 寓言，讽喻一种文学、戏剧或绘画的艺术手法，其中人物和事件代表抽象的观点、原则或支配力，从而使表面含义含有或表达一种对等的，但更深刻的象征意义	yùyán fěng yù yīzhǒng wénxué xìjù huò huìhuà de yìshù shǒufǎ qízhōng rénwù hé shìjiàn dàibiǎo chōuxiàng de guāndiǎn yuánzé huò zhīpèilì cóng'ér shǐ biǎomiàn hányì hányǒu huò biǎodá yīzhǒng duìděng de dàn gèng shēnkè de xiàngzhēng yìyì	A literary dramatic or pictorial device in which characters and events stand for abstract ideas principles or forces so that the literal sense has or suggests a parallel deeper symbolic sense.	4.892	0.297
 在微波系统中，来自各处的分散的输入必须被汇集在一起，以形成一个综合的输入，然后由无线电发送和接收。	zài wēibō xìtǒng zhōng láizì gèchù de fēnsàn de shūrù bìxū bèi huìjí zàiyīqǐ yǐ xíngchéng yī gè zōnghé de shūrù ránhòu yóu wúxiàndiàn fāsòng hé jiēshōu	In microwave system the separate input from various sources must be brought together to give a composite input which is then transmitted and received by radio.	4.333	0.296
 奥布赖恩，埃德纳生于1932爱尔兰作家。作品包括孤独的姑娘和约翰我几乎认不出你了（1977年），探索今日爱尔兰的女性生活	ào bù lài ēn Āidé nà shēng yú Ài'ěrlán zuòjiā zuòpǐn bāokuò gūdú de gūniang héyuē hàn wǒ jīhū rèn bù chū nǐ le nián tànsuǒ jīnrì Ài'ěrlán de nǚxìng shēnghuó	Irish writer whose works including The Lonely Girl(1962) and Johnny I Hardly Knew You(1977) explore the lives of women in modern-day Ireland.	4.852	0.296
@@ -13659,12 +13664,13 @@ AB线和CD线在P点相交.	xiàn hé xiàn zài diǎn xiāngjiāo	AB and CD int
 片害共栖有机体之间共生的作用关系，一个物种受另一个物种侵害或抑制，而后者不受前者的影响	piàn hài gòngqī yǒujītǐ zhījiān gòngshēng de zuòyòng guānxi yī gè wùzhǒng shòu lìngyī gè wùzhǒng qīnhài huò yìzhì ér hòuzhě bù shòu qiánzhě de yǐngxiǎng	A symbiotic relationship between organisms in which one species is harmed or inhibited and the other species is unaffected.	5.583	0.292
 韦伯磁通量的国际单位，等于当磁通量在一秒钟内被统一地减弱为零时在它联接的一圈电路内产生一伏特电动势时的磁通量	Wéibó cítōngliàng de guójìdānwèi děngyú dāng cítōngliàng zài yī miǎozhōng nèi bèi tǒngyī dì jiǎnruò wéi língshí zài tā liánjiē de yī quān diànlù nèi chǎnshēng yī fútè diàndòngshì shí de cítōngliàng	The SI unit of magnetic flux equal to the magnetic flux that in linking a circuit of one turn produces in it an electromotive force of one volt as it is uniformly reduced to zero within one second.	4.613	0.29
 炮台公园曼哈顿岛南端的公园，位于纽约东南部的纽约湾北端。1808年为保护港口而建，早期荷兰和英国的防御工事及克林顿城堡就在此地	pàotái gōngyuán Mànhādùn dǎo nán duāndì gōngyuán wèiyú Niǔyuē dōngnánbù de Niǔyuē wān běiduān nián wéi bǎohù gǎngkǒu ér jiàn zǎoqī Hélán hé Yīngguó de fángyùgōngshì jí Kèlíndùn chéngbǎo jiù zàicǐ dì	A park at the southern tip of Manhattan Island at the upper end of New York Bay in southeast New York. It is the site of early Dutch and English fortifications and of Castle Clinton built in1808 for the defense of the harbor.	5.065	0.29
+中国和许多国家进行多方面贸易。	Zhōngguó hé xǔduō guójiā jìnxíng duōfāngmiàn màoyì	China does a lot of trade with many countries.	3.571	0.286
+英国和中国签署了贸易协定.	Yīngguó hé Zhōngguó qiānshǔ le màoyìxiédìng	Britain concluded a trade agreement with China.	4.286	0.286
 不管穷还是富，他都快活。	bùguǎn qióng háishi fù tā dōu kuàihuo	He is always happy whether rich or not.	3.286	0.286
 治疗背痛的唯一办法是休息。	zhìliáo bèi tòng de wéiyī bànfǎ shì xiūxi	The only way to cure backache is to rest.	3.429	0.286
 我为她力争，以求改变决定。	wǒ wéi tā lìzhēng yǐqiú gǎibiàn juédìng	I intervened on her behalf to try to get the decision changed.	3.429	0.286
 他鼓起全部的勇气参加比赛。	tā gǔqǐ quánbù de yǒngqì cānjiā bǐsài	He mustered all his courage to take part in the game.	3.429	0.286
 银行拒绝再贷款给这家公司。	yínháng jùjué zài dàikuǎn gěi zhè jiā gōngsī	The bank refused further credits to the company.	3.571	0.286
-中国和许多国家进行多方面贸易。	Zhōngguó hé xǔduō guójiā jìnxíng duōfāngmiàn màoyì	China does a lot of trade with many countries.	3.571	0.286
 她打扮停当准备去参加晚会。	tā dǎban tíngdàng zhǔnbèi qù cānjiā wǎnhuì	She dressed up for the party.	3.571	0.286
 主要重点放在法律和秩序上。	zhǔyào zhòngdiǎn fàng zài fǎlǜ hé zhìxù shàng	Lay heavy stress on law and order.	3.571	0.286
 好看的录像带总是被借走。	hǎokàn de lùxiàngdài zǒngshì bèi jiè zǒu	The good video is always rented out.	3.714	0.286
@@ -13701,7 +13707,6 @@ AB线和CD线在P点相交.	xiàn hé xiàn zài diǎn xiāngjiāo	AB and CD int
 假如查出你向该国走私货物，你的货物可能会被没收。	jiǎrú cháchū nǐ xiàng gāi guó zǒusī huòwù nǐ de huòwù kěnéng huì bèimòshōu	If you are caught smuggling goods into the country they will probably be confiscated.	4.071	0.286
 她那么傻，以致被人嘲笑。	tā nàme shǎ yǐzhì bèi rén cháoxiào	She was laughed at for being so foolish.	4.143	0.286
 他因玩忽职守而被开除了。	tā yīn wánhūzhíshǒu ér bèi kāi chúle	He is dismissed for neglecting of duty.	4.143	0.286
-他倒了些汁液以防烤干。	tā dǎo le xiē zhīyè yǐfáng kǎo gàn	He bastes juices to keep it moist during cooking.	4.143	0.286
 他下决心不让任何事情阻挡他。	tā xiàjuéxīn bù ràng rènhé shìqing zǔdǎng tā	He resolved that nothing should hold him back.	4.143	0.286
 她由于极度疲劳而掉队了。	tā yóuyú jídù píláo ér diàoduì le	She fell out from extreme fatigue.	4.143	0.286
 一再的拖延打乱了全部安排。	yīzài de tuōyán dǎ luàn le quánbù ānpái	The delays put the whole schedule out of joint.	4.143	0.286
@@ -13712,7 +13717,6 @@ AB线和CD线在P点相交.	xiàn hé xiàn zài diǎn xiāngjiāo	AB and CD int
 富豪，政治家在商业或政治上获得杰出成绩而闻名的人	fùháo zhèngzhìjiā zài shāngyè huò zhèngzhì shàng huòdé jiéchū chéngjì ér wénmíng de rén	One who is known for achieving excellent results as in business or politics.	4.214	0.286
 电视、广播或演出节目为舞台、银幕、电视或电台制作的作品	diànshì guǎngbō huò yǎnchū jiémù wéi wǔtái yínmù diànshì huò diàntái zhìzuò de zuòpǐn	A work produced for the stage screen television or radio.	4.214	0.286
 她看样子随时都可能垮下来.	tā kànyàngzi suíshí dōu kěnéng kuǎ xiàlai	She looked ready to collapse at any minute.	4.286	0.286
-英国和中国签署了贸易协定.	Yīngguó hé Zhōngguó qiānshǔ le màoyìxiédìng	Britain concluded a trade agreement with China.	4.286	0.286
 我在假日愿意轻松一些.	wǒ zài jiàrì yuànyì qīngsōng yīxiē	I like to take things easy when I'm on holiday.	4.286	0.286
 我不相信他会如约前来访问。	wǒ bù xiāngxìn tā huì rú yuē qiánlái fǎngwèn	I don't trust his promise to come for a visit.	4.286	0.286
 石墨是一种软而黑的物质。	shímò shì yīzhǒng ruǎn ér hēi de wùzhì	Graphite is a soft black substance.	4.286	0.286
@@ -14289,12 +14293,12 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 工会与资方的最后谈判行将终结，双方努力争取在限期前达成协议。否则，发行187年的《纽约邮报》将被迫永远停刊。	gōnghuì yǔ zīfāng de zuìhòu tánpàn xíngjiāng zhōngjié shuāngfāng nǔlì zhēngqǔ zài xiànqī qián dáchéngxiéyì fǒuzé fāxíng nián de Niǔyuē Yóubào jiāng bèipò yǒngyuǎn tíng kān	Last-ditch talks headed down to the wire as union and management raced a deadline which could force the New York Post to close down today for good after187 year.	5.36	0.28
 我很想听听可能会发生什麽变动 但是（关於这一点）不管怎麽打听 他们就是不说.	wǒ hěn xiǎng tīng tīng kěnéng huì fāshēng shí mó biàndòng dànshì guān yú zhè yīdiǎn bùguǎn zěnme dǎting tāmen jiùshì bù shuō	I wanted to hear about possible changes but I couldn't draw them (on that).	4.92	0.28
 物理学家们正在研究对环境危害少的发电新方法，与此同时，许多发电厂也在实现现代化以减少污染物质的释放量。	wùlǐxuéjiā men zhèngzài yánjiū duì huánjìng wēihài shǎo de fādiàn xīn fāngfǎ yǔcǐtóngshí xǔduō fādiànchǎng yě zài shíxiàn xiàndàihuà yǐ jiǎnshǎo wūrǎnwù zhì de shìfàng liáng	Physicists are studying new ways of generating electricity with less damage to the environment. In the meantime many power plants are being modernized to give off less polluting material.	4.52	0.28
+象中国一样，美国继承了幅员辽阔的国土，有一望无际的丛山峻岭，沃土良田和无边草原。	xiàng Zhōngguó yīyàng Měiguó jìchéng le fúyuán liáokuò de guótǔ yǒu yīwàngwújì de cóng shān jùnlǐng wòtǔ liángtián hé wúbiān cǎoyuán	Like you we inherited a vast land of endless skies tall mountains rich fields and open prairies.	4.722	0.278
 被传授了初步知识的人已被引入或熟悉某一特定领域知识的人	bèi chuánshòu le chūbù zhīshi de rén yǐ bèi yǐnrù huò shúxī mǒu yī tèdìng lǐngyù zhīshi de rén	One who has been introduced to or has attained knowledge in a particular field.	4.111	0.278
 把生命系统的功能、特征、现象和计算机硬件系统的开发相联系的一种计算机技术分支。	bǎ shēngmìng xìtǒng de gōngnéng tèzhēng xiànxiàng hé jìsuànjī yìngjiàn xìtǒng de kāifā xiāng liánxì de yīzhǒng jìsuànjī jìshù fēnzhī	A branch of computer technology relating the functions characteristics and phenomena of living systems to the development of hardware systems.	4.444	0.278
 为保证设备的正常运转，每个品目都应包括一套标准定额的附件和专用工具。	wéi bǎozhèng shèbèi de zhèngcháng yùnzhuǎn měi gè pǐnmù dōu yīng bāokuò yītào biāozhǔn dìng'é de fùjiàn hé zhuānyòng gōngjù	Every item shall include a standard complement of accessories and special tools to ensure the normal operation.	4.556	0.278
 分析型的以两个或两个以上的词代替屈折变化来表达语法范畴的	fēnxī xíng de yǐ liǎng gè huò liǎng gè yǐshàng de cí dàitì qū zhé biànhuà lái biǎodá yǔfǎ fànchóu de	Expressing a grammatical category by using two or more words instead of an inflected form.	4.611	0.278
 表处理语言用于处理包含有表格的数据的编程语言，被广泛地运用于人工智能研究	biǎo chǔlǐ yǔyán yòngyú chǔlǐ bāohán yǒu biǎogé de shùjù de biānchéng yǔyán bèi guǎngfàn dì yùnyòng yú réngōngzhìnéng yánjiū	A programming language designed to process data consisting of lists. It is widely used in artificial intelligence research.	4.667	0.278
-象中国一样，美国继承了幅员辽阔的国土，有一望无际的丛山峻岭，沃土良田和无边草原。	xiàng Zhōngguó yīyàng Měiguó jìchéng le fúyuán liáokuò de guótǔ yǒu yīwàngwújì de cóng shān jùnlǐng wòtǔ liángtián hé wúbiān cǎoyuán	Like you we inherited a vast land of endless skies tall mountains rich fields and open prairies.	4.722	0.278
 所有的房间都装备有电炉以保持室内撮氏15－20度的常温。	suǒyǒu de fángjiān dōu zhuāngbèi yǒudiàn lú yǐ bǎochí shìnèi cuō shì dù de chángwēn	All roams are equipped with electric heaters to keep indoor temperatures constant at15-2.0.	4.889	0.278
 梅伦格舞起源于多米尼加和海地民间的一种适合在舞厅跳的交际舞，以滑步为特征	méi lún gé wǔ qǐyuán yú Duōmǐníjiā hé Hǎidì mínjiān de yīzhǒng shìhé zài wǔtīng tiào de jiāojì wǔ yǐ huá bù wéi tèzhēng	A ballroom dance of Dominican and Haitian folk origin characterized by a sliding step.	4.889	0.278
 自治组织一个关于研究或咨询的学者自治组织，通常是学院内的法定组织	zìzhì zǔzhī yī gè guānyú yánjiū huò zīxún de xuézhě zìzhì zǔzhī tōngcháng shì xuéyuàn nèi de fǎdìng zǔzhī	A self-governing society of scholars for study or instruction incorporated within a university.	4.889	0.278
@@ -14513,6 +14517,7 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 敌军推进时 士兵都撤出了那地区.	díjūn tuījìn shí shìbīng dōu chèchū le nà dìqū	The soldiers evacuated the area as the enemy advanced.	5.0	0.273
 那篇文章不甚乐观 暗示将无改进.	jǐngchá sōusuǒ le zài zhōuwéi liù Yīnglǐ yǐnèi de shùlín gèchù	The article struck a pessimistic note; it suggested there would be no improvement.	5.182	0.273
 庄稼种植的植物或农产品，如谷物、蔬菜或水果	zhuāngjia zhòngzhí de zhíwù huò nóngchǎnpǐn rú gǔwù shūcài huò shuǐguǒ	Cultivated plants or agricultural produce such as grain vegetables or fruit.	5.455	0.273
+他最後恢复些理智 同意释放人质.	tā zuìhòu huīfù xiē lǐzhì tóngyì shìfàng rénzhì	He was finally brought to his senses and agreed to let the hostages go.	4.636	0.273
 在源文件中，打印在相同栏内的若干正文行的集合。在当前栏内所剩余的纵向空间放不下既定一段正文时，则这段正文从下一栏开始打印［或印刷］。在单栏格式的情况下，下一栏便是下一页。	zài yuán wénjiàn zhōng dǎyìn zài xiāngtóng lán nèi de ruògān zhèngwén xíng de jíhé zài dāngqián lán nèi suǒ shèngyú de zòngxiàng kōngjiān fàngbuxià jìdìng yī duàn zhèngwén shí zé zhè duàn zhèngwén cóng xià yī lán kāishǐ dǎyìn huò yìnshuā zài dān lán géshì de qíngkuàng xià xià yī lán biànshì xiàyīyè	In a source document a collection of lines of text to be printed in the same column. When the vertical space remaining in the current column is insufficient for the block of text the text is printed in the next column. In the case of single-column format the next column is on the next page.	4.917	0.271
 在远程通信系统中，当报文发往的工作站处于不工作状态时控制站所采取的行动，即接收并存储该报文直到该工作站恢复工作时，再由控制站将报文送给它。在报文交换系统中，控制站可以是一台计算机。	zài yuǎnchéng tōngxìn xìtǒng zhōng dāng bào wén fā wǎng de gōngzuòzhàn chǔyú bù gōngzuò zhuàngtài shí kòngzhì zhàn suǒ cǎiqǔ de xíngdòng jí jiēshōu bìngcún chǔ gāi bào wén zhídào gāi gōngzuòzhàn huīfù gōngzuò shí zài yóu kòngzhì zhàn jiāng bào wén sònggěi tā zài bào wén jiāohuàn xìtǒng zhōng kòngzhì zhàn kěyǐ shì yī tái jìsuànjī	In a remote communication system the action taken by a control station whereby messages addressed to an inoperative station are accepted and stored at the control station until they can be sent to the destination station. The control station may be a computer in a message switching system.	5.271	0.271
 耳鸣一个耳朵或两耳中的声音，如嗡嗡声或哨声，在没有外界刺激的情况下发生，通常由某种特定情况如耳朵感染、使用某种药物、听觉管道堵塞或头部受伤引起	ěrmíng yī gè ěrduo huò liǎng ěr zhòngdì shēngyīn rú wēngwēngshēng huò shào shēng zài méiyǒu wàijiè cìjī de qíngkuàng xià fāshēng tōngcháng yóu mǒuzhǒng tèdìng qíngkuàng rú ěrduo gǎnrǎn shǐyòng mǒuzhǒng yàowù tīngjué guǎndào dǔsè huò tóubù shòushāng yǐnqǐ	A sound in one ear or both ears such as buzzing ringing or whistling occurring without an external stimulus and usually caused by a specific condition such as an ear infection the use of certain drugs a blocked auditory tube or canal or a head injury.	5.27	0.27
@@ -14600,9 +14605,13 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 开的发音时，舌头放低并放平，口腔敞开，正如bath一词中的a和father中的a发音一样时。用于元音发音	kāi de fāyīn shí shétou fàngdī bìng fàngpíng kǒuqiāng chǎngkāi zhèngrú yī cí zhòngdì hé zhòngdì fāyīn yīyàng shí yòngyú yuányīn fāyīn	Pronounced with the tongue placed low and flat and with the oral cavity wide open like the a in bath when pronounced like the a in father. Used of vowels.	5.593	0.259
 黑格尔辩证法特别指与黑格尔通过陈述正题、展开矛盾的反题，并综合和解决它使之成为有条理的综合体而求得真理有关联的过程	Hēigé'ěr biànzhèngfǎ tèbié zhǐ yǔ Hēigé'ěr tōngguò chénshù zhèng tí zhǎnkāi máodùn de fǎn tí bìng zōnghé hé jiějué tā shǐ zhī chéngwéi yǒu tiáolǐ de zōnghé tǐ ér qiúdé zhēnlǐ yǒuguānlián de guòchéng	The process especially associated with Hegel of arriving at the truth by stating a thesis developing a contradictory antithesis and combining and resolving them into a coherent synthesis.	4.516	0.258
 （湖泊等）优氧化的水中富有矿物有机物，有利于植物，特别是藻类的增殖，但藻类往往使分解的氧含量过低，从而使别的有机物灭绝。用于指湖泊或池塘	húpō děng yōu yǎnghuà de shuǐ zhōng fùyǒu kuàngwù yǒujīwù yǒulì yú zhíwù tèbié shì zǎolèi de zēngzhí dàn zǎolèi wǎngwǎng shǐ fēnjiě de yǎng hánliàng guòdī cóng'ér shǐ biéde yǒujīwù mièjué yòngyú zhǐ húpō huò chítáng	Having waters rich in mineral and organic nutrients that promote a proliferation of plant life especially algae which reduces the dissolved oxygen content and often causes the extinction of other organisms. Used of a lake or pond.	5.457	0.257
+接着怎么样了?	jiēzhe zěnmeyàng le	What happened then?	3.5	0.25
+在中国，山区农民在梯田上种水稻。	zài Zhōngguó shānqū nóngmín zài tītián shàng zhǒng shuǐdào	In China hill farmers grow rice on terraces.	4.5	0.25
+这些细节原属秘密，可是不知怎么给泄露出去了。	zhèxiē xìjié yuán shǔ mìmì kěshì bùzhī zěnme gěi xièlù chūqù le	The details were supposed to be secret but somehow leaked out.	4.917	0.25
+一位德国科学家打断了我，并问我是否来自中国。	yī wèi Déguó kēxuéjiā dǎduàn le wǒ bìng wèn wǒ shìfǒu láizì Zhōngguó	A German scientist interrupted me and asked if I came from China.	4.25	0.25
+武夷红茶，红茶一种中国红茶，起初是精选出来的高等级品，后来质量较差	wǔ yí hóngchá hóngchá yīzhǒng Zhōngguó hóngchá qǐchū shì jīngxuǎn chūlái de gāo děngjí pǐn hòulái zhìliàng jiàochā	A black Chinese tea originally the choicest grade but later an inferior variety.	5.438	0.25
 别怠慢了客人。	bié dàimàn le kèrén	See that none of the guests are neglected.	3.0	0.25
 事情进行得如何？	shìqing jìnxíng dé rúhé	How are things going?	3.25	0.25
-接着怎么样了?	jiēzhe zěnmeyàng le	What happened then?	3.5	0.25
 他要求总理（同意）接见（他－次）。	tā yāoqiú zǒnglǐ tóngyì jiējiàn tā cì	He requested that the Premier grant him an interview.	3.625	0.25
 她显然丝毫也不顾及别人以及别人的感情.	tā xiǎnrán sīháo yě bù gùjí biéren yǐjí biéren de gǎnqíng	She shows a total disregard for other people and their feelings.	3.667	0.25
 他奔向书架。	tā bēn xiàng shūjià	He ran to the bookshelf.	3.75	0.25
@@ -14656,7 +14665,6 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 别再争辩逗号的用法了.	bié zài zhēngbiàn dòuhào de yòngfǎ le	Stop quibbling about the use of the comma.	4.25	0.25
 他认为向他人乞求救济是耻辱。	tā rènwéi xiàng tārén qǐqiú jiùjì shì chǐrǔ	He thinks it's a shame to beg others for alms.	4.25	0.25
 储存的谷物经常受到害虫的破坏。	chǔcún de gǔwù jīngcháng shòudào hàichóng de pòhuài	Stores of grain are frequently attacked by pests.	4.25	0.25
-一位德国科学家打断了我，并问我是否来自中国。	yī wèi Déguó kēxuéjiā dǎduàn le wǒ bìng wèn wǒ shìfǒu láizì Zhōngguó	A German scientist interrupted me and asked if I came from China.	4.25	0.25
 我们一起走进会场。	wǒmen yīqǐ zǒujìn huìchǎng	We trooped into the meeting.	4.25	0.25
 增长，向上的趋势	zēngzhǎng xiàngshàng de qūshì	An upward swing or trend.	4.25	0.25
 目前的情况不得再继续下去了.	mùqián de qíngkuàng bùdé zài jìxù xiàqù le	The present state of affairs cannot be allowed to go on.	4.25	0.25
@@ -14694,7 +14702,6 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 党的领导人的各种观点已统一为一致的政策.	dǎng de lǐngdǎorén de gèzhǒng guāndiǎn yǐ tǒngyī wéi yīzhì de zhèngcè	The views of party leaders coalesced to form a coherent policy.	4.417	0.25
 现在五点差一刻。	xiànzài wǔ diǎn chà yī kè	It is a quarter to five.	4.5	0.25
 他按键招呼电梯。	tā ànjiàn zhāohu diàntī	He pressed the button to call the lift.	4.5	0.25
-在中国，山区农民在梯田上种水稻。	zài Zhōngguó shānqū nóngmín zài tītián shàng zhǒng shuǐdào	In China hill farmers grow rice on terraces.	4.5	0.25
 矿石，矿藏确实的或可能的矿藏	kuàngshí kuàngcáng quèshí de huò kěnéng de kuàngcáng	An actual or probable mineral deposit.	4.5	0.25
 她宁可辞职也不愿参与这种不正当的买卖.	tā nìngkě cízhí yě bùyuàn cānyù zhèzhǒng bùzhèngdàng de mǎimài	She would sooner resign than take part in such dishonest business deals.	4.5	0.25
 他被听众嘘下台来。	tā bèi tīngzhòng xū xiàtái lái	He was hissed off by the audience.	4.5	0.25
@@ -14874,7 +14881,6 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 如果其他手段均告失败，我们将诉之武力。	rúguǒ qítā shǒuduàn jūn gào shībài wǒmen jiāng sù zhī wǔlì	If other means fail we shall resort to force.	4.875	0.25
 开普勒，约翰尼斯1571－1630德国天文学家和数学家，被认为是现代天文学的奠基人，他创立了三大定律，说明行星围绕太阳转的理论	Kāipǔlè Yuēhàn Nísī Déguó tiānwénxuéjiā hé shùxuéjiā bèi rènwéi shì xiàndài tiānwénxué de diànjīrén tā chuànglì le sān dà dìnglǜ shuōmíng xíngxīng wéirào tàiyang zhuàn de lǐlùn	German astronomer and mathematician. Considered the founder of modern astronomy he formulated three laws to clarify the theory that the planets revolve around the sun.	4.893	0.25
 迪克要么刻苦学习，要么根本不学，从不走中间路线。	Díkè yàome kèkǔxuéxí yàome gēnběn bù xué cóngbù zǒu zhōngjiānlùxiàn	Dick either studies very hard or not at all never anything in between.	4.917	0.25
-这些细节原属秘密，可是不知怎么给泄露出去了。	zhèxiē xìjié yuán shǔ mìmì kěshì bùzhī zěnme gěi xièlù chūqù le	The details were supposed to be secret but somehow leaked out.	4.917	0.25
 五氧化物由五个氧原子和其它元素或基组成的化合物	wǔ yǎnghuàwù yóu wǔ gè yǎngyuánzǐ hé qítā yuánsù huò jī zǔchéng de huàhéwù	A compound having five atoms of oxygen combined with another element or radical.	4.917	0.25
 去柏林的英航125航班旅客请办理登机手续.	qù Bólín de yīng háng hángbān lǚkè qǐng bànlǐ dēngjīshǒuxù	Passengers should check in for flight BA 125 to Berlin.	4.917	0.25
 我们的付款方式，是以不可撤消信用状见票即付汇票支付。	wǒmen de fùkuǎnfāngshì shìyǐ bùkě chè xiāo xìnyòng zhuàng jiànpiàojífù huìpiào zhīfù	Payment will be made by paying your sight draft under our irrevocable letter of credit.	4.917	0.25
@@ -15154,7 +15160,6 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 记住，靠近大桥时开慢一些，迎面来的车流有先行权。	jìzhu kàojìn Dà Qiáo shí kāi màn yīxiē yíngmiàn lái de chēliú yǒu xiānxíng quán	Remember to ease up as you approach the bridge; oncoming traffic has the right of way.	5.417	0.25
 投入供人跳水或潜水的地方或地区，如游泳池	tóurù gōng rén tiàoshuǐ huò qiánshuǐ de dìfang huò dìqū rú yóuyǒngchí	A place or an area such as a swimming pool for diving or plunging.	5.417	0.25
 植物生长素一种调节多种功能，包括细胞伸长的植物激素	zhíwù shēngzhǎngsù yīzhǒng tiáojié duōzhǒng gōngnéng bāokuò xìbāo shēncháng de zhíwù jīsù	Any of several plant hormones that regulate various functions including cell elongation.	5.417	0.25
-武夷红茶，红茶一种中国红茶，起初是精选出来的高等级品，后来质量较差	wǔ yí hóngchá hóngchá yīzhǒng Zhōngguó hóngchá qǐchū shì jīngxuǎn chūlái de gāo děngjí pǐn hòulái zhìliàng jiàochā	A black Chinese tea originally the choicest grade but later an inferior variety.	5.438	0.25
 拱楔块用于形成拱或穹窿的曲线部分的楔形石头中的一块	gǒng xiē kuài yòngyú xíngchéng gǒng huò qiónglóng de qūxiàn bùfen de xiēxíng shítou zhòngdì yīkuài	One of the wedge-shaped stones forming the curved parts of an arch or a vaulted ceiling.	5.438	0.25
 衣橱用来储藏衣服的一种柜子；衣柜	yīchú yònglái chǔcáng yīfu de yīzhǒng guìzi yīguì	A chamber for storing clothes; a wardrobe.	5.5	0.25
 哈罗德百货公司的陈列品是伦敦一景.	Hāluódé bǎihuògōngsī de chénliè pǐn shì Lúndūn yī jǐng	The displays in Harrods are one of the sights in London.	5.5	0.25
@@ -15665,6 +15670,7 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 电灯灭了 因线路上用电器超负荷把保险丝烧断了.	diàndēng miè le yīn xiànlù shàng yòng diànqì chāofùhè bǎ bǎoxiǎnsī shāo duàn le	The lights fused because the system was overloaded with electrical appliances.	5.769	0.231
 纵使大众也曾偏向正途也罢，那总是出于错误的原因。	zòngshǐ dàzhòng yě céng piānxiàng zhèng tú yěbà nà zǒngshì chūyú cuòwù de yuányīn	If the multitude ever deviate into the right it is always for the wrong reason.	5.0	0.231
 史密斯先生不想因坚持按市价购进而失去做买卖的机会。	Shǐmìsī xiānsheng bùxiǎng yīn jiānchí àn shìjià gòu jìn'ér shīqù zuòmǎimài de jīhuì	Mr Smith did not want to lose his market by sticking to having it at the market price.	5.154	0.231
+多吃些水果 少摄入些蛋白质 使饮食均衡合理.	duō chī xiē shuǐguǒ shǎo shèrù xiē dànbáizhì shǐ yǐnshí jūnhéng hélǐ	Try to balance your diet by eating more fruit and less protein.	5.0	0.231
 平价制度为保证在选定的基期内农民具有相同的购买力而主要由政府支持的农产品价格水平	píngjià zhìdù wéi bǎozhèng zài xuǎndìng de jī qī nèi nóngmín jùyǒu xiāngtóng de gòumǎilì ér zhǔyào yóu zhèngfǔ zhīchí de nóngchǎnpǐn jiàgé shuǐpíng	A level for farm-product prices maintained by governmental support and intended to give farmers the same purchasing power they had during a chosen base period.	4.364	0.227
 人际网由具有共同兴趣或爱好的人组成的非正式体系。人们互相帮助、互相交换信息或工作联系的进展	rénjì wǎng yóu jùyǒu gòngtóng xìngqù huò àihào de rén zǔchéng de fēizhèngshì tǐxì rénmen hùxiāng bāngzhù hùxiāng jiāohuàn xìnxī huò gōngzuò liánxì de jìnzhǎn	An informal system whereby persons having common interests or concerns assist each other as in the exchange of information or the development of professional contacts.	4.545	0.227
 由於两个主要政党都赢得了相同数量的席位，因此作为少数派的政党居於举足轻重的地位。	ā dōu bō yīzhǒng yóu hǎi cài jí ròu huò yú zuò chéng de Fēilǜbīn càiyáo yòng gālí jiàngyóu hé xiāngliào zuò tiáoliào zuǒ yǐ mǐfàn	Since the two main parties each won the same number of seats the minority party holds the balance of power.	4.636	0.227
@@ -15675,12 +15681,12 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 对于贵方的发票金额，贵方可开出以我方为付款人，自发票出具之日起三个月后付款的汇票。	duìyú guìfāng de fāpiào jīn'é guìfāng kě kāi chū yǐ wǒfāng wéi fùkuǎn rén zì fāpiào chūjù zhī rì qǐ sān gè yuè hòu fùkuǎn de huìpiào	For the amount of your invoice you may cover yourself by drawing upon me at three months from the date of the invoice.	5.227	0.227
 盖鲁萨克，约瑟夫·路易斯1778－1850法国化学家和物理学家，析出硼元素（1809年），并且确切陈述了解释气体在固定压力下的表现方式的定律	gài lǔ sàkè Yuēsèfū Lùyìsī Fǎguó huàxuéjiā hé wùlǐxuéjiā xīchū péng yuánsù nián bìngqiě quèqiè chénshù liǎojiě shì qìtǐ zài gùdìng yālì xià de biǎoxiàn fāngshì de dìnglǜ	French chemist and physicist who isolated the element boron(1809) and formulated a law that explains the behavior of a gas under constant pressure.	5.065	0.226
 赡养费按照法庭判决离婚后的原配偶－－通常为夫妻中收入较多的一方给另一方的供养补助。赡养费亦可付给并未离婚的双方中的一方，如在合法分居时	shànyǎngfèi ànzhào fǎtíng pànjué líhūn hòu de yuán pèi'ǒu tōngcháng wéi fūqī zhōng shōurù jiào duō de yīfāng gěi lìngyī fāng de gōngyǎng bǔzhù shànyǎngfèi yì kě fùgěi bìng wèi líhūn de shuāngfāng zhòngdì yīfāng rú zài héfǎ fēnjū shí	An allowance for support made under court order to a divorced person by the former spouse usually the chief provider during the marriage. Alimony may also be granted without a divorce as between legally separated persons.	5.25	0.225
+在中国一张传统的八仙桌通常可容八人就餐。	zài Zhōngguó yī zhāng chuántǒng de bāxiānzhuō tōngcháng kě róng bā rén jiùcān	In China a traditional big square table usually dines eight persons.""	4.556	0.222
 她尽管遇到许多挫折，却仍然不气馁。	tā jǐnguǎn yùdào xǔduō cuòzhé què réngrán bù qìněi	Despite all these discouragements she refused to give up.	3.778	0.222
 去年他被推选出席了先进工作者会议。	qùnián tā bèi tuīxuǎn chūxí le xiānjìn gōngzuòzhě huìyì	Last year he was chosen to attend a conference of advanced workers.	3.889	0.222
 由于（考虑到）最近无船，我们同意推迟装期。	yóuyú kǎolǜ dào zuìjìn wú chuán wǒmen tóngyì tuīchí zhuāng qī	We agree to postpone the shipping date considering (that) there is no steamer recently.	3.889	0.222
 这只汉堡包不但气味好闻而且味道好吃。	zhè zhǐ hànbǎobāo bùdàn qìwèi hǎo wén érqiě wèidao hǎochī	The hamburger not only smells good but (also) tastes delicious.	4.111	0.222
 工会为争取更好的工作条件而罢工。	gōnghuì wéi zhēngqǔ gèng hǎo de gōngzuò tiáojiàn ér bàgōng	The union struck for better work conditions.	4.111	0.222
-可能对外国口味而言过于朴素了些。	kěnéng duì wàiguó kǒuwèi éryán guòyú pǔsù le xiē	May be a little austere for foreign taste.	4.222	0.222
 琼在从事争取妇女平等权力的活动。	qióng zài cóngshì zhēngqǔ fùnǚ píngděng quánlì de huódòng	Joan is campaigning for equal rights for women.	4.222	0.222
 在举行葬礼以前尸体被放在棺材里。	zài jǔxíng zànglǐ yǐqián shītǐ bèi fàng zài guāncai lǐ	The body was placed in bier before burial.	4.222	0.222
 不断发展的经济使农民们富裕起来。	bùduàn fāzhǎn de jīngjì shǐ nóngmín men fùyù qilai	The expanding economy enriched the peasants.	4.333	0.222
@@ -15689,7 +15695,6 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 老教授主持了一次理论物理学家的研讨会。	lǎo jiàoshòu zhǔchí le yīcì lǐlùn wùlǐxuéjiā de yántǎohuì	The old professor had presided over a seminar for theoretical physicists.	4.444	0.222
 他因遭蛇咬而被送到医院治疗。	tā yīn zāo shé yǎo ér bèi sòng dào yīyuàn zhìliáo	He was taken to the hospital to be treated for snake bite.	4.444	0.222
 政府已经采取了措施以确保物价稳定。	zhèngfǔ yǐjīng cǎiqǔ le cuòshī yǐ quèbǎo wùjià wěndìng	The government has taken a measure to maintain the stability of prices.	4.444	0.222
-在中国一张传统的八仙桌通常可容八人就餐。	zài Zhōngguó yī zhāng chuántǒng de bāxiānzhuō tōngcháng kě róng bā rén jiùcān	In China a traditional big square table usually dines eight persons.""	4.556	0.222
 科学家利用计算机计算了火箭可能运行的轨道。	kēxuéjiā lìyòng jìsuànjī jìsuàn le huǒjiàn kěnéng yùnxíng de guǐdào	Scientists have computed the probable course of the rocket.	4.556	0.222
 抄袭者，起码也有保存文物的功劳。	chāoxí zhě qǐmǎ yě yǒu bǎocún wénwù de gōngláo	Plagiarists at least have the merit of preservation.	4.556	0.222
 愿新年为你带来快乐，友爱和宁静。	yuàn xīnnián wéi nǐ dàilái kuàilè yǒu'ài hé níngjìng	May the coming New Year bring you joy love and peace.	4.556	0.222
@@ -16043,6 +16048,8 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 密耳长度单位，等于一英寸的千分之一（10－3）（0。0254毫米），如用来标明电线的直径或按页出售的材料的厚度	mì ěr chángdùdānwèi děngyú yī yīngcùn de qiān fēn zhīyī háomǐ rú yònglái biāomíng diànxiàn de zhíjìng huò àn yè chūshòu de cáiliào de hòudù	A unit of length equal to one thousandth(10-3) of an inch(0.0254 millimeter) used for example to specify the diameter of wire or the thickness of materials sold in sheets.	5.667	0.208
 许多医生推荐含有丰富食物纤维的天然食物，因为它有助于防止便秘，以取代万不得已而使用的泻药。原因显而易见－治病总是不如防病。	xǔduō yīshēng tuījiàn hányǒu fēngfù shíwù xiānwéi de tiānrán shíwù yīnwèi tā yǒuzhùyú fángzhǐ biànmì yǐ qǔdài wànbùdéyǐ ér shǐyòng de xièyào yuányīn xiǎn'éryìjiàn zhìbìng zǒngshì bùrú fáng bìng	Many doctors prefer a natural food rich in dietary fibre which will help you to avoid constipation rather than having to resort to purgatives. The reason is obvious-prevention is always better than cure.	4.931	0.207
 指实现后台处理。所谓后台处理是指非联机处理，或者说不是直接和计算机连接起来而进行联机操作。优先级高的程序先于特定的后台作业执行。	zhǐ shíxiàn hòutái chǔlǐ suǒwèi hòutái chǔlǐ shì zhǐ fēi lián jī chǔlǐ huòzhě shuō bùshì zhíjiē hé jìsuànjī liánjiē qilai ér jìnxíng lián jī cāozuò yōuxiān jí gāo de chéngxù xiān yú tèdìng de hòutái zuòyè zhíxíng	Performing background processing which is not on-line or directly connected to the computer for on-line operation. High priority programs take precedence over specific background jobs.	5.103	0.207
+他们走私瑞士表进中国。	tāmen zǒusī Ruìshì biǎo jìn Zhōngguó	They smuggled Swiss watches into China.	5.6	0.2
+中国的投资政策为外国投资者提供了优惠待遇。	Zhōngguó de tóuzī zhèngcè wéi wàiguótóuzīzhě tígōng le yōuhuì dàiyù	China's investment policy provide preferential treatment to foreign investor.	4.0	0.2
 我们正在为达到共同的目标而努力.	wǒmen zhèngzài wéi dádào gòngtóng de mùbiāo ér nǔlì	We're working towards common objectives.	3.4	0.2
 参观博物馆被推迟了。	cānguān bówùguǎn bèi tuī chíle	Our visit to the museum is postponed.	3.4	0.2
 教室被弄得乱七八糟。	jiàoshì bèi nòng dé luànqībāzāo	The classroom was turned upside-down.	3.6	0.2
@@ -16052,11 +16059,9 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 不要干涉别人的事情。	bùyào gānshè biéren de shìqing	Don't meddle with other men's business.	3.8	0.2
 他被任命为科长。	tā bèi rènmìng wéi kēzhǎng	He is nominated section chief.	3.8	0.2
 政治问题容易引起争论。	zhèngzhì wèntí róngyì yǐnqǐ zhēnglùn	Politics can be an explosive subject.	3.8	0.2
-中国的投资政策为外国投资者提供了优惠待遇。	Zhōngguó de tóuzī zhèngcè wéi wàiguótóuzīzhě tígōng le yōuhuì dàiyù	China's investment policy provide preferential treatment to foreign investor.	4.0	0.2
 他显示出领导才能。	tā xiǎnshì chū lǐngdǎo cáinéng	He shows quality of leadership.	4.0	0.2
 风景被发电厂破坏了。	fēngjǐng bèi fādiànchǎng pòhuài le	This landscape is disfigured by a power station.	4.0	0.2
 因为污染严重，许多美丽的鱼类正在面临绝种。	yīnwèi wūrǎn yánzhòng xǔduō měilì de yúlèi zhèngzài miànlín juézhǒng	Many beautiful fish are fast disappearing because of the severe pollution.	4.0	0.2
-我受过些烹饪训练。	wǒ shòu guò xiē pēngrèn xùnliàn	I've had some training in cooking.	4.0	0.2
 事态事情的状况；情形	shìtài shìqing de zhuàngkuàng qíngxing	A state of affairs; situation.	4.0	0.2
 驾驶员使飞机安全降落。	jiàshǐyuán shǐ fēijī ānquán jiàngluò	The pilot landed the plane safely.	4.0	0.2
 新闻广播员正在为八点钟的播音节目作好准备。	xīnwén guǎngbōyuán zhèngzài wéi bā diǎnzhōng de bōyīn jiémù zuòhǎozhǔnbèi	The news announcer is standing by for the broadcast program at8.	4.1	0.2
@@ -16071,7 +16076,6 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 锻炼身体能使肌肉结实。	duànliàn shēntǐ néng shǐ jīròu jiēshi	Exercise will firm up your muscles.	4.2	0.2
 我们遇到一些财务困难。	wǒmen yùdào yīxiē cáiwù kùnnan	We met some financial embarrassment.	4.2	0.2
 我认为能向各位贵宾演讲十分荣幸.	wǒ rènwéi néng xiàng gèwèi guìbīn yǎnjiǎng shífēn róngxìng	I esteem it a privilege to address such a distinguished audience.	4.3	0.2
-一位空中小姐走过来，问他是否想要些饮料。	yī wèi kōngzhōngxiǎojiě zǒuguò lái wèn tā shìfǒu xiǎngyào xiē yǐnliào	An air stewardess came and asked him if he would like some drink.	4.3	0.2
 发表这个声明只是为了提高他个人的威信。	fābiǎo zhège shēngmíng zhǐshì wèile tígāo tā gèrén de wēixìn	The statement was aimed at raising his personal prestige.	4.4	0.2
 人口在不断增长中。	rénkǒu zài bùduàn zēngzhǎng zhōng	There was a steady increase in population.	4.4	0.2
 近来各方面都有所改进。	jìnlái gè fāngmiàn dōu yǒusuǒ gǎijìn	There's been an overall improvement recently.	4.4	0.2
@@ -16399,7 +16403,6 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 【谚】改过不嫌晚。	yàn gǎiguò bù xián wǎn	It is never too late to mend.	5.6	0.2
 她出身於特权阶层.	tā chūshēn yú tèquán jiēcéng	She came from a privileged background.	5.6	0.2
 社会主义的政策有利於在煤炭工业中推行公有制.	shèhuìzhǔyì de zhèngcè yǒulì yú zài méitàn gōngyè zhōng tuīxíng gōngyǒuzhì	Socialist policy favours public ownership of the coal industry.	5.6	0.2
-他们走私瑞士表进中国。	tāmen zǒusī Ruìshì biǎo jìn Zhōngguó	They smuggled Swiss watches into China.	5.6	0.2
 该国的防御能力薄弱.	gāi guó de fángyù nénglì bóruò	The country's defences are weak.	5.6	0.2
 一种坚韧的全天候织物	yīzhǒng jiānrèn de quántiānhòu zhīwù	A tough all-weather fabric.	5.6	0.2
 血液在体内循环.	xuèyè zài tǐnèi xúnhuán	Blood circulates through the body.	5.6	0.2
@@ -16643,6 +16646,7 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 那篝火只有余烬尚存。	nà gōuhuǒ zhǐyǒu yújìn shàng cún	Only the embers of the bonfire remained.	5.8	0.2
 辐散，散度一种天气状况，特征为：在气团均匀地散在某一地区上空，常伴有晴朗干燥天气	fú sǎn sǎn dù yīzhǒng tiānqì zhuàngkuàng tèzhēng wéi zài qìtuán jūnyún dì sǎn zài mǒu yī dìqū shàngkōng cháng bànyǒu qínglǎng gānzào tiānqì	A meteorological condition characterized by the uniform expansion in volume of a mass of air over a region usually accompanied by fair dry weather.	4.95	0.2
 里根先生将近２兆联邦及贸易负债（亦即每户３万元）将是经济成长的绊脚石。	Lǐgēn xiānsheng jiāngjìn zhào liánbāng jí màoyì fùzhài yìjí měi hù wàn yuán jiāng shì jīngjì chéngzhǎng de bànjiǎoshí	Mr.Reagan's nearly$2 trillion in Federal and trade debt(or$30 000 per family) will be a ball and chain around the neck of economic growth.	5.65	0.2
+他往土里掺了些沙子以提高渗水性能。	tā wǎng tǔ lǐ chān le xiē shāzi yǐ tígāo shènshuǐ xìngnéng	He added sand to the soil to make it more porous.	5.0	0.2
 经过特别警告巴格达不得在伊拉克任何地方使用毒气和作战飞机（这些警告鼓励了少数民族叛变）以后，当伊拉克继续用作战直升机对付叛军时，布什却半途而废未加制止。	jīngguò tèbié jǐnggào Bāgédá bùdé zài Yīlākè rènhé dìfang shǐyòng dúqì hé zuòzhàn fēijī zhèxiē jǐnggào gǔlì le shǎoshùmínzú pànbiàn yǐhòu dāng Yīlākè jìxù yòng zuòzhàn zhíshēngjī duìfu pànjūn shí Bùshí què bàntú'érfèi wèi jiā zhìzhǐ	After having pointedly warned Baghdad not to use poison gas or combat aircraft anywhere in Iraq warnings that had encouraged the rebellion Mr.Bush pulled up short when Iraq continued to fly combat helicopters against the insurgents.	5.139	0.194
 就模拟输入而言，使模数转换器不能区别其变化的超范围的绝对电压值。超载值对于正输入和负输入可能不同。	jiù mónǐ shūrù éryán shǐ mó shǔ zhuǎnhuànqì bùnéng qūbié qí biànhuà de chāo fànwéi de juéduì diànyā zhí chāozài zhí duìyú zhèng shūrù hé fù shūrù kěnéng bùtóng	For analog inputs any absolute voltage value above which the analog-to- digital converter cannot distinguish a change. The overload value can be different for plus and minus inputs.	5.038	0.192
 埃米特，罗伯特1778－1803爱尔兰爱国主义者，他为爱尔兰天主教的权利而战，在反对英国的事件中，因失败而被处决	āi mǐ tè Luóbótè Ài'ěrlán àiguózhǔyì zhě tā wéi Ài'ěrlán Tiānzhǔjiào de quánlì ér zhàn zài fǎnduì Yīngguó de shìjiàn zhōng yīn shībài ér bèi chǔjué	Irish patriot who fought for the rights of Irish Catholics and was executed for his part in a bungled uprising against the British.	5.269	0.192
@@ -16753,7 +16757,6 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 焦炭渣，煤屑焦炭或木炭做成后剩下的渣滓	jiāotàn zhā méixiè jiāotàn huò mùtàn zuò chéng hòu shèngxià de zhāzǐ	The refuse left when coke or charcoal is made.	6.364	0.182
 矿渣诸如砂砾或矿渣等物质，可从中提取金属	kuàngzhā zhūrú shālì huò kuàngzhā děng wùzhì kě cóngzhōng tíqǔ jīnshǔ	Material such as gravel or slag from which metal is extracted in mining.	6.364	0.182
 ｀你刚才谈什麽来著?＇｀噢 东一件事西一件事什麽都谈.＇	nǐ gāngcái tán shí mó lái zhe ō dōng yī jiàn shì xī yī jiàn shì shí mó dōu tán	`What did you talk about?' `Oh this and that.'	5.682	0.182
-他最後恢复些理智 同意释放人质.	tā zuìhòu huīfù xiē lǐzhì tóngyì shìfàng rénzhì	He was finally brought to his senses and agreed to let the hostages go.	4.636	0.182
 公司被迫裁员 恐怕我是其中之一（冗员）.	gōngsī bèipò cáiyuán kǒngpà wǒ shì qízhōng zhīyī rǒngyuán	The company is being forced to reduce staff and I fear I'm a likely candidate (for redundancy).	4.818	0.182
 若生产成本增加 则价格也要相应提高.	ruò shēngchǎnchéngběn zēngjiā zé jiàgé yě yào xiāngyìng tígāo	If production costs go up there will be a pro rata increase in prices/prices will increase pro rata.	5.0	0.182
 要使婚姻美满 双方必须懂得互相迁就.	yào shǐ hūnyīn měimǎn shuāngfāng bìxū dǒngde hùxiāng qiānjiù	For a marriage to succeed both partners must learn to give and take.	5.0	0.182
@@ -16783,6 +16786,7 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 由於炸弹过早爆炸 （恐怖分子的）阴谋未能得逞.	yóuyú zhàdàn guòzǎo bàozhà kǒngbùfènzǐ de yīnmóu wèinéng déchěng	The plot backfired (on the terrorist) when the bomb exploded too soon.	6.0	0.182
 协议中有一条规定 承租人负担建筑物的修理费.	xiéyì zhōng yǒu yī tiáo guīdìng chéngzūrén fùdān jiànzhùwù de xiūlǐ fèi	A clause in the agreement provides that the tenant shall pay for repairs to the building.	6.0	0.182
 该处地势平坦又没有树木 部队无处隐蔽.	gāi chǔ dìshì píngtǎn yòu méiyǒu shùmù bùduì wúchù yǐnbì	The land was flat and treeless and gave no cover to the troops.	6.364	0.182
+这些批评意见已修改得缓和些以免得罪人.	zhèxiē pīpíng yìjiàn yǐ xiūgǎi dé huǎnhé xiē yǐmiǎn dézuì rén	The criticisms had been watered down so as not to offend anybody.	5.091	0.182
 以低于信号中最高频率两倍的频率进行信号取样时出现的一种效应，即当由取样状态还原时，还原后的信号将不再含有原来信号中的高频成分，并将显示出虚假的低频信号。	yǐ dīyú xìnhào zhōng zuì gāo pínlǜ liǎngbèi de pínlǜ jìnxíng xìnhào qǔyàng shí chūxiàn de yīzhǒng xiàoyìng jí dāng yóu qǔyàng zhuàngtài huányuán shí huányuán hòu de xìnhào jiāng bùzài hányǒu yuánlái xìnhào zhòngdì gāopín chéngfèn bìng jiāng xiǎnshì chū xū jiǎde dī pín xìnhào	An effect that occurs when a signal is sampled at a rate less than twice the highest frequency present in the signal.The subsequent signal recovered from the samples will not contain the high frequency component of the original signal and will display a false low frequency signal.	5.333	0.178
 一连串的持续跳动以数量短促而突然的变化为特征的一系列间歇性出现	yīliánchuàn de chíxù tiàodòng yǐ shùliàng duǎncù ér tūrán de biànhuà wéi tèzhēng de yīxìliè jiànxiē xìng chūxiàn	Any of a series of intermittent occurrences characterized by a brief sudden change in a quantity.	4.118	0.176
 当欧洲人还是居住在洞穴中的野蛮人时，这些地方的文化早已十分繁荣昌盛。	dāng Ōuzhōurén háishi jūzhù zài dòngxué zhòngdì yěmánrén shí zhèxiē dìfang de wénhuà zǎoyǐ shífēn fánróngchāngshèng	These civilizations flourished while Europeans were still savages living in caves.	4.706	0.176
@@ -16797,13 +16801,14 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 条款书面文件中的具体章节或一系列中的条款，如合同，章程或条约	tiáokuǎn shūmiàn wénjiàn zhòngdì jùtǐ zhāngjié huò yīxìliè zhòngdì tiáokuǎn rú hétong zhāngchéng huò tiáoyuē	A particular section or item of a series in a written document as in a contract constitution or treaty.	5.647	0.176
 铜合金铜与锡、锑、磷或其物质构成的一种合金，含锡，也可不含锡	tóng héjīn tóng yǔ xī tī lín huò qí wùzhì gòuchéng de yīzhǒng héjīn hán xī yě kě bù hán xī	Any of various alloys of copper with or without tin and antimony phosphorus or other components.	5.824	0.176
 拣信室安装了自动拣信机之後 许多拣信员都失业了.	jiǎnxìnshì ānzhuāng le zìdòng jiǎn xìn jī zhīhòu xǔduō jiǎn xìn yuán dōu shīyè le	Many workers in the sorting office lost their jobs when an automatic sorter was introduced.	5.059	0.176
-绝经期，更年期生命的一个阶段，特征是标志妇女生殖能力终结及以停经完成为结束的生理、心理变化	juéjīng qī gēngniánqī shēngmìng de yī gè jiēduàn tèzhēng shì biāozhì fùnǚ shēngzhí nénglì zhōngjié jí yǐ tíng jīng wán chéngwéi jiéshù de shēnglǐ xīnlǐ biànhuà	A period of life characterized by physiological and psychic change that marks the end of the reproductive capacity of women and terminates with the completion of menopause.	4.609	0.174
 福建中国东南部的一个省份，濒临东海和台湾海峡。经济以农业和渔业为主，省会为福州。人口27，130，000	Fújiàn Zhōngguó dōngnánbù de yī gè shěngfèn bīnlín Dōng Hǎi hé Táiwān Hǎixiá jīngjì yǐ nóngyè hé yúyè wéizhǔ shěnghuì wéi Fúzhōu rénkǒu	A province of southeast China on the East China Sea and the Formosa Strait. Agriculture and fishing are important to its economy. Fuzhou is the capital. Population 27130000.	5.217	0.174
+绝经期，更年期生命的一个阶段，特征是标志妇女生殖能力终结及以停经完成为结束的生理、心理变化	juéjīng qī gēngniánqī shēngmìng de yī gè jiēduàn tèzhēng shì biāozhì fùnǚ shēngzhí nénglì zhōngjié jí yǐ tíng jīng wán chéngwéi jiéshù de shēnglǐ xīnlǐ biànhuà	A period of life characterized by physiological and psychic change that marks the end of the reproductive capacity of women and terminates with the completion of menopause.	4.609	0.174
 止血带、压脉器一种装置，特指一紧紧环绕的绷带，通过暂时阻止血液从四肢的较大动脉中流过而止血	zhǐxuè dài yā mài qì yīzhǒng zhuāngzhì tèzhǐ yī jǐnjǐn huánrào de bēngdài tōngguò zànshí zǔzhǐ xuèyè cóng sìzhī de jiàodà dòngmài zhōngliú guò ér zhǐxuè	A device typically a tightly encircling bandage used to check bleeding by temporarily stopping the flow of blood through a large artery in a limb.	5.435	0.174
 水产养殖在控制条件下，科学、艺术及商业性培植海水或淡水食用鱼或介壳类，如牡蛎、蛤、鲑及鳟鱼	shuǐchǎnyǎngzhí zài kòngzhì tiáojiàn xià kēxué yìshù jí shāngyè xìng péizhí hǎishuǐ huò dànshuǐ shíyòng yú huò jièqiào lèi rú mǔlì há guī jí zūnyú	The science art and business of cultivating marine or freshwater food fish or shellfish such as oysters clams salmon and trout under controlled conditions.	5.87	0.174
 谵妄一种暂时精神混乱和神志不清的状态，由高烧、酒醉、休克、震惊或其它原因导致。其症状是：焦虑、迷失方向、发生幻觉、妄想、颤抖和说胡话	zhānwàng yīzhǒng zànshí jīngshén hùnluàn hé shénzhìbùqīng de zhuàngtài yóu gāoshāo jiǔzuì xiūkè zhènjīng huò qítā yuányīn dǎozhì qí zhèngzhuàng shì jiāolǜ míshī fāngxiàng fāshēng huànjué wàngxiǎng chàndǒu hé shuō húhuà	A temporary state of mental confusion and clouded consciousness resulting from high fever intoxication shock or other causes. It is characterized by anxiety disorientation hallucinations delusions trembling and incoherent speech.	5.345	0.172
 利用多次垂直扫描来重显一幅完整图象的扫描技术。电视中使用2：1的交错率，即每帧分两场，垂直扫描两次，一场扫描奇数行，另一场扫描偶数行。	lìyòng duōcì chuízhí sǎomiáo lái zhòng xiǎn yī fú wánzhěng túxiàng de sǎomiáo jìshù diànshì zhōng shǐyòng de jiāocuò lǜ jí měi zhēn fēn liǎng chǎng chuízhí sǎomiáo liǎng cì yī chǎng sǎomiáo jīshù xíng lìngyī chǎng sǎomiáo ǒushù xíng	In scanning the technique of using more than one vertical scan to reproduce a complete image. In television 2:1 interlace is used giving two vertical scans(fields) per frame; one field scans odd lines and one field scans the even lines of the frame.	5.543	0.171
 中国着手进行大规模的改革。	Zhōngguó zhuóshǒu jìnxíng dàguīmó de gǎigé	China embark on a massive programme of reform.	4.0	0.167
+这是收藏的一批中国玉器。	zhè shì shōucáng de yī pī Zhōngguó yùqì	It's a collection of Chinese jade.	4.833	0.167
 为翻越山脉的不断努力	wéi fānyuè shānmài de bùduàn nǔlì	A long pull across the mountains.	4.0	0.167
 他根据情况，变换治疗方法。	tā gēnjù qíngkuàng biànhuàn zhìliáo fāngfǎ	He varies the treatment according to circumstances.	4.0	0.167
 她仍然坚持要求赔偿.	tā réngrán jiānchí yāoqiú péicháng	She is still pressing her claim for compensation.	4.0	0.167
@@ -16853,13 +16858,11 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 公司发给汤姆一笔额外奖金以表彰他工作出色.	gōngsī fāgěi Tāngmǔ yī bǐ éwài jiǎngjīn yǐ biǎozhāng tā gōngzuò chūsè	The firm recognized Tom's outstanding work by giving him an extra bonus.	4.75	0.167
 房东正在逼她搬家.	fángdōng zhèngzài bī tā bānjiā	The landlord's putting the screws on to get her out of the house.	4.833	0.167
 夕阳无限好，只是近黄昏。	xīyáng wúxiàn hǎo zhǐshì jìn huánghūn	The setting sun had boundless beauty Just because the yellow dusk is so near.	4.833	0.167
-这是收藏的一批中国玉器。	zhè shì shōucáng de yī pī Zhōngguó yùqì	It's a collection of Chinese jade.	4.833	0.167
 这家商店也销售廉价珠宝。	zhè jiā shāngdiàn yě xiāoshòu liánjià zhūbǎo	The shop sells baubles as well.	4.833	0.167
 那个胆小鬼被团里开除了。	nàge dǎnxiǎoguǐ bèi tuán lǐ kāi chúle	The coward was drummed out of the regiment.	4.833	0.167
 这些冷冻食品是最为方便。	zhèxiē lěngdòng shípǐn shì zuìwéi fāngbiàn	These frozen foods are the most convenient of all.	4.833	0.167
 二十世纪六十年代出现了许多新兴国家。	èrshíshìjì liùshíniándài chūxiàn le xǔduō xīnxīng guójiā	The 1960s saw the emergence of many new nations.	4.833	0.167
 大群的观众到场观看比赛。	dà qún de guānzhòng dàochǎng guānkàn bǐsài	A vast crowd turned out to watch the match.	4.833	0.167
-青年人通常比老年人精力充沛些。	qīngniánrén tōngcháng bǐ lǎoniánrén jīnglìchōngpèi xiē	Young people usually have more energy than the old.	4.833	0.167
 坏人将会受到永远的惩罚。	huàirén jiānghuì shòudào yǒngyuǎn de chéngfá	The bad man will suffer eternal damnation.	4.833	0.167
 你为什么老是咬指甲?	nǐ wèishénme lǎoshi yǎo zhǐjia	Why are you always biting your nails?	4.833	0.167
 那家大工厂倒闭，使许多工人失业。	nà jiā dà gōngchǎng dǎobì shǐ xǔduō gōngrén shīyè	The closure of the large factory made many workers live in idleness.	4.833	0.167
@@ -17323,7 +17326,6 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 若不付费用 就要停止供应电力[煤气].	ruò bù fù fèiyòng jiùyào tíngzhǐ gōngyìng diànlì méiqì	If you don't pay your bills they'll disconnect your electricity/gas.	6.0	0.154
 保母抱著个孩子进来 孩子身上裹著暖暖的毯子.	bǎomǔ bào zhe gè háizi jìnlái háizi shēnshang guǒ zhe Nuǎnnuǎn de tǎnzi	The nurse carried in a baby wrapped (up) in a warm blanket.	6.0	0.154
 那狗正在睡觉 听到有人唤它 猛地惊醒过来.	nà gǒu zhèngzài shuìjiào tīngdào yǒurén huàn tā měngde jīngxǐng guòlái	On hearing his name called the sleeping dog sprang to life.	5.769	0.154
-多吃些水果 少摄入些蛋白质 使饮食均衡合理.	duō chī xiē shuǐguǒ shǎo shèrù xiē dànbáizhì shǐ yǐnshí jūnhéng hélǐ	Try to balance your diet by eating more fruit and less protein.	5.0	0.154
 鉴别器，鉴频器一种将输入信号的某一特征，如频率或相位转变为幅度变化装置，其变化大小因信号与标准或参考信号的不同程度而异	jiànbié qì jiàn pín qì yīzhǒng jiāng shūrù xìnhào de mǒu yī tèzhēng rú pínlǜ huò xiàngwèi zhuǎnbiàn wéi fúdù biànhuà zhuāngzhì qí biànhuà dàxiǎo yīn xìnhào yǔ biāozhǔn huò cānkǎo xìnhào de bùtóng chéngdù ér yì	A device that converts a property of an input signal such as frequency or phase into an amplitude variation depending on how the signal differs from a standard or reference signal.	5.273	0.152
 酗酒令人如此糊涂。而人本来就是糊涂，所以酗酒无非就等于是以罚款免人重罪罢了。	xùjiǔ lìngrén rúcǐ hútu ér rén běnlái jiùshì hútu suǒyǐ xùjiǔ wúfēi jiù děngyú shìyǐ fákuǎn miǎn rén zhòngzuì bàle	Drinking make such fool of people and people is such fool to begin with that it's compound a felony.	5.0	0.15
 扫黄对被认为不道德或淫秽的文学作品或其它表现或传播此内容的形式进行查禁	sǎohuáng duì bèi rènwéi bùdàodé huò yínhuì de wénxué zuòpǐn huò qítā biǎoxiàn huò chuánbō cǐ nèiróng de xíngshì jìnxíng chájìn	Censorship of literature and other forms of expression and communication because of perceived immorality or obscenity.	5.25	0.15
@@ -17892,6 +17894,7 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 马林诺团体斯基，布伦尼斯洛·卡斯佩1884－1942波兰裔英国人类社会学家，坚持认为习俗和信仰具有特定的社会功能	mǎ lín nuò tuántǐ sī jī bù lún Nísī Luò kǎ sī pèi Bōlán yì Yīngguó rénlèi shèhuì xuéjiā jiānchí rènwéi xísú hé xìnyǎng jùyǒu tèdìng de shèhuì gōngnéng	Polish-born British anthropologist who maintained that customs and beliefs have specific social functions.	5.846	0.115
 把 1.90 英镑的费用上调为整数 2 英镑 把 3.10 英镑下调为整数 3 英镑.	bǎ Yīngbàng de fèiyòng shàngtiáo wéi zhěngshù Yīngbàng bǎ Yīngbàng xiàdiào wéi zhěngshù Yīngbàng	A charge of 1.90 will be rounded up to 2 and one of 3.10 rounded down to 3.	6.0	0.115
 多佛尔与法国加莱市隔岸相对的英格兰东南部自治市，临多佛尔海峡。罗马灯塔遗址，自中世纪以来就是战略要地，该市白垩崖多岩洞和涵洞原为走私者所用。人口33，700	Duōfó'ěr yǔ Fǎguó jiā lái shì gé àn xiāngduì de Yīnggélán dōngnánbù zìzhìshì lín Duōfó'ěr hǎixiá Luómǎ dēngtǎ yízhǐ zì zhōngshìjì yǐlái jiùshì zhànlüè yàodì gāi shì bái'è yá duō yán dòng hé hándòng yuán wéi zǒusī zhě suǒ yòng rénkǒu	A municipal borough of southeast England on the Strait of Dover opposite Calais France. Site of a Roman lighthouse it has been a strategic port since medieval times. The chalk cliffs rising above the city have caves and tunnels originally used by smugglers. Population 33700.	6.086	0.114
+这位歌手终生致力于研究中国西北部的民间传说。	zhèwèi gēshǒu zhōngshēng zhìlì yú yánjiū Zhōngguó Xīběibù de mínjiānchuánshuō	The singer devoted his whole life in study of the folklore in the northwest part of China.	5.556	0.111
 这个工人因为严格遵守规则而受到了表扬。	zhège gōngrén yīnwèi yángé zūnshǒu guīzé ér shòu dàoliǎo biǎoyáng	The worker was praised for his observance of the rules.	4.222	0.111
 他因为动作犯规而被裁判记下姓名。	tā yīnwèi dòngzuò fànguī ér bèi cáipàn jì xià xìngmíng	He was booked by the referee for foul play.	4.556	0.111
 休息之後我们继续排练合唱节目.	xiūxi zhīhòu wǒmen jìxù páiliàn héchàng jiémù	We continued to rehearse/continued rehearsing the chorus after the break.	4.667	0.111
@@ -17926,7 +17929,6 @@ Z字型线条在方向交替中，通过急转来继续的线或路线	zìxíng 
 你作判断时要尽量做到不存偏见.	nǐ zuò pànduàn shí yào jǐnliàng zuòdào bù cún piānjiàn	Try not to be prejudiced in your judgements.	5.444	0.111
 近来有几起毒品走私活动被检举立案.	jìnlái yǒu jǐ qǐ dúpǐn zǒusī huódòng bèi jiǎnjǔ lì'àn	There have been several successful prosecutions for drug smuggling recently.	5.444	0.111
 作为史无前例的步骤，法庭要求证人唱一首歌。	duō dǎoyǔ de hǎi bāohán yǒu dàliàng fēnsàn dǎoyǔ de hǎi rú Àiqín Hǎi	In an unprecedented move the tribunal ask the witness to sing a song.	5.444	0.111
-这位歌手终生致力于研究中国西北部的民间传说。	zhèwèi gēshǒu zhōngshēng zhìlì yú yánjiū Zhōngguó Xīběibù de mínjiānchuánshuō	The singer devoted his whole life in study of the folklore in the northwest part of China.	5.556	0.111
 所有飞机均须先加油方能作长途飞行.	suǒyǒu fēijī jūn xū xiān jiāyóu fāngnéng zuò chángtú fēixíng	All aircraft must fuel before a long flight.	5.556	0.111
 由于酗酒，迈克尔谋职时每次都遭拒绝。	yóuyú xùjiǔ Màikè'ěr móuzhí shí měicì dōu zāo jùjué	Because of his drinking Michael was refused a job at every turn.	5.556	0.111
 抑制物用来压制、控制或消除的事物	yìzhì wù yònglái yāzhì kòngzhì huò xiāochú de shìwù	Something that serves to suppress check or eliminate.	5.556	0.111
@@ -17992,7 +17994,6 @@ hour一字的开头字母h不发送气音.	yīzì de kāitóu zìmǔ bù fāsòn
 政府害怕罢工可能在其他行业产生连锁反应.	zhèngfǔ hàipà bàgōng kěnéng zài qítā hángyè chǎnshēng liánsuǒfǎnyìng	The Government fear the strike may produce a chain reaction in other industries.	4.4	0.1
 公司正在联合几家海外合伙人制造新产品.	gōngsī zhèngzài liánhé jǐ jiā hǎiwài héhuǒrén zhìzào xīnchǎnpǐn	The firm is working on a new product in combination with several overseas partners.	4.8	0.1
 因为他懂得如何讨好老板，所以一再得到提拔。	yīnwèi tā dǒngde rúhé tǎohǎo lǎobǎn suǒyǐ yīzài dédào tíbá	He was promoted again and again because he knew how the rub his boss the right way.	4.8	0.1
-他往土里掺了些沙子以提高渗水性能。	tā wǎng tǔ lǐ chān le xiē shāzi yǐ tígāo shènshuǐ xìngnéng	He added sand to the soil to make it more porous.	5.0	0.1
 储备金额为预防不测而存留的资金数额	chǔbèi jīn'é wéi yùfáng bùcè ér cúnliú de zījīn shù'é	The amount of funds reserved to meet liabilities.	5.0	0.1
 这家公司估计这栋新房的造价为8，000英镑。	zhè jiā gōngsī gūjì zhè dòng xīnfáng de zàojià wéi Yīngbàng	The firm estimated the cost of the new house at￡8 000.	5.1	0.1
 虽然富人和穷人住在一起，但是条件相差极为悬殊。	suīrán fùrén hé qióngrén zhù zàiyīqǐ dànshì tiáojiàn xiāngchà jíwéi xuánshū	Rich and poor live side by side but in conditions of extraordinary disparity.	5.1	0.1
@@ -18066,7 +18067,6 @@ hour一字的开头字母h不发送气音.	yīzì de kāitóu zìmǔ bù fāsòn
 现代神话现代被浪漫化或普遍流行的神话	xiàndài shénhuà xiàndài bèi làngmàn huà huò pǔbiàn liúxíng de shénhuà	A romanticized or popularized myth of modern times.	4.364	0.091
 推断由实际情况或证据而作出推理的行为	tuīduàn yóu shíjìqíngkuàng huò zhèngjù ér zuòchū tuīlǐ de xíngwéi	The act of reasoning from factual knowledge or evidence.	4.909	0.091
 这个项目由於缺少资金而推迟了许多年.	zhège xiàngmù yóuyú quēshǎo zījīn ér tuī chíle xǔduō nián	The project had hung fire for several years because of lack of funds.	5.0	0.091
-这些批评意见已修改得缓和些以免得罪人.	zhèxiē pīpíng yìjiàn yǐ xiūgǎi dé huǎnhé xiē yǐmiǎn dézuì rén	The criticisms had been watered down so as not to offend anybody.	5.091	0.091
 他向警方隐瞒实情而并未感到十分不妥.	tā xiàng jǐngfāng yǐnmán shíqíng ér bìng wèi gǎndào shífēn bùtuǒ	He had/felt no serious qualms about concealing the information from the police.	5.364	0.091
 有些尚未查明的势力正在活动图谋推翻政府.	yǒuxiē shàngwèi chámíng de shìli zhèngzài huódòng túmóu tuīfān zhèngfǔ	Unknownforces were at work to overthrow the government.	5.364	0.091
 当男主角策马向夕阳驰去时，尾声音乐逐渐消失。	dāng nán zhǔjué cèmǎ xiàng xīyáng chí qù shí wěishēng yīnyuè zhújiàn xiāoshī	The closing music fades out when the hero rides off into the sunset.	5.364	0.091
@@ -18142,13 +18142,14 @@ hour一字的开头字母h不发送气音.	yīzì de kāitóu zìmǔ bù fāsòn
 水门事件包括共和党官员滥用权力、违背公众信任、贿赂、蔑视国会及企图防碍司法的丑闻	Shuǐmén Shìjiàn bāokuò Gònghédǎng guānyuán lànyòngquánlì wéibèi gōngzhòng xìnrèn huìlù mièshì guóhuì jí qǐtú fáng ài sīfǎ de chǒuwén	A scandal involving abuse of power by public officials violation of the public trust bribery contempt of Congress and attempted obstruction of justice.	5.941	0.059
 深景尤指人透过如两排建筑或树木之间空隙看到的远景或视觉感受	shēn jǐng yóuzhǐ rén tòuguò rú liǎng pái jiànzhù huò shùmù zhījiān kòngxì kàn dào de yuǎnjǐng huò shìjué gǎnshòu	A distant view or prospect especially one seen through an opening as between rows of buildings or trees.	6.353	0.059
 迂回管道用于引导气体或液体绕过其它管道或装置的一种管道或渠道	yūhuí guǎndào yòngyú yǐndǎo qìtǐ huò yètǐ ràoguò qítā guǎndào huò zhuāngzhì de yīzhǒng guǎndào huò qúdào	A pipe or channel used to conduct gas or liquid around another pipe or a fixture.	6.412	0.059
+礼拜天洗车怎么样？	Lǐbàitiān xǐ chē zěnmeyàng	What about washing the car on Sunday?	4.333	0.0
+来杯可口可乐，怎么样?	lái bēi Kěkǒukělè zěnmeyàng	How about a coke?	5.5	0.0
 中国首先使用火药。	Zhōngguó shǒuxiān shǐyòng huǒyào	Gunpowder first came in in China.	3.75	0.0
+中国人用筷子吃饭。	Zhōngguórén yòng kuàizi chīfàn	The Chinese eat with chopsticks.	4.5	0.0
 经济正在停滞。	jīngjì zhèngzài tíngzhì	The economy is stagnating.	4.0	0.0
 政府准备提高利率。	zhèngfǔ zhǔnbèi tígāo lìlǜ	The government is going to drive interest rates up.	4.0	0.0
-礼拜天洗车怎么样？	Lǐbàitiān xǐ chē zěnmeyàng	What about washing the car on Sunday?	4.333	0.0
 最好保持冷静。	zuìhǎo bǎochí lěngjìng	The best thing is to keep cool.	4.333	0.0
 政府正在重新检讨形势。	zhèngfǔ zhèngzài chóngxīn jiǎntǎo xíngshì	The government is reviewing the situation.	4.4	0.0
-中国人用筷子吃饭。	Zhōngguórén yòng kuàizi chīfàn	The Chinese eat with chopsticks.	4.5	0.0
 公司去年生意不好。	gōngsī qùnián shēngyì bùhǎo	The firm did badly last year.	4.5	0.0
 这位冠军为了下一场比赛正在进行训练。	zhèwèi guànjūn wèile xià yī chǎng bǐsài zhèngzài jìnxíng xùnliàn	The champion is in training for his next fight.	4.5	0.0
 法律禁止盗窃。	fǎlǜ jìnzhǐ dàoqiè	The law forbids stealing.	4.667	0.0
@@ -18212,7 +18213,6 @@ hour一字的开头字母h不发送气音.	yīzì de kāitóu zìmǔ bù fāsòn
 反核武器组织要求禁止使用核武器.	fǎnhé wǔqì zǔzhī yāoqiú jìnzhǐ shǐyòng héwǔqì	Anti-nuclear organizations want to ban the bomb.	5.375	0.0
 将军被授予最高权力。	jiāngjūn bèi shòuyǔ zuì gāo quánlì	The general was girded with the supreme power.	5.4	0.0
 饥荒十分严重，援助也只是杯水车薪。	jīhuāng shífēn yánzhòng yuánzhù yě zhǐshì bēishuǐchēxīn	The famine is so bad aid can only scratch the surface.	5.429	0.0
-来杯可口可乐，怎么样?	lái bēi Kěkǒukělè zěnmeyàng	How about a coke?	5.5	0.0
 早日举行大选确有可能.	zǎorì jǔxíng dàxuǎn què yǒukěnéng	An early general election is certainly on the cards.	5.5	0.0
 车祸现场附近交通极为混乱。	chēhuò xiànchǎng fùjìn jiāotōng jíwéi hùnluàn	Traffic was badly snarled up near the accident.	5.5	0.0
 政府并未向舆论让步.	zhèngfǔ bìng wèi xiàng yúlùn ràngbù	The government has not yielded to public opinion.	5.5	0.0
