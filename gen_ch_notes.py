@@ -147,11 +147,17 @@ def gen_ch_notes(word,
 
     sentences = get_sentence.get_sentence(word,new_cwd,mined_sentences_path)
 
+    #
+    # An error occurred for 中午: [Errno 22] Invalid argument: '我们中午能到牛津吗?.mp3'
+    #
+    # Clean Sentences
+    sentences = sentences.replace("?","")
+
     if not at_least_two_chinese_sentences(sentences):
         raise SentenceError(f"You need to add sentences for {word}\nEnd: {word}")
 
     print(f"Start: {word}\n{sentences}")
-
+    
     # sound for word
     media.append(os.path.abspath(text_to_mp3(word)))
 
@@ -167,7 +173,7 @@ def gen_ch_notes(word,
 
     #Images for sentence 1
     downloader.download(
-        sentences.split("\n")[0].split(",")[0].replace(",","").replace("?",""), 
+        sentences.split("\n")[0].split(",")[0].replace(",",""), 
         limit=num_images_to_download, 
         output_dir=img_output_dir,
         adult_filter_off=True, 
@@ -177,7 +183,7 @@ def gen_ch_notes(word,
 
     #Images for sentence 2
     downloader.download(
-        sentences.split("\n")[1].split(",")[0].replace(",","").replace("?",""), 
+        sentences.split("\n")[1].split(",")[0].replace(",",""), 
         limit=num_images_to_download, 
         output_dir=img_output_dir,
         adult_filter_off=True, 
@@ -187,10 +193,10 @@ def gen_ch_notes(word,
 
     convert_and_rename(word, media)
     convert_and_rename(
-        sentences.split("\n")[0].split(",")[0].replace(",","").replace("?",""), 
+        sentences.split("\n")[0].split(",")[0].replace(",",""), 
         media)
     convert_and_rename(
-        sentences.split("\n")[1].split(",")[0].replace(",","").replace("?",""), 
+        sentences.split("\n")[1].split(",")[0].replace(",",""), 
         media)
 
     media.append(os.path.abspath(text_to_mp3(sentences.split("\n")[0].split(",")[0])))
