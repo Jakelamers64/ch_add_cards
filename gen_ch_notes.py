@@ -152,6 +152,7 @@ def gen_ch_notes(word,
     #
     # Clean Sentences
     sentences = sentences.replace("?","")
+    sentences = sentences.replace("。","")
 
     if not at_least_two_chinese_sentences(sentences):
         raise SentenceError(f"You need to add sentences for {word}\nEnd: {word}")
@@ -173,7 +174,7 @@ def gen_ch_notes(word,
 
     #Images for sentence 1
     downloader.download(
-        sentences.split("\n")[0].split(",")[0].replace(",",""), 
+        sentences.split("\n")[0].split(",")[0].replace(",","").strip(), 
         limit=num_images_to_download, 
         output_dir=img_output_dir,
         adult_filter_off=True, 
@@ -183,7 +184,7 @@ def gen_ch_notes(word,
 
     #Images for sentence 2
     downloader.download(
-        sentences.split("\n")[1].split(",")[0].replace(",",""), 
+        sentences.split("\n")[1].split(",")[0].replace(",","").strip(), 
         limit=num_images_to_download, 
         output_dir=img_output_dir,
         adult_filter_off=True, 
