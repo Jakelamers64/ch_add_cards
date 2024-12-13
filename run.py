@@ -15,11 +15,8 @@
 #
 #################################################
 
-import gen_ch_notes
-import get_unknown
-import pandas as pd
+from gen_ch_anki import gen_ch_notes, get_unknown
 import genanki
-import csv
 import os
 import csv
 import glob
@@ -27,12 +24,12 @@ import shutil
 
 from pathlib import Path
 
-known_csv_path = 'Data\\known.csv'
+known_csv_path = 'Data/known.csv'
 folder_path = 'hsk_csv-master'
 
 # File paths
-csv_file_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\Data\known.csv'
-tsv_file_path = r'C:\Users\jakel\Desktop\Code\ch_add_cards\Data\known.tsv'
+csv_file_path = os.path.join(os.getcwd(),r'\Data\known.csv')
+tsv_file_path = os.path.join(os.getcwd(),r'\Data\known.tsv')
 
 def convert_csv_to_tsv(csv_file, tsv_file, encoding='utf-8'):
     with open(csv_file, 'r', encoding=encoding) as csv_in, open(tsv_file, 'w', newline='', encoding=encoding) as tsv_out:
@@ -42,7 +39,7 @@ def convert_csv_to_tsv(csv_file, tsv_file, encoding='utf-8'):
         for row in csv_reader:
             tsv_writer.writerow(row)
 
-convert_csv_to_tsv(known_csv_path, 'Data\\known.tsv')
+convert_csv_to_tsv(known_csv_path, './Data/known.tsv')
 
 unknown_words_result = get_unknown.process_data(known_csv_path, folder_path)
   
@@ -61,10 +58,36 @@ for index, row in words_to_add.iterrows():
     # 哲琪太太：嗯，坦白说，我不很好，小姐。今天早上我的狗被一辆车撞了。_Image_1.jpg'
     #row[0] = "小姐"
 
-    try:
-        gen_ch_notes.gen_ch_notes(row[0], row[1], row[2], my_deck, media)
+    gen_ch_notes.generate_chinese_notes(
+        row[0],
+        row[1],
+        row[2],
+        my_deck,
+        media,
+        config={
+            'img_output_dir': os.path.join(os.getcwd(), "Images"),
+            'known_chars_path': os.path.join(os.getcwd(), 'Data/known.tsv'),
+            'known_tsv_path': os.path.join(os.getcwd(), 'Data/known.tsv'),
+            'known_csv_path': os.path.join(os.getcwd(), 'Data/known.csv'),
+            'sentances_path_path': os.path.join(os.getcwd(), 'Data/sentences.tsv')
+        }
+    )
+
+    """try:
+        gen_ch_notes.generate_chinese_notes(
+            row[0],
+            row[1],
+            row[2],
+            my_deck,
+            media,
+            config={
+                'img_output_dir':os.path.join(os.getcwd(),"Images"),
+                'known_chars_path':os.path.join(os.getcwd(),'Data/known.tsv'),
+                'known_csv_path':os.path.join(os.getcwd(),'Data/known.csv')
+            }
+        )
     except Exception as e:
-        print(f"An error occurred for {row[0]}: {e}")
+        print(f"An error occurred for {row[0]}: {e}")"""
 
 # create package
 my_package = genanki.Package(my_deck)
