@@ -13,6 +13,8 @@
 #
 # - fix issue with 水果 not outputing a file
 #
+# Add sentances for 宾馆, 超市
+#
 #################################################
 
 from gen_ch_anki import gen_ch_notes, get_unknown
@@ -58,7 +60,7 @@ for index, row in words_to_add.iterrows():
     # 哲琪太太：嗯，坦白说，我不很好，小姐。今天早上我的狗被一辆车撞了。_Image_1.jpg'
     #row[0] = "小姐"
 
-    gen_ch_notes.generate_chinese_notes(
+    """gen_ch_notes.generate_chinese_notes(
         row[0],
         row[1],
         row[2],
@@ -71,9 +73,9 @@ for index, row in words_to_add.iterrows():
             'known_csv_path': os.path.join(os.getcwd(), 'Data/known.csv'),
             'sentances_path_path': os.path.join(os.getcwd(), 'Data/sentences.tsv')
         }
-    )
+    )"""
 
-    """try:
+    try:
         gen_ch_notes.generate_chinese_notes(
             row[0],
             row[1],
@@ -81,13 +83,15 @@ for index, row in words_to_add.iterrows():
             my_deck,
             media,
             config={
-                'img_output_dir':os.path.join(os.getcwd(),"Images"),
-                'known_chars_path':os.path.join(os.getcwd(),'Data/known.tsv'),
-                'known_csv_path':os.path.join(os.getcwd(),'Data/known.csv')
+                'img_output_dir': os.path.join(os.getcwd(), "Images"),
+                'known_chars_path': os.path.join(os.getcwd(), 'Data/known.tsv'),
+                'known_tsv_path': os.path.join(os.getcwd(), 'Data/known.tsv'),
+                'known_csv_path': os.path.join(os.getcwd(), 'Data/known.csv'),
+                'sentances_path_path': os.path.join(os.getcwd(), 'Data/sentences.tsv')
             }
         )
     except Exception as e:
-        print(f"An error occurred for {row[0]}: {e}")"""
+        print(f"An error occurred for {row[0]}: {e}")
 
 # create package
 my_package = genanki.Package(my_deck)

@@ -7,11 +7,13 @@ from bing_image_downloader import downloader
 from gtts import gTTS
 from PIL import Image
 from gen_ch_anki.assigner import best_sentences
+from icrawler.builtin import BingImageCrawler
 
 
 class SentenceError(Exception):
     """Custom exception for sentence-related errors"""
     pass
+
 
 
 # Define the Anki card model structure
@@ -64,6 +66,14 @@ class ChineseVocabModel:
         )
 
 
+def get_images(text,media_files,output_dir):
+    crawler = BingImageCrawler(storage={
+        'root_dir': f"{output_dir}/{text}"
+    })
+    crawler.crawl(keyword=text, max_num=5)
+
+    process_images(text, media_files, output_dir)
+
 def get_characters_to_write(word, known_chars_path, min_length=4):
     """
     Determines which characters from a word need to be practiced based on known characters.
@@ -102,7 +112,10 @@ def process_images(dir_name, media_list, output_dir, target_size=(300, 300)):
             try:
                 # Generate paths
                 original_path = os.path.join(root, filename)
-                new_filename = f"{os.path.basename(root)}_{filename}"
+                # Edit string from image crawl to text_Image_Num
+                new_filename = f"{os.path.basename(root)}_Image_{filename}"
+                new_filename = new_filename.replace("0","")
+                #
                 new_path = os.path.join(root, new_filename)
                 new_path = os.path.splitext(new_path)[0] + '.jpg'
 
@@ -258,15 +271,7 @@ def generate_chinese_notes(word, pinyin, definition, deck, media_files, config):
 
     # Download and process images
     for text in [word] + [s[0] for s in sentences]:
-        downloader.download(
-            text,
-            limit=3,
-            output_dir=config['img_output_dir'],
-            adult_filter_off=True,
-            force_replace=False,
-            timeout=60
-        )
-        process_images(text, media_files, config['img_output_dir'])
+        get_images(text, media_files, config['img_output_dir'])
 
     # Create character practice fields
     simp_chars = get_characters_to_write(word, config['known_chars_path'])
